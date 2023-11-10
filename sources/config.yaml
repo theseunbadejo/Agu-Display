@@ -1,7 +1,5 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - Nsibidi_Libre.glyphs
 axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - morf
+familyName: Nsibidi_Libre
