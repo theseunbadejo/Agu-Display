@@ -52,10 +52,57 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 
 Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
 
-Don't hesitate to create images!
+Nsibidi (also known as nsibiri, nchibiddi or nchibiddy) is an ancient system of graphic communication indigenous to the Ejagham peoples of southeastern Nigeria and southwestern Cameroon in the Cross River region. It is also used by neighboring Ibibio, Efik and Igbo peoples.
+
+Nsibidi Pictograms  have found their way into so many applications in modern typographic expressions, ranging from digital (Marvel with Black Panther and various logomarks), and print (as pattern on fabric, tattoos, logomarks) due to its nature as a pictographic script. 
+
+The Nsibidi Libre typeface is a vehicle for cultural preservation, storytelling, and bridging the gap between ancient symbolic communication and modern typographic expression.
+
+Here are a few early explorations I have worked on showing a set of Nsibidi Pictograms and a resultant set of Latin Alphabet Glyphs sketches inspired by the form of the Nsibidi Pictograms. 
 
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
+
+### Target Usage
+
+The Nsibidi Libre typeface needs to function at large sizes and also at really small sizes with details that would be reminiscent of it’s origins and would be interesting in print on things like product packaging and logos and in digital use cases like advertising headlines, online publications, tattoos, web pages..
+
+### Information about the desired design category
+
+The Nsibidi Libre typeface would be something in the line of a handwritten typeface, rounded, something in a realm defined by typefaces such as Kablammo, Amatic SC, and Jokerman. 
+
+### Character Sets, Language Support, Diacritics
+
+- Google Fonts GF Latin African character set (comprising GF Latin Kernel + GF Latin Core + GF Latin Vietnamese + GF Latin Plus + GF Latin African).
+    
+- Extended GF Latin African set to include Efik, Yoruba, Ibibio and Igbo languages and Diacritics support
+    
+- Basic Ligatures
+    
+- Emoji Support
+    
+- Otf, ttf, woff2
+    
+
+### Glyph Set Definition
+
+ Weights & Styles: Core weights and styles (Light, Medium, Semi-Bold, Bold).
+
+Note: A Google Sheet with a list of glyphs will be shared.
+
+### Scope of Work
+
+Variable Font - 3 Masters (Morph Axis)
+
+Character Set and Typographic Extras
+
+- Google Fonts GF Latin African character set (comprising GF Latin Kernel + GF Latin Core + GF Latin Vietnamese + Extended GF Latin African set to include Efik, Yoruba, Ibibio and Igbo languages and Diacritics support + GF Latin Plus ).
+    
+- Basic Ligatures
+    
+- Emoji Support
+    
+- Variable font support
 
 ## About
 
