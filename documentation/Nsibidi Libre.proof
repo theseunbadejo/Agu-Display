@@ -1,0 +1,239 @@
+{
+  "fonts" : {
+    "default" : 0,
+    "fontProjects" : [
+      {
+        "familyName" : "Nsibidi Libre",
+        "filePath" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
+        "id" : "0D62E978-5D06-4BDE-B591-05ECC0AB8B3F",
+        "type" : "GlyphsFormat3"
+      }
+    ],
+    "styles" : [
+      {
+        "active" : true,
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "m004",
+          "info" : {
+            "axisValues" : {
+              "morf" : 30
+            },
+            "designerName" : "Oluwaseun Badejo",
+            "familyName" : "Nsibidi Libre",
+            "fontSlant" : -0,
+            "styleName" : "3",
+            "upm" : 1000,
+            "version" : "1.000"
+          },
+          "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
+          "styleName" : "3",
+          "type" : "source"
+        }
+      }
+    ]
+  },
+  "info" : {
+    "lastExportedFiles" : [
+      "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/documentation/Nsibidi Libre_Font Proof_ 2023-11-30 at 13.04.59.pdf"
+    ],
+    "version" : 3
+  },
+  "sections" : [
+    {
+      "active" : true,
+      "content" : "hamburgefonstiv\radhesion\nOVHAMNPR",
+      "design" : {
+        "columnQuantity" : 0,
+        "columnWidths" : [
+          1584
+        ],
+        "continuousContent" : false,
+        "fontSizes" : [
+          200
+        ],
+        "textAlign" : "left"
+      },
+      "layout" : "columns",
+      "name" : "Basic Strings"
+    },
+    {
+      "active" : false,
+      "content" : "ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz",
+      "design" : {
+        "fontSize" : 28,
+        "styleArrangement" : "rows",
+        "textAlign" : "center"
+      },
+      "layout" : "styleComparison",
+      "name" : "Style Comparison Rows"
+    },
+    {
+      "active" : false,
+      "content" : "François-Marie Arouet (French pronunciation: 21 November 1694 – 30 May 1778), better known by the pen name Voltaire, was a French Enlightenment writer, historian and philosopher famous for his wit and for his advocacy of civil liberties, including freedom of religion, free trade and separation of church and state. Voltaire was a prolific writer, producing works in almost every literary form, including plays, poetry, novels, essays, and historical and scientific works. He wrote more than 20,000 letters and more than 2,000 books and pamphlets. He was an outspoken supporter of social reform, despite strict censorship laws with harsh penalties for those who broke them. As a satirical polemicist, he frequently made use of his works to criticize intolerance, religious dogma and the French institutions of his day. Voltaire was one of several Enlightenment figures (along with Montesquieu, John Locke, Jean-Jacques Rousseau, and Émilie du Châtelet) whose works and ideas influenced important thinkers of both the American and French Revolutions.",
+      "design" : {
+        "columnQuantity" : 2,
+        "fontSize" : 14,
+        "styleArrangement" : "columns",
+        "textAlign" : "left"
+      },
+      "layout" : "styleComparison",
+      "name" : "Style Comparison Columns"
+    },
+    {
+      "active" : true,
+      "content" : "amid fog a vast sea binds him. He dives fishes and aims. a sage behemoth is found saved and then heaves aside.\n\nHe fashioned a massive sign above his edifie. it shoes a vague image a nod to the massive fish he had ambitions to have.\n\nshe aims to behave amidst the massive fish as she navigates a domain of\rsand vibes and songs.\n\n",
+      "design" : {
+        "columnQuantity" : 0,
+        "columnWidths" : [
+
+        ],
+        "continuousContent" : false,
+        "fontSizes" : [
+          72
+        ],
+        "kerning" : true,
+        "openType" : [
+          "liga",
+          "calt",
+          "onum"
+        ],
+        "textAlign" : "left"
+      },
+      "layout" : "columns",
+      "name" : "Paragraphs"
+    },
+    {
+      "active" : true,
+      "content" : "François-Marie Arouet (French pronunciation: 21 November 1694 – 30 May 1778), better known by the pen name Voltaire, was a French Enlightenment writer, historian and philosopher famous for his wit and for his advocacy of civil liberties, including freedom of religion, free trade and separation of church and state. Voltaire was a prolific writer, producing works in almost every literary form, including plays, poetry, novels, essays, and historical and scientific works. He wrote more than 20,000 letters and more than 2,000 books and pamphlets. He was an outspoken supporter of social reform, despite strict censorship laws with harsh penalties for those who broke them. As a satirical polemicist, he frequently made use of his works to criticize intolerance, religious dogma and the French institutions of his day. Voltaire was one of several Enlightenment figures (along with Montesquieu, John Locke, Jean-Jacques Rousseau, and Émilie du Châtelet) whose works and ideas influenced important thinkers of both the American and French Revolutions.",
+      "design" : {
+        "columnQuantity" : 0,
+        "columnWidths" : [
+
+        ],
+        "continuousContent" : false,
+        "fontSizes" : [
+          56
+        ],
+        "kerning" : true,
+        "openType" : [
+          "liga",
+          "calt",
+          "onum"
+        ],
+        "textAlign" : "left"
+      },
+      "layout" : "columns",
+      "name" : "Paragraphs"
+    },
+    {
+      "active" : false,
+      "content" : "François-Marie Arouet (French pronunciation: 21 November 1694 – 30 May 1778), better known by the pen name Voltaire, was a French Enlightenment writer, historian and philosopher famous for his wit and for his advocacy of civil liberties, including freedom of religion, free trade and separation of church and state. Voltaire was a prolific writer, producing works in almost every literary form, including plays, poetry, novels, essays, and historical and scientific works. He wrote more than 20,000 letters and more than 2,000 books and pamphlets. He was an outspoken supporter of social reform, despite strict censorship laws with harsh penalties for those who broke them. As a satirical polemicist, he frequently made use of his works to criticize intolerance, religious dogma and the French institutions of his day. Voltaire was one of several Enlightenment figures (along with Montesquieu, John Locke, Jean-Jacques Rousseau, and Émilie du Châtelet) whose works and ideas influenced important thinkers of both the American and French Revolutions.",
+      "design" : {
+        "columnQuantity" : 0,
+        "continuousContent" : false,
+        "fontSizes" : [
+          12
+        ],
+        "textAlign" : "left",
+        "trackingMultiple" : [
+          -10,
+          0,
+          10
+        ]
+      },
+      "layout" : "columns",
+      "name" : "Tracking Comparison"
+    },
+    {
+      "active" : true,
+      "content" : "HH HOHO OO\nHHAHOHOAOO\nHHBHOHOBOO\nHHCHOHOCOO\nHHDHOHODOO\nHHEHOHOEOO\nHHFHOHOFOO\nHHGHOHOGOO\nHHHHOHOHOO\nHHIHOHOIOO\nHHJHOHOJOO\nHHKHOHOKOO\nHHLHOHOLOO\nHHMHOHOMOO\nHHNHOHONOO\nHHOHOHOOOO\nHHPHOHOPOO\nHHQHOHOQOO\nHHRHOHOROO\nHHSHOHOSOO\nHHTHOHOTOO\nHHUHOHOUOO\nHHVHOHOVOO\nHHWHOHOWOO\nHHXHOHOXOO\nHHYHOHOYOO\nHHZHOHOZOO\nnnanonoaoo\nnnbnonoboo\nnncnonocoo\nnndnonodoo\nnnenonoeoo\nnnfnonofoo\nnngnonogoo\nnnhnonohoo\nnninonoioo\nnnjnonojoo\nnnknonokoo\nnnlnonoloo\nnnmnonomoo\nnnnnononoo\nnnononoooo\nnnpnonopoo\nnnqnonoqoo\nnnrnonoroo\nnnsnonosoo\nnntnonotoo\nnnunonouoo\nnnvnonovoo\nnnwnonowoo",
+      "design" : {
+        "columnGutters" : [
+
+        ],
+        "columnQuantity" : 3,
+        "continuousContent" : true,
+        "fontSizes" : [
+          52
+        ],
+        "lineHeight" : 1.2,
+        "textAlign" : "left"
+      },
+      "layout" : "columns",
+      "name" : "Spacing"
+    },
+    {
+      "active" : false,
+      "content" : "AAABACADAEAFAGAHAIAJAKALAMANAOAPAQARASATAUAVAWAXAYAZA\nBABBBCBDBEBFBGBHBIBJBKBLBMBNBOBPBQBRBSBTBUBVBWBXBYBZB\nCACBCCCDCECFCGCHCICJCKCLCMCNCOCPCQCRCSCTCUCVCWCXCYCZC\nDADBDCDDDEDFDGDHDIDJDKDLDMDNDODPDQDRDSDTDUDVDWDXDYDZD\nEAEBECEDEEEFEGEHEIEJEKELEMENEOEPEQERESETEUEVEWEXEYEZE\nFAFBFCFDFEFFFGFHFIFJFKFLFMFNFOFPFQFRFSFTFUFVFWFXFYFZF\nGAGBGCGDGEGFGGGHGIGJGKGLGMGNGOGPGQGRGSGTGUGVGWGXGYGZG\nHAHBHCHDHEHFHGHHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\nIAIBICIDIEIFIGIHIIIJIKILIMINIOIPIQIRISITIUIVIWIXIYIZI\nJAJBJCJDJEJFJGJHJIJJJKJLJMJNJOJPJQJRJSJTJUJVJWJXJYJZJ\nKAKBKCKDKEKFKGKHKIKJKKKLKMKNKOKPKQKRKSKTKUKVKWKXKYKZK\nLALBLCLDLELFLGLHLILJLKLLLMLNLOLPLQLRLSLTLULVLWLXLYLZL\nMAMBMCMDMEMFMGMHMIMJMKMLMMMNMOMPMQMRMSMTMUMVMWMXMYMZM\nNANBNCNDNENFNGNHNINJNKNLNMNNNONPNQNRNSNTNUNVNWNXNYNZN\nOAOBOCODOEOFOGOHOIOJOKOLOMONOOOPOQOROSOTOUOVOWOXOYOZO\nPAPBPCPDPEPFPGPHPIPJPKPLPMPNPOPPPQPRPSPTPUPVPWPXPYPZP\nQAQBQCQDQEQFQGQHQIQJQKQLQMQNQOQPQQQRQSQTQUQVQWQXQYQZQ\nRARBRCRDRERFRGRHRIRJRKRLRMRNRORPRQRRRSRTRURVRWRXRYRZR\nSASBSCSDSESFSGSHSISJSKSLSMSNSOSPSQSRSSSTSUSVSWSXSYSZS\nTATBTCTDTETFTGTHTITJTKTLTMTNTOTPTQTRTSTTTUTVTWTXTYTZT\nUAUBUCUDUEUFUGUHUIUJUKULUMUNUOUPUQURUSUTUUUVUWUXUYUZU\nVAVBVCVDVEVFVGVHVIVJVKVLVMVNVOVPVQVRVSVTVUVVVWVXVYVZV\nWAWBWCWDWEWFWGWHWIWJWKWLWMWNWOWPWQWRWSWTWUWVWWWXWYWZW\nXAXBXCXDXEXFXGXHXIXJXKXLXMXNXOXPXQXRXSXTXUXVXWXXXYXZX\nYAYBYCYDYEYFYGYHYIYJYKYLYMYNYOYPYQYRYSYTYUYVYWYXYYYZY\nZAZBZCZDZEZFZGZHZIZJZKZLZMZNZOZPZQZRZSZTZUZVZWZXZYZZZ",
+      "design" : {
+        "fontSize" : 16,
+        "textAlign" : "left"
+      },
+      "layout" : "simple",
+      "name" : "Uppercase Combos"
+    },
+    {
+      "active" : false,
+      "content" : "enoag",
+      "design" : {
+        "glyphInfoLabels" : {
+          "glyphName" : true
+        },
+        "glyphOverlays" : {
+          "metricLines" : true
+        },
+        "gridFontSize" : 200,
+        "gridItemsPerLine" : 0
+      },
+      "layout" : "glyphGrid",
+      "name" : "Recent Glyphs"
+    },
+    {
+      "active" : false,
+      "content" : "",
+      "design" : {
+        "glyphInfoLabels" : {
+          "glyphName" : true
+        },
+        "glyphOverlays" : {
+          "metricLines" : true
+        },
+        "gridFontSize" : 72,
+        "gridItemsPerLine" : 8
+      },
+      "layout" : "glyphGrid",
+      "name" : "All Glyphs"
+    }
+  ],
+  "settings" : {
+    "exportedFiles" : {
+      "addStyleName" : false,
+      "addTimestamp" : true,
+      "exportFolder" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/documentation",
+      "fileName" : "Nsibidi Libre_Font Proof_",
+      "multiplePDFs" : false
+    },
+    "header" : {
+      "localizeDate" : false,
+      "showDesigner" : true,
+      "showFileName" : false,
+      "showSectionName" : false,
+      "showVersion" : true
+    },
+    "labels" : {
+      "currentFont" : false,
+      "font" : "Avenir Next",
+      "fontSize" : 16
+    },
+    "pageSize" : {
+      "height" : 1188,
+      "width" : 1684.8
+    },
+    "removeEmptyGlyphs" : true,
+    "units" : {
+      "layout" : "in",
+      "typography" : "pt"
+    }
+  }
+}
