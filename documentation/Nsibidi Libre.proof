@@ -37,13 +37,13 @@
   },
   "info" : {
     "lastExportedFiles" : [
-      "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/documentation/Nsibidi Libre_Font Proof_ 2023-12-11 at 22.58.14.pdf"
+      "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/documentation/Nsibidi Libre_Font Proof_ 2023-12-13 at 01.18.18.pdf"
     ],
     "version" : 3
   },
   "sections" : [
     {
-      "active" : true,
+      "active" : false,
       "content" : "HAMBURGEFONTSIV\nhamburgefontsiv\nADHESION\nadhesion",
       "design" : {
         "fontSize" : 120,
@@ -51,6 +51,16 @@
       },
       "layout" : "simple",
       "name" : "Basic Strings"
+    },
+    {
+      "active" : true,
+      "content" : "\nABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n1234567890.,:;\"!?",
+      "design" : {
+        "fontSize" : 120,
+        "textAlign" : "center"
+      },
+      "layout" : "simple",
+      "name" : "A-Z, 0-9"
     },
     {
       "active" : true,
@@ -94,13 +104,19 @@
     },
     {
       "active" : true,
-      "content" : "\nABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n1234567890",
+      "content" : "In the era before recorded history, the region now recognized as Igbo territory in Nigeria was a cradle of profound socio-cultural and spiritual development. This ancient society, thriving in the heart of Africa, was marked by its unique system of governance, intricate rituals, and a deep connection to the earth and its bounty.\n\nCommunities in prehistoric Igbo territory were often organized in a democratic fashion, with decisions made through a consensus of elders, a testament to their emphasis on communal harmony and respect for experience and wisdom. Agriculture was a cornerstone of their existence, with yams, cassava, and other crops forming the basis of their diet, underscoring their adeptness in harmonizing with the natural world.\n\nSpirituality and ritual were deeply woven into the fabric of daily life. The Igbo held a profound belief in a supreme deity, known as Chukwu, who was thought to be the source of all creation and spiritual power. This belief system was complemented by a rich pantheon of minor deities, each overseeing different aspects of the natural and spiritual.\n\nArt and craftsmanship were also significant, with the Igbo people excelling in wood carving, bronze casting, and pottery. These art forms were not only aesthetic expressions but also served as mediums for spiritual and historical narratives, preserving the stories and beliefs of the people through generations.\n\nThe societal structure was also notable for its inclusivity and fluidity. Titles and status were often earned based on personal achievements and contributions to the community, rather than inherited, reflecting a culture that valued individual merit and communal contribution.\n\nIn summary, prehistoric Igbo land was a region rich in culture, spirituality, and democratic principles, deeply connected to the earth and its cycles, and marked by a vibrant community life that celebrated art, ritual, and the value of individual and collective contribution.",
       "design" : {
-        "fontSize" : 120,
-        "textAlign" : "center"
+        "fontSize" : 32,
+        "kerning" : true,
+        "openType" : [
+          "liga",
+          "calt",
+          "onum"
+        ],
+        "textAlign" : "left"
       },
       "layout" : "simple",
-      "name" : "A-Z, 0-9"
+      "name" : "Paragraph, All Letters"
     },
     {
       "active" : false,
@@ -117,22 +133,6 @@
       },
       "layout" : "glyphGrid",
       "name" : "Updated Glyphs"
-    },
-    {
-      "active" : true,
-      "content" : "In the era before recorded history, the region now recognized as Igbo territory in Nigeria was a cradle of profound socio-cultural and spiritual development. This ancient society, thriving in the heart of Africa, was marked by its unique system of governance, intricate rituals, and a deep connection to the earth and its bounty.\n\nCommunities in prehistoric Igbo territory were often organized in a democratic fashion, with decisions made through a consensus of elders, a testament to their emphasis on communal harmony and respect for experience and wisdom. Agriculture was a cornerstone of their existence, with yams, cassava, and other crops forming the basis of their diet, underscoring their adeptness in harmonizing with the natural world.\n\nSpirituality and ritual were deeply woven into the fabric of daily life. The Igbo held a profound belief in a supreme deity, known as Chukwu, who was thought to be the source of all creation and spiritual power. This belief system was complemented by a rich pantheon of minor deities, each overseeing different aspects of the natural and spiritual.\n\nArt and craftsmanship were also significant, with the Igbo people excelling in wood carving, bronze casting, and pottery. These art forms were not only aesthetic expressions but also served as mediums for spiritual and historical narratives, preserving the stories and beliefs of the people through generations.\n\nThe societal structure was also notable for its inclusivity and fluidity. Titles and status were often earned based on personal achievements and contributions to the community, rather than inherited, reflecting a culture that valued individual merit and communal contribution.\n\nIn summary, prehistoric Igbo land was a region rich in culture, spirituality, and democratic principles, deeply connected to the earth and its cycles, and marked by a vibrant community life that celebrated art, ritual, and the value of individual and collective contribution.",
-      "design" : {
-        "fontSize" : 48,
-        "kerning" : true,
-        "openType" : [
-          "liga",
-          "calt",
-          "onum"
-        ],
-        "textAlign" : "left"
-      },
-      "layout" : "simple",
-      "name" : "Paragraph, All Letters"
     },
     {
       "active" : true,
@@ -243,14 +243,54 @@
       "name" : "Sentence Case, String 02"
     },
     {
-      "active" : false,
-      "content" : "HAMBURGEFONTSIV\nhamburgefontsiv\nADHESION\nadhesion",
+      "active" : true,
+      "content" : "01020304050607080900\n91929394959697989909\n81828384858687889808\n71727374757677879707\n61626364656676869606\n51525354556575859505\n41424344546474849404\n31323343536373839303\n21223242526272829202\n11213141516171819101",
       "design" : {
         "fontSize" : 48,
         "textAlign" : "left"
       },
       "layout" : "simple",
       "name" : "Number Strings"
+    },
+    {
+      "active" : true,
+      "content" : "\"5678 Red apples cost 45.67 each. There are 123456789 stars in the galaxy, and the speed of light is approximately 299,792,458 meters per second. The equation 2x 3y 10 represents a linear relationship between x and y. Let's analyze this diverse mix of text and numbers.\"",
+      "design" : {
+        "columnQuantity" : 0,
+        "columnWidths" : [
+
+        ],
+        "continuousContent" : false,
+        "fontSizes" : [
+          48
+        ],
+        "kerning" : true,
+        "openType" : [
+          "liga",
+          "calt",
+          "onum"
+        ],
+        "textAlign" : "left"
+      },
+      "layout" : "columns",
+      "name" : "Number and Text Strings 01"
+    },
+    {
+      "active" : true,
+      "content" : "\"Nsibidi, emerging over 1,000 years ago in Nigeria, represents more than mere symbols; it embodies a rich, cultural narrative. The Ejagham people, primarily in southeastern Nigeria and parts of Cameroon, developed this script. It was adopted by various groups, including the Efik, Ibibio, and Igbo.\"\n\n\"In its early days, Nsibidi (c. 5th-century A.D.) was not just a writing system but a cultural cornerstone. It was inscribed on wood, calabashes, and earth; each symbol held deep meaning, often understood only by select few - such as members of the Ekpe society.\"\n\n\"By the 19th and 20th centuries, European influences altered Nsibidi's trajectory. The introduction of the Latin alphabet and colonial policies contributed to its decline. However, even by the early 1900s, over 1,000 Nsibidi symbols were documented.\"\n\n\"Today, there's a revival. Nsibidi's visual appeal has influenced modern art and media; it was notably featured in 2018's 'Black Panther.' This script, with its intricate designs, has become a symbol of Nigeria's rich heritage.\"\n\n\"Conclusion: Nsibidi's journey - from a secretive script to a symbol of cultural pride - underscores the resilience of indigenous knowledge systems. In 2023, as Nigeria's tapestry evolves, Nsibidi remains a vibrant testament to the nation's diverse history.\"\n\n\"Fun Fact: Did you know? Nsibidi was traditionally used in storytelling and judicial contexts, and its complexity was such that certain symbols could convey an entire narrative!\"",
+      "design" : {
+        "fontSize" : 32,
+        "kerning" : true,
+        "openType" : [
+          "liga",
+          "calt",
+          "onum"
+        ],
+        "textAlign" : "left",
+        "yPosition" : "auto"
+      },
+      "layout" : "simple",
+      "name" : "Number and Text Strings 02"
     },
     {
       "active" : false,
