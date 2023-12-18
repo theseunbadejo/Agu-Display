@@ -37,13 +37,13 @@
   },
   "info" : {
     "lastExportedFiles" : [
-      "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/documentation/Nsibidi Libre_Font Proof_ 2023-12-13 at 01.18.18.pdf"
+      "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/documentation/Nsibidi Libre_Font Proof_ 2023-12-18 at 12.52.06.pdf"
     ],
     "version" : 3
   },
   "sections" : [
     {
-      "active" : false,
+      "active" : true,
       "content" : "HAMBURGEFONTSIV\nhamburgefontsiv\nADHESION\nadhesion",
       "design" : {
         "fontSize" : 120,
@@ -51,16 +51,6 @@
       },
       "layout" : "simple",
       "name" : "Basic Strings"
-    },
-    {
-      "active" : true,
-      "content" : "\nABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n1234567890.,:;\"!?",
-      "design" : {
-        "fontSize" : 120,
-        "textAlign" : "center"
-      },
-      "layout" : "simple",
-      "name" : "A-Z, 0-9"
     },
     {
       "active" : true,
@@ -133,6 +123,16 @@
       },
       "layout" : "glyphGrid",
       "name" : "Updated Glyphs"
+    },
+    {
+      "active" : true,
+      "content" : "\nABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n1234567890.,:;\"!?",
+      "design" : {
+        "fontSize" : 120,
+        "textAlign" : "center"
+      },
+      "layout" : "simple",
+      "name" : "A-Z, 0-9"
     },
     {
       "active" : true,
