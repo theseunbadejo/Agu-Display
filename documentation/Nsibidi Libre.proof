@@ -5,7 +5,7 @@
       {
         "familyName" : "Nsibidi Libre",
         "filePath" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
-        "id" : "585C076B-6889-4BE6-BA1E-29CAF28FEE66",
+        "id" : "8545EF62-7057-4CF6-9204-35BE01FD8269",
         "type" : "GlyphsFormat3"
       }
     ],
@@ -25,7 +25,7 @@
             "fontSlant" : -0,
             "styleName" : "3",
             "upm" : 1000,
-            "version" : "1.000"
+            "version" : "1.011"
           },
           "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
           "styleName" : "3",
@@ -47,7 +47,7 @@
             "fontSlant" : -0,
             "styleName" : "2",
             "upm" : 1000,
-            "version" : "1.000"
+            "version" : "1.011"
           },
           "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
           "styleName" : "2",
@@ -68,7 +68,7 @@
             "fontSlant" : -0,
             "styleName" : "1",
             "upm" : 1000,
-            "version" : "1.000"
+            "version" : "1.011"
           },
           "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
           "styleName" : "1",
@@ -89,7 +89,7 @@
             "fontSlant" : -0,
             "styleName" : "0",
             "upm" : 1000,
-            "version" : "1.000"
+            "version" : "1.011"
           },
           "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
           "styleName" : "0",
