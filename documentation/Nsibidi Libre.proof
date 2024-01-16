@@ -40,14 +40,14 @@
           "id" : "m003",
           "info" : {
             "axisValues" : {
-              "morf" : 20
+              "morf" : 2
             },
             "designerName" : "Oluwaseun Badejo",
             "familyName" : "Nsibidi Libre",
             "fontSlant" : -0,
             "styleName" : "2",
             "upm" : 1000,
-            "version" : "1.011"
+            "version" : "1.012"
           },
           "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
           "styleName" : "2",
@@ -61,14 +61,14 @@
           "id" : "m002",
           "info" : {
             "axisValues" : {
-              "morf" : 10
+              "morf" : 1
             },
             "designerName" : "Oluwaseun Badejo",
             "familyName" : "Nsibidi Libre",
             "fontSlant" : -0,
             "styleName" : "1",
             "upm" : 1000,
-            "version" : "1.011"
+            "version" : "1.012"
           },
           "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
           "styleName" : "1",
@@ -89,7 +89,7 @@
             "fontSlant" : -0,
             "styleName" : "0",
             "upm" : 1000,
-            "version" : "1.011"
+            "version" : "1.012"
           },
           "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
           "styleName" : "0",
