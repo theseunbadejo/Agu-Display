@@ -1,4 +1,3 @@
-![image](https://github.com/theseunbadejo/nsibidi-libre/assets/47482372/48aa6778-4bd4-4c2a-be45-9363e00960aa)# Nsibidi Libre
 
 [![][Fontbakery]](https://theseunbadejo.github.io/nsibidi-libre/fontbakery/fontbakery-report.html)
 [![][Universal]](https://theseunbadejo.github.io/nsibidi-libre/fontbakery/fontbakery-report.html)
@@ -19,7 +18,7 @@ Nsibidi Pictograms  have found their way into so many applications in modern ty
 The Nsibidi Libre typeface is a vehicle for cultural preservation, storytelling, and bridging the gap between ancient symbolic communication and modern typographic expression.
 
 ![Nsibidi Libre](documentation/NL1.gif)
-
+![image](https://github.com/theseunbadejo/nsibidi-libre/assets/47482372/48aa6778-4bd4-4c2a-be45-9363e00960aa)# Nsibidi Libre
 
 ## About
 
