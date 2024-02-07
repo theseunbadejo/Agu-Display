@@ -1,42 +1,4 @@
-----
-
-## Setting up your font
-
-* **New repositories.** Hit the green button above ("Use this template") to create your own repository. We then need to update the workflow permissions. Go to Settings > Actions > General > Workflow permissions and enable "Read and write permissions". Finally, rerun the failed github action by going to Actions > Initial commit > Re-run jobs > Re-run all jobs.
-
-*Please note that a Github Action job will be executed once you've created the repository which will populate the readme and build dependencies. This job will fail because it was executed with incorrect permissions. The steps above will fix the permissions issue and rerun the job. Please wait for the job to complete and pass before pulling the repo to your local system.*
-
-* **Updating a repository.** To update your font repository to bring in the latest best-practices from the Google Fonts Project Template, run `make update-project-template` from the command line.
-
-* Replace the font sources in the `sources` directory with your own font sources. These sources may be either in Glyphs format or UFO/Designspace formats.\
-\
-Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped to the platform have to match the [Google Fonts Specifications](https://github.com/googlefonts/gf-docs/tree/main/Spec). Please read them carefully.\
-\
-*(The sample font provided in this template is [Rubik](https://github.com/googlefonts/rubik/) by Philipp Hubert, Sebastian Fischer, and contributors.)*
-
-* Then reference the sources in the file `sources/config.yaml`, as well as making any other changes you would like to make based on the instructions in the [Google Fonts Builder documentation](https://github.com/googlefonts/gftools/blob/main/Lib/gftools/builder/__init__.py).
-
-* `CustomFilter_GF_Latin_All.plist` in `sources` is practical if you use GlyphsApp, you can remove it otherwise. Placed in the same directory as the your `.glyphs` file, it will allow Glyphs to display a filter list for all GF Latin glyphsets in app. To make sure your font supports the minimal set required by Google Fonts, look at the `GF_Latin_Core` filter list. Find other glyphsets and list formats for different software in [GF Glyphsets repository](https://github.com/googlefonts/glyphsets/tree/main/GF_glyphsets).
-
-* Add yourself to the `AUTHORS.txt` and `CONTRIBUTORS.txt` files.
-
-* Update the first line of the OFL.txt (year and project name). Update also the Copyright string in the sources, it has to be the same as the OFL.txt. The `.glyphs` file in this repo gives you required base charset and font info.
-
-* Finally, add and commit any files you have modified (i.e. `README.md`, `AUTHORS.txt`, `CONTRIBUTORS.txt`, the font sources, and `sources/config.yaml`) to git, then push to GitHub. Please be aware that Github Actions may take a few minutes to build your font family. It is worthwhile inspecting the progress in the "Actions" tab.
-
-* Fill out `DESCRIPTION.en_us.html` with a description about your font.
-
-* If Github Actions has successfully built the family, you will find the font binaries in the Actions tab. The official Github Actions documentation provides further [information](https://docs.github.com/en/actions/managing-workflow-runs/downloading-workflow-artifacts).
-
-* Once you are happy with your font, add promotional assets in the documentation directory. Make it different from the pic you use in this README. You can get inspired by existing tweet @googlefonts like: https://twitter.com/googlefonts/status/1415562928657416192.
-
-* Google Fonts uses Github Releases to manage font families. If you feel your font project has hit a milestone, you must create a new release for it. In order to do this, go to the releases page and hit the "Draft a new release button". You must provide a tag number and title which can only be a decimal number e.g 0.100, 1.000 etc. For the body text, mention what has changed since the last release. Once you are done, hit the "Publish release" button. Here is an example which fulfills the requirements, https://github.com/m4rc1e/test-ufr-family/releases/tag/2.019. For more info regarding Github release, please see the official Github Release [documentation](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). **Please note that Github Actions must be able to build the fonts before you can make a release. Once you have made a release, the fonts and tests assets will be attached to the release automatically. This may take a while since the fonts and tests will be built from scratch so please be patient.**
-
-* Remove this section from the readme. :-)
-----
-
-
-# My Font
+![image](https://github.com/theseunbadejo/nsibidi-libre/assets/47482372/48aa6778-4bd4-4c2a-be45-9363e00960aa)# Nsibidi Libre
 
 [![][Fontbakery]](https://theseunbadejo.github.io/nsibidi-libre/fontbakery/fontbakery-report.html)
 [![][Universal]](https://theseunbadejo.github.io/nsibidi-libre/fontbakery/fontbakery-report.html)
@@ -50,63 +12,18 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2Fnsibidi-libre%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2Fnsibidi-libre%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
-
 Nsibidi (also known as nsibiri, nchibiddi or nchibiddy) is an ancient system of graphic communication indigenous to the Ejagham peoples of southeastern Nigeria and southwestern Cameroon in the Cross River region. It is also used by neighboring Ibibio, Efik and Igbo peoples.
 
 Nsibidi Pictograms  have found their way into so many applications in modern typographic expressions, ranging from digital (Marvel with Black Panther and various logomarks), and print (as pattern on fabric, tattoos, logomarks) due to its nature as a pictographic script. 
 
 The Nsibidi Libre typeface is a vehicle for cultural preservation, storytelling, and bridging the gap between ancient symbolic communication and modern typographic expression.
 
-Here are a few early explorations I have worked on showing a set of Nsibidi Pictograms and a resultant set of Latin Alphabet Glyphs sketches inspired by the form of the Nsibidi Pictograms. 
+![Nsibidi Libre](documentation/NL1.gif)
 
-![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png)
-
-### Target Usage
-
-The Nsibidi Libre typeface needs to function at large sizes and also at really small sizes with details that would be reminiscent of it’s origins and would be interesting in print on things like product packaging and logos and in digital use cases like advertising headlines, online publications, tattoos, web pages..
-
-### Information about the desired design category
-
-The Nsibidi Libre typeface would be something in the line of a handwritten typeface, rounded, something in a realm defined by typefaces such as Kablammo, Amatic SC, and Jokerman. 
-
-### Character Sets, Language Support, Diacritics
-
-- Google Fonts GF Latin African character set (comprising GF Latin Kernel + GF Latin Core + GF Latin Vietnamese + GF Latin Plus + GF Latin African).
-    
-- Extended GF Latin African set to include Efik, Yoruba, Ibibio and Igbo languages and Diacritics support
-    
-- Basic Ligatures
-    
-- Emoji Support
-    
-- Otf, ttf, woff2
-    
-
-### Glyph Set Definition
-
- Weights & Styles: Core weights and styles (Light, Medium, Semi-Bold, Bold).
-
-Note: A Google Sheet with a list of glyphs will be shared.
-
-### Scope of Work
-
-Variable Font - 3 Masters (Morph Axis)
-
-Character Set and Typographic Extras
-
-- Google Fonts GF Latin African character set (comprising GF Latin Kernel + GF Latin Core + GF Latin Vietnamese + Extended GF Latin African set to include Efik, Yoruba, Ibibio and Igbo languages and Diacritics support + GF Latin Plus ).
-    
-- Basic Ligatures
-    
-- Emoji Support
-    
-- Variable font support
 
 ## About
 
-Description of you and/or organisation goes here.
+Oluwaseun Badejo is a Graphic and Type Designer from Lagos, Nigeria
 
 ## Building
 
