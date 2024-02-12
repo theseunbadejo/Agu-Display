@@ -47,6 +47,10 @@ customParameters = (
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2023-10-07 20:47:59 +0000";
@@ -79162,6 +79166,27 @@ unicode = 32;
 },
 {
 color = 1;
+glyphname = nbspace;
+lastChange = "2024-02-12 13:36:16 +0000";
+layers = (
+{
+layerId = m01;
+width = 315;
+},
+{
+layerId = m002;
+width = 315;
+},
+{
+layerId = m003;
+width = 315;
+}
+);
+metricWidth = space;
+unicode = 160;
+},
+{
+color = 1;
 glyphname = "leftanglebracket-math";
 lastChange = "2024-02-07 15:23:36 +0000";
 layers = (
@@ -83815,28 +83840,6 @@ width = 600;
 unicode = 7626;
 },
 {
-category = Mark;
-color = 0;
-glyphname = LongStrokecomb;
-lastChange = "2024-02-06 07:54:42 +0000";
-layers = (
-{
-layerId = m01;
-width = 600;
-},
-{
-layerId = m002;
-width = 600;
-},
-{
-layerId = m003;
-width = 600;
-}
-);
-subCategory = Nonspacing;
-unicode = 822;
-},
-{
 color = 5;
 glyphname = dieresiscomb;
 lastChange = "2024-02-07 15:26:11 +0000";
@@ -88405,6 +88408,28 @@ width = 280;
 }
 );
 unicode = 821;
+},
+{
+category = Mark;
+color = 0;
+glyphname = LongStrokecomb;
+lastChange = "2024-02-06 07:54:42 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+subCategory = Nonspacing;
+unicode = 822;
 },
 {
 color = 1;
