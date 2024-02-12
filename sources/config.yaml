@@ -3,3 +3,5 @@ sources:
 axisOrder:
   - morf
 familyName: Nsibidi Libre
+autohintOTF: False
+autohintTTF: False
