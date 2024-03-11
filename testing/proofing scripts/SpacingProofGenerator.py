@@ -8,25 +8,21 @@ import datetime;
 #------------------ 
 
 timestamp = str(datetime.datetime.now().strftime('%Y-%m-%d_%H-%M'))
-fileName = '~/Desktop/Temp/KablammoSpacingProof-' + timestamp + '.pdf'
+fileName = '/Users/53vn/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/testing/proofs' + timestamp + '.pdf'
 
 
 fonts = [
     {
-        'title': 'Zoink',
-        'fontPath': '../../fonts/otf/Kablammo-Zoink.otf'
+        'title': 'Uzo',
+        'fontPath': '/Users/53vn/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/fonts/otf/NsibidiLibre-Uzo.otf'
     },
     {
-        'title': 'Bloop',
-        'fontPath': '../../fonts/otf/Kablammo-Bloop.otf'
+        'title': 'Onye',
+        'fontPath': '/Users/53vn/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/fonts/otf/NsibidiLibre-Onye.otf'
     },
     {
-        'title': 'Splat',
-        'fontPath': '../../fonts/otf/Kablammo-Splat.otf'
-    },
-    {
-        'title': 'Eek',
-        'fontPath': '../../fonts/otf/Kablammo-Eek.otf'
+        'title': 'Ato',
+        'fontPath': '/Users/53vn/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/fonts/otf/NsibidiLibre-Ato.otf'
     }
 ]
 
@@ -53,17 +49,17 @@ textBoxWidth = docWidth - leftMargin - rightMargin
 textBoxHeight = docHeight - topMargin - bottomMargin
 
 showTitle = True # enable if you'd like to display the title
-pageTitle = 'Kablammo Test: ' + timestamp
+pageTitle = 'Nsibidi Test: ' + timestamp
 
 # font settings for page titles and headers
-titleFont = 'VCTR Mono'
+titleFont = 'PP Supply Mono'
 titleFontSize = 12
 titleTextColorR, titleTextColorG, titleTextColorB, titleTextColorA = 0,0,0,1
 titleX, titleY = docWidth/2, docHeight - 50
 
 
 # if there are any glyphs or glyphs with suffixes, you'd like to ignore, list them here.
-blacklistSuffixes = ['.rev', '.bottomless', '.topless', '.nodot', '.toplessbottomless', '.midless']
+blacklistSuffixes = ['.chevron', '.longbones', '.longbristles', '.longkebab', '.longladder', '.shortbones', '.shortkebab', '.shortladder', '.shortbristles']
 
 #------------------ 
 # End Customization

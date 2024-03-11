@@ -9,7 +9,8 @@ AMEJI
 ELIZABETH
 BADEJO
 OJUJU",
-"ABCDEFGHIJKLMNOPQRSTUVWXYZ
+"ABCDEFGHIJKLMNOPQR
+STUVWXYZ
 
 abcdefghijklmnopqrstuvwxyz
 1234567890 .,:;!?\"“”
@@ -25,7 +26,8 @@ OPQSVWYZdekyhna27TMNoRs,
 ".,:;…!¡?¿·•*‖#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'|",
 "ƒ฿꞉ˮ˗꞊@&¶§©®™°′″|¦†ℓ‡℮№₿₵¢₡¤$₫€₲₴₭₾₺₼₦₱₽₨₹₪£₸₮₩¥+−×÷=≠><≥≤±≈~¬^∅∞∫Ω∆∏∑√∂µ%‰↑↗→↘↓↙←↖↔↕□◌",
 "PⱣ",
-"/_part.chevron/_part.longBristles/_part.longbones/_part.longkebab/_part.longladder/_part.shortBristles/_part.shortbones/_part.shortkebab/_part.shortladder"
+"/_part.chevron/_part.longbones/_part.longkebab/_part.longladder/_part.shortbones/_part.shortkebab/_part.shortladder",
+"“"
 );
 axes = (
 {
@@ -51,6 +53,12 @@ fontMaster = (
 axesValues = (
 0
 );
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = N;
+}
+);
 iconName = Condensed;
 id = m01;
 metricValues = (
@@ -74,7 +82,7 @@ over = -16;
 pos = -300;
 }
 );
-name = "0";
+name = Uzo;
 userData = {
 GSCornerRadius = 56;
 GSRoughenHorizontal = 8;
@@ -84,7 +92,13 @@ GSRoughenVertical = 8;
 },
 {
 axesValues = (
-40
+30
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = N;
+}
 );
 iconName = SemiBold;
 id = m002;
@@ -109,7 +123,7 @@ over = -16;
 pos = -300;
 }
 );
-name = "1";
+name = Onye;
 userData = {
 GSCornerRadius = 26;
 GSRoughenHorizontal = 8;
@@ -120,6 +134,12 @@ GSRoughenVertical = 8;
 {
 axesValues = (
 60
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = N;
+}
 );
 iconName = Bold_Extended;
 id = m003;
@@ -144,7 +164,7 @@ over = -16;
 pos = -300;
 }
 );
-name = "2";
+name = Ato;
 userData = {
 GSCornerRadius = 22;
 GSRoughenHorizontal = 8;
@@ -158,7 +178,7 @@ glyphs = (
 {
 color = 5;
 glyphname = A;
-lastChange = "2024-03-04 10:03:17 +0000";
+lastChange = "2024-03-09 15:25:37 +0000";
 layers = (
 {
 anchors = (
@@ -252,7 +272,7 @@ ref = _part.chevron;
 scale = (1,-1);
 },
 {
-pos = (6,237);
+pos = (7,237);
 ref = _part.longbones;
 },
 {
@@ -475,12 +495,12 @@ ref = _part.longbones;
 },
 {
 pos = (418,-198);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (197,-198);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-53,0);
@@ -585,7 +605,7 @@ ref = _part.chevron;
 scale = (1,-1);
 },
 {
-pos = (6,237);
+pos = (7,237);
 ref = _part.longbones;
 },
 {
@@ -808,12 +828,12 @@ ref = _part.longbones;
 },
 {
 pos = (418,-198);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (197,-198);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-53,0);
@@ -918,7 +938,7 @@ ref = _part.chevron;
 scale = (1,-1);
 },
 {
-pos = (6,237);
+pos = (7,237);
 ref = _part.longbones;
 },
 {
@@ -1141,12 +1161,12 @@ ref = _part.longbones;
 },
 {
 pos = (418,-198);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (197,-198);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-53,0);
@@ -3184,12 +3204,12 @@ ref = _part.chevron;
 },
 {
 pos = (614,-396);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (38,-396);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -3213,11 +3233,11 @@ nodes = (
 {
 angle = 180;
 pos = (615,1137);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (39,1137);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -3568,12 +3588,12 @@ ref = _part.chevron;
 },
 {
 pos = (614,-396);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (38,-396);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -3597,11 +3617,11 @@ nodes = (
 {
 angle = 180;
 pos = (615,1137);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (39,1137);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -3847,12 +3867,12 @@ ref = _part.chevron;
 },
 {
 pos = (614,-396);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (38,-396);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -3876,11 +3896,11 @@ nodes = (
 {
 angle = 180;
 pos = (615,1137);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (39,1137);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -5154,13 +5174,13 @@ ref = _part.longladder;
 },
 {
 pos = (574,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 180;
 pos = (574,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 711;
@@ -5442,13 +5462,13 @@ ref = _part.longladder;
 },
 {
 pos = (574,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 180;
 pos = (574,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 711;
@@ -5742,13 +5762,13 @@ ref = _part.longladder;
 },
 {
 pos = (574,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 180;
 pos = (574,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 711;
@@ -6583,12 +6603,12 @@ nodes = (
 },
 {
 pos = (599,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (23,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (73,99);
@@ -6597,11 +6617,11 @@ ref = _part.longkebab;
 {
 angle = 180;
 pos = (600,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (24,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -6778,12 +6798,12 @@ nodes = (
 },
 {
 pos = (599,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (23,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (73,99);
@@ -6792,11 +6812,11 @@ ref = _part.longkebab;
 {
 angle = 180;
 pos = (600,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (24,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -6973,12 +6993,12 @@ nodes = (
 },
 {
 pos = (599,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (23,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (73,99);
@@ -6987,11 +7007,11 @@ ref = _part.longkebab;
 {
 angle = 180;
 pos = (600,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (24,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -8116,21 +8136,21 @@ ref = _part.chevron;
 },
 {
 pos = (-75,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (433,-435);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (365,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (-143,-435);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 605;
@@ -8372,21 +8392,21 @@ ref = _part.chevron;
 },
 {
 pos = (-75,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (433,-435);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (365,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (-143,-435);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 605;
@@ -8640,21 +8660,21 @@ ref = _part.chevron;
 },
 {
 pos = (-75,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (433,-435);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (365,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (-143,-435);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 605;
@@ -10804,11 +10824,11 @@ ref = _part.chevron;
 },
 {
 pos = (-75,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (365,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
@@ -11027,11 +11047,11 @@ ref = _part.chevron;
 },
 {
 pos = (-75,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (365,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
@@ -11250,11 +11270,11 @@ ref = _part.chevron;
 },
 {
 pos = (-75,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (365,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
@@ -12383,13 +12403,13 @@ ref = _part.longladder;
 },
 {
 pos = (574,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 180;
 pos = (574,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 755;
@@ -12691,13 +12711,13 @@ ref = _part.longladder;
 },
 {
 pos = (574,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 180;
 pos = (574,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 755;
@@ -12999,13 +13019,13 @@ ref = _part.longladder;
 },
 {
 pos = (574,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 180;
 pos = (574,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 755;
@@ -14228,24 +14248,24 @@ scale = (1,-1);
 {
 angle = 90;
 pos = (1116,72);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 90;
 pos = (-330,72);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-128,140);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (914,140);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 786;
@@ -14535,24 +14555,24 @@ scale = (1,-1);
 {
 angle = 90;
 pos = (1116,72);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 90;
 pos = (-330,72);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-128,140);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (914,140);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 786;
@@ -14842,24 +14862,24 @@ scale = (1,-1);
 {
 angle = 90;
 pos = (1116,72);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 90;
 pos = (-330,72);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-128,140);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (914,140);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 786;
@@ -16166,21 +16186,21 @@ nodes = (
 },
 {
 pos = (449,-395);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (-127,-395);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 180;
 pos = (449,1095);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-127,1095);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -16371,21 +16391,21 @@ nodes = (
 },
 {
 pos = (449,-395);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (-127,-395);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 180;
 pos = (449,1095);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-127,1095);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -16576,21 +16596,21 @@ nodes = (
 },
 {
 pos = (449,-395);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (-127,-395);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 180;
 pos = (449,1095);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-127,1095);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -17851,11 +17871,11 @@ nodes = (
 },
 {
 pos = (120,-266);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (120,-109);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 497;
@@ -18022,11 +18042,11 @@ nodes = (
 },
 {
 pos = (120,-266);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (120,-109);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 497;
@@ -18193,11 +18213,11 @@ nodes = (
 },
 {
 pos = (120,-266);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (120,-109);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 497;
@@ -19069,12 +19089,12 @@ scale = (1,-1);
 {
 angle = 135;
 pos = (906,829);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 135;
 pos = (104,-123);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -19255,12 +19275,12 @@ scale = (1,-1);
 {
 angle = 135;
 pos = (906,829);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 135;
 pos = (104,-123);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -19441,12 +19461,12 @@ scale = (1,-1);
 {
 angle = 135;
 pos = (906,829);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 135;
 pos = (104,-123);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -20595,11 +20615,11 @@ nodes = (
 },
 {
 pos = (-131,-450);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-131,-109);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 567;
@@ -20789,11 +20809,11 @@ nodes = (
 },
 {
 pos = (-131,-450);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-131,-109);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 567;
@@ -20983,11 +21003,11 @@ nodes = (
 },
 {
 pos = (-131,-450);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-131,-109);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 567;
@@ -23094,13 +23114,13 @@ ref = _part.shortkebab;
 },
 {
 pos = (-121,703);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 },
 {
 angle = 180;
 pos = (1084,683);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 961;
@@ -23511,13 +23531,13 @@ ref = _part.shortkebab;
 },
 {
 pos = (-121,703);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 },
 {
 angle = 180;
 pos = (1084,683);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 961;
@@ -23720,13 +23740,13 @@ ref = _part.shortkebab;
 },
 {
 pos = (-121,703);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 },
 {
 angle = 180;
 pos = (1084,683);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 961;
@@ -24765,12 +24785,12 @@ nodes = (
 },
 {
 pos = (453,-115);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 },
 {
 pos = (379,815);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 },
 {
@@ -25005,12 +25025,12 @@ nodes = (
 },
 {
 pos = (453,-115);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 },
 {
 pos = (379,815);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 },
 {
@@ -25495,12 +25515,12 @@ nodes = (
 },
 {
 pos = (453,-115);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 },
 {
 pos = (379,815);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 },
 {
@@ -27303,12 +27323,12 @@ nodes = (
 },
 {
 pos = (704,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (128,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (178,99);
@@ -27317,11 +27337,11 @@ ref = _part.longkebab;
 {
 angle = 180;
 pos = (705,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (129,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -27512,12 +27532,12 @@ nodes = (
 },
 {
 pos = (704,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (128,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (178,99);
@@ -27526,11 +27546,11 @@ ref = _part.longkebab;
 {
 angle = 180;
 pos = (705,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (129,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -27721,12 +27741,12 @@ nodes = (
 },
 {
 pos = (704,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (128,-438);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (178,99);
@@ -27735,11 +27755,11 @@ ref = _part.longkebab;
 {
 angle = 180;
 pos = (705,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (129,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -30196,11 +30216,11 @@ ref = _part.chevron;
 },
 {
 pos = (-75,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (365,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -30361,11 +30381,11 @@ ref = _part.chevron;
 },
 {
 pos = (-75,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (365,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -30538,11 +30558,11 @@ ref = _part.chevron;
 },
 {
 pos = (-75,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (365,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -31795,13 +31815,13 @@ ref = _part.chevron;
 },
 {
 pos = (603,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 180;
 pos = (603,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 840;
@@ -32008,13 +32028,13 @@ ref = _part.chevron;
 },
 {
 pos = (603,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 180;
 pos = (603,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 840;
@@ -32221,13 +32241,13 @@ ref = _part.chevron;
 },
 {
 pos = (603,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 180;
 pos = (603,1135);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 840;
@@ -33132,11 +33152,11 @@ ref = _part.chevron;
 },
 {
 pos = (-65,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (375,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -33339,11 +33359,11 @@ ref = _part.chevron;
 },
 {
 pos = (-65,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (375,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -33546,11 +33566,11 @@ ref = _part.chevron;
 },
 {
 pos = (-65,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (375,-99);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -34871,13 +34891,13 @@ nodes = (
 {
 angle = -109;
 pos = (975,431);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 71;
 pos = (787,-116);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 602;
@@ -35051,13 +35071,13 @@ nodes = (
 {
 angle = -109;
 pos = (975,431);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 71;
 pos = (787,-116);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 602;
@@ -35379,13 +35399,13 @@ nodes = (
 {
 angle = -109;
 pos = (975,431);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 71;
 pos = (787,-116);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 602;
@@ -36610,11 +36630,11 @@ ref = _part.chevron;
 },
 {
 pos = (-2,74);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (663,74);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -36770,11 +36790,11 @@ ref = _part.chevron;
 },
 {
 pos = (-2,74);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (663,74);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -36930,11 +36950,11 @@ ref = _part.chevron;
 },
 {
 pos = (-2,74);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (663,74);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -38388,11 +38408,11 @@ ref = _part.shortbones;
 },
 {
 pos = (-129,-64);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (218,-64);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 597;
@@ -38463,11 +38483,11 @@ nodes = (
 },
 {
 pos = (-152,116);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (749,116);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -38544,11 +38564,11 @@ ref = _part.shortbones;
 },
 {
 pos = (-129,-64);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (218,-64);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 597;
@@ -38619,11 +38639,11 @@ nodes = (
 },
 {
 pos = (-152,116);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (749,116);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -38813,11 +38833,11 @@ ref = _part.shortbones;
 },
 {
 pos = (-129,-64);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (218,-64);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 597;
@@ -39001,11 +39021,11 @@ nodes = (
 },
 {
 pos = (-152,116);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (749,116);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -40861,12 +40881,12 @@ nodes = (
 {
 angle = -160;
 pos = (335,912);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 angle = -20;
 pos = (303,912);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 }
 );
@@ -41018,12 +41038,12 @@ nodes = (
 {
 angle = -160;
 pos = (335,912);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 angle = -20;
 pos = (303,912);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 }
 );
@@ -41175,12 +41195,12 @@ nodes = (
 {
 angle = -160;
 pos = (335,912);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 angle = -20;
 pos = (303,912);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 }
 );
@@ -42285,12 +42305,12 @@ nodes = (
 {
 angle = 20;
 pos = (-4,109);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 angle = 160;
 pos = (929,109);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 },
 {
@@ -42538,12 +42558,12 @@ nodes = (
 {
 angle = 20;
 pos = (-4,109);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 angle = 160;
 pos = (929,109);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 },
 {
@@ -42791,12 +42811,12 @@ nodes = (
 {
 angle = 20;
 pos = (-4,109);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 angle = 160;
 pos = (929,109);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (1,-1);
 },
 {
@@ -44649,45 +44669,45 @@ nodes = (
 {
 angle = -35;
 pos = (-75,149);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 35;
 pos = (360,-87);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 145;
 pos = (263,-84);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -145;
 pos = (697,149);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (353,779);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -145;
 pos = (262,777);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 145;
 pos = (690,543);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 35;
 pos = (-76,544);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -44883,45 +44903,45 @@ nodes = (
 {
 angle = -35;
 pos = (-75,149);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 35;
 pos = (360,-87);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 145;
 pos = (263,-84);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -145;
 pos = (697,149);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (353,779);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -145;
 pos = (262,777);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 145;
 pos = (690,543);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 35;
 pos = (-76,544);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -45139,45 +45159,45 @@ nodes = (
 {
 angle = -35;
 pos = (-75,149);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 35;
 pos = (360,-87);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 145;
 pos = (263,-84);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -145;
 pos = (697,149);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (353,779);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -145;
 pos = (262,777);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 145;
 pos = (690,543);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 35;
 pos = (-76,544);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -46008,7 +46028,7 @@ ref = _part.chevron;
 {
 angle = 35;
 pos = (294,-50);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -46046,7 +46066,7 @@ nodes = (
 {
 angle = 145;
 pos = (253,-50);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
@@ -46203,7 +46223,7 @@ ref = _part.chevron;
 {
 angle = 35;
 pos = (294,-50);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -46241,7 +46261,7 @@ nodes = (
 {
 angle = 145;
 pos = (253,-50);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
@@ -46398,7 +46418,7 @@ ref = _part.chevron;
 {
 angle = 35;
 pos = (294,-50);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -46436,7 +46456,7 @@ nodes = (
 {
 angle = 145;
 pos = (253,-50);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
@@ -48056,37 +48076,37 @@ nodes = (
 {
 angle = 90;
 pos = (-386,-180);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-423,375);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-240,-180);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-269,375);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (499,1006);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (-297,44);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 580;
@@ -48363,37 +48383,37 @@ nodes = (
 {
 angle = 90;
 pos = (-386,-180);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-423,375);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-240,-180);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-269,375);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (499,1006);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (-297,44);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 580;
@@ -48670,37 +48690,37 @@ nodes = (
 {
 angle = 90;
 pos = (-386,-180);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-423,375);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-240,-180);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-269,375);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (499,1006);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (-297,44);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 580;
@@ -50208,12 +50228,12 @@ nodes = (
 {
 angle = -90;
 pos = (-355,330);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 90;
 pos = (889,500);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -50567,12 +50587,12 @@ nodes = (
 {
 angle = -90;
 pos = (-355,330);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 90;
 pos = (889,500);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -50920,12 +50940,12 @@ nodes = (
 {
 angle = -90;
 pos = (-355,330);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 90;
 pos = (889,500);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -54289,13 +54309,13 @@ nodes = (
 {
 angle = 90;
 pos = (966,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (966,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -54693,13 +54713,13 @@ nodes = (
 {
 angle = 90;
 pos = (966,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (966,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -55097,13 +55117,13 @@ nodes = (
 {
 angle = 90;
 pos = (966,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (966,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -56191,13 +56211,13 @@ nodes = (
 {
 angle = 90;
 pos = (946,321);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (934,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -56365,13 +56385,13 @@ nodes = (
 {
 angle = 90;
 pos = (946,321);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (934,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -56539,13 +56559,13 @@ nodes = (
 {
 angle = 90;
 pos = (946,321);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (934,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -57954,13 +57974,13 @@ nodes = (
 {
 angle = 90;
 pos = (922,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (903,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -58206,13 +58226,13 @@ nodes = (
 {
 angle = 90;
 pos = (922,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (903,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -58458,13 +58478,13 @@ nodes = (
 {
 angle = 90;
 pos = (922,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (903,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -59706,12 +59726,12 @@ nodes = (
 {
 angle = -90;
 pos = (-281,554);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 90;
 pos = (-281,-53);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -59916,12 +59936,12 @@ nodes = (
 {
 angle = -90;
 pos = (-281,554);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 90;
 pos = (-281,-53);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -60126,12 +60146,12 @@ nodes = (
 {
 angle = -90;
 pos = (-281,554);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 90;
 pos = (-281,-53);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -62124,7 +62144,7 @@ ref = _part.chevron;
 },
 {
 pos = (-141,-99);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 355;
@@ -62211,11 +62231,11 @@ ref = _part.chevron;
 },
 {
 pos = (-111,-79);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (385,-79);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -62303,7 +62323,7 @@ ref = _part.chevron;
 },
 {
 pos = (-141,-99);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 355;
@@ -62390,11 +62410,11 @@ ref = _part.chevron;
 },
 {
 pos = (-111,-79);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (385,-79);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -62482,7 +62502,7 @@ ref = _part.chevron;
 },
 {
 pos = (-141,-99);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 355;
@@ -62569,11 +62589,11 @@ ref = _part.chevron;
 },
 {
 pos = (-111,-79);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (385,-79);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -63590,13 +63610,13 @@ nodes = (
 {
 angle = 90;
 pos = (906,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (906,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -63862,13 +63882,13 @@ nodes = (
 {
 angle = 90;
 pos = (906,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (906,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -64134,13 +64154,13 @@ nodes = (
 {
 angle = 90;
 pos = (906,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (906,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -66009,7 +66029,7 @@ ref = _part.chevron;
 },
 {
 pos = (-83,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -66059,7 +66079,7 @@ nodes = (
 },
 {
 pos = (186,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -66234,7 +66254,7 @@ ref = _part.chevron;
 },
 {
 pos = (-91,838);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
@@ -66281,7 +66301,7 @@ nodes = (
 },
 {
 pos = (204,-406);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -66316,11 +66336,11 @@ nodes = (
 },
 {
 pos = (-160,-406);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (772,-406);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -66464,7 +66484,7 @@ ref = _part.chevron;
 },
 {
 pos = (-83,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -66514,7 +66534,7 @@ nodes = (
 },
 {
 pos = (186,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -66689,7 +66709,7 @@ ref = _part.chevron;
 },
 {
 pos = (-91,838);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
@@ -66736,7 +66756,7 @@ nodes = (
 },
 {
 pos = (204,-406);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -66771,11 +66791,11 @@ nodes = (
 },
 {
 pos = (-160,-406);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (772,-406);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -66926,7 +66946,7 @@ ref = _part.chevron;
 },
 {
 pos = (-83,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -66976,7 +66996,7 @@ nodes = (
 },
 {
 pos = (186,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -67158,7 +67178,7 @@ ref = _part.chevron;
 },
 {
 pos = (-91,838);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
@@ -67205,7 +67225,7 @@ nodes = (
 },
 {
 pos = (204,-406);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -67240,11 +67260,11 @@ nodes = (
 },
 {
 pos = (-160,-406);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (772,-406);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -68020,7 +68040,7 @@ nodes = (
 },
 {
 pos = (-163,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -68149,7 +68169,7 @@ nodes = (
 },
 {
 pos = (-163,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -68236,7 +68256,7 @@ nodes = (
 },
 {
 pos = (-163,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -68333,7 +68353,7 @@ nodes = (
 },
 {
 pos = (-165,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -68430,11 +68450,11 @@ nodes = (
 },
 {
 pos = (-169,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (399,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -68574,7 +68594,7 @@ nodes = (
 },
 {
 pos = (-165,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -68713,11 +68733,11 @@ nodes = (
 },
 {
 pos = (-169,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (399,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -68815,7 +68835,7 @@ nodes = (
 },
 {
 pos = (-165,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -68912,11 +68932,11 @@ nodes = (
 },
 {
 pos = (-169,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (399,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -69003,7 +69023,7 @@ nodes = (
 },
 {
 pos = (-163,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -69081,7 +69101,7 @@ nodes = (
 },
 {
 pos = (-163,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -69159,7 +69179,7 @@ nodes = (
 },
 {
 pos = (-163,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -69247,7 +69267,7 @@ nodes = (
 },
 {
 pos = (-165,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -69334,11 +69354,11 @@ nodes = (
 },
 {
 pos = (-169,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (399,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -69427,7 +69447,7 @@ nodes = (
 },
 {
 pos = (-165,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -69514,11 +69534,11 @@ nodes = (
 },
 {
 pos = (-169,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (399,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -69607,7 +69627,7 @@ nodes = (
 },
 {
 pos = (-165,-91);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 226;
@@ -69694,11 +69714,11 @@ nodes = (
 },
 {
 pos = (-169,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (399,-370);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -70662,7 +70682,7 @@ nodes = (
 },
 {
 pos = (-101,-99);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 288;
@@ -70757,7 +70777,7 @@ nodes = (
 },
 {
 pos = (-101,-99);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 288;
@@ -70852,7 +70872,7 @@ nodes = (
 },
 {
 pos = (-101,-99);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 288;
@@ -70957,7 +70977,7 @@ nodes = (
 },
 {
 pos = (-101,-99);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 288;
@@ -71062,11 +71082,11 @@ nodes = (
 },
 {
 pos = (-70,-135);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (426,-135);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -71172,7 +71192,7 @@ nodes = (
 },
 {
 pos = (-101,-99);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 288;
@@ -71277,11 +71297,11 @@ nodes = (
 },
 {
 pos = (-70,-135);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (426,-135);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -71387,7 +71407,7 @@ nodes = (
 },
 {
 pos = (-101,-99);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 288;
@@ -71492,11 +71512,11 @@ nodes = (
 },
 {
 pos = (-70,-135);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (426,-135);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -72788,13 +72808,13 @@ ref = _part.chevron;
 },
 {
 pos = (-94,1139);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 180;
 pos = (348,1139);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -73035,13 +73055,13 @@ ref = _part.chevron;
 },
 {
 pos = (-94,1139);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 180;
 pos = (348,1139);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -73282,13 +73302,13 @@ ref = _part.chevron;
 },
 {
 pos = (-94,1139);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 180;
 pos = (348,1139);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -73980,7 +74000,7 @@ ref = _part.chevron;
 },
 {
 pos = (-156,-54);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 221;
@@ -74062,7 +74082,7 @@ ref = _part.chevron;
 },
 {
 pos = (-156,-54);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 221;
@@ -74144,7 +74164,7 @@ ref = _part.chevron;
 },
 {
 pos = (-156,-54);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 221;
@@ -74236,7 +74256,7 @@ ref = _part.chevron;
 },
 {
 pos = (-156,-54);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 221;
@@ -74328,11 +74348,11 @@ ref = _part.chevron;
 },
 {
 pos = (-125,0);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (372,0);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -74425,7 +74445,7 @@ ref = _part.chevron;
 },
 {
 pos = (-156,-54);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 221;
@@ -74517,11 +74537,11 @@ ref = _part.chevron;
 },
 {
 pos = (-125,0);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (372,0);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -74614,7 +74634,7 @@ ref = _part.chevron;
 },
 {
 pos = (-156,-54);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 221;
@@ -74706,11 +74726,11 @@ ref = _part.chevron;
 },
 {
 pos = (-125,0);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (372,0);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -76639,11 +76659,11 @@ ref = _part.shortbones;
 },
 {
 pos = (492,-488);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-70,-488);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 886;
@@ -76810,20 +76830,20 @@ ref = _part.chevron;
 },
 {
 pos = (455,-146);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 },
 {
 pos = (476,-146);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (247,-402);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (682,-402);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -76988,11 +77008,11 @@ ref = _part.shortbones;
 },
 {
 pos = (492,-488);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-70,-488);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 886;
@@ -77152,20 +77172,20 @@ ref = _part.chevron;
 },
 {
 pos = (455,-146);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 },
 {
 pos = (476,-146);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (247,-402);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (682,-402);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -77330,11 +77350,11 @@ ref = _part.shortbones;
 },
 {
 pos = (492,-488);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-70,-488);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 886;
@@ -77494,20 +77514,20 @@ ref = _part.chevron;
 },
 {
 pos = (455,-146);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 },
 {
 pos = (476,-146);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (247,-402);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (682,-402);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -78533,11 +78553,11 @@ ref = _part.shortbones;
 },
 {
 pos = (-64,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (205,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 607;
@@ -78661,16 +78681,16 @@ nodes = (
 },
 {
 pos = (-86,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (737,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (349,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -78794,11 +78814,11 @@ ref = _part.shortbones;
 },
 {
 pos = (-64,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (205,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 607;
@@ -78916,16 +78936,16 @@ nodes = (
 },
 {
 pos = (-86,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (737,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (349,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -79049,11 +79069,11 @@ ref = _part.shortbones;
 },
 {
 pos = (-64,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (205,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 607;
@@ -79171,16 +79191,16 @@ nodes = (
 },
 {
 pos = (-86,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (737,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (349,-437);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -84128,13 +84148,13 @@ ref = _part.chevron;
 {
 angle = 90;
 pos = (966,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (966,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -84372,13 +84392,13 @@ ref = _part.chevron;
 {
 angle = 90;
 pos = (966,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (966,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -84616,13 +84636,13 @@ ref = _part.chevron;
 {
 angle = 90;
 pos = (966,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (966,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -86226,13 +86246,13 @@ ref = _part.chevron;
 {
 angle = 90;
 pos = (906,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (906,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -86470,13 +86490,13 @@ ref = _part.chevron;
 {
 angle = 90;
 pos = (906,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (906,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -86714,13 +86734,13 @@ ref = _part.chevron;
 {
 angle = 90;
 pos = (906,320);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (906,689);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -87739,7 +87759,7 @@ nodes = (
 },
 {
 pos = (-81,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 426;
@@ -87855,7 +87875,7 @@ nodes = (
 },
 {
 pos = (-81,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 426;
@@ -87959,7 +87979,7 @@ nodes = (
 },
 {
 pos = (-81,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 426;
@@ -88063,7 +88083,7 @@ nodes = (
 },
 {
 pos = (-81,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 426;
@@ -88167,7 +88187,7 @@ nodes = (
 },
 {
 pos = (-81,-428);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 426;
@@ -88271,7 +88291,7 @@ nodes = (
 },
 {
 pos = (-81,-427);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 426;
@@ -89207,7 +89227,7 @@ nodes = (
 {
 angle = -110;
 pos = (-304,770);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -89303,7 +89323,7 @@ nodes = (
 {
 angle = -110;
 pos = (-304,770);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -89399,7 +89419,7 @@ nodes = (
 {
 angle = -110;
 pos = (-304,770);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -89746,12 +89766,12 @@ nodes = (
 {
 angle = 65;
 pos = (656,-277);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 65;
 pos = (-432,334);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -89938,12 +89958,12 @@ nodes = (
 {
 angle = 65;
 pos = (656,-277);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 65;
 pos = (-432,334);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -90130,12 +90150,12 @@ nodes = (
 {
 angle = 65;
 pos = (656,-277);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 65;
 pos = (-432,334);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -90833,7 +90853,7 @@ nodes = (
 },
 {
 pos = (-43,-307);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -90953,7 +90973,7 @@ nodes = (
 },
 {
 pos = (-43,-307);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -91073,7 +91093,7 @@ nodes = (
 },
 {
 pos = (-43,-307);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -91299,7 +91319,7 @@ nodes = (
 },
 {
 pos = (-52,-307);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 428;
@@ -91491,7 +91511,7 @@ nodes = (
 },
 {
 pos = (-52,-307);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 428;
@@ -91683,7 +91703,7 @@ nodes = (
 },
 {
 pos = (-52,-307);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 428;
@@ -93547,11 +93567,11 @@ nodes = (
 },
 {
 pos = (-124,-251);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (179,-251);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -90;
@@ -93682,16 +93702,16 @@ nodes = (
 },
 {
 pos = (384,-291);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (179,-291);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (766,-291);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -93818,11 +93838,11 @@ nodes = (
 },
 {
 pos = (-124,-251);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (179,-251);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -90;
@@ -93953,16 +93973,16 @@ nodes = (
 },
 {
 pos = (384,-291);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (179,-291);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (766,-291);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -94089,11 +94109,11 @@ nodes = (
 },
 {
 pos = (-124,-251);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (179,-251);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -90;
@@ -94224,16 +94244,16 @@ nodes = (
 },
 {
 pos = (384,-291);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (179,-291);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (766,-291);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -96317,12 +96337,12 @@ nodes = (
 {
 angle = 20;
 pos = (118,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 160;
 pos = (373,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -96474,12 +96494,12 @@ nodes = (
 {
 angle = 20;
 pos = (118,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 160;
 pos = (373,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -96631,12 +96651,12 @@ nodes = (
 {
 angle = 20;
 pos = (118,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 160;
 pos = (373,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -98157,12 +98177,12 @@ nodes = (
 {
 angle = 20;
 pos = (118,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 160;
 pos = (651,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -98404,12 +98424,12 @@ nodes = (
 {
 angle = 20;
 pos = (118,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 160;
 pos = (651,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -98651,12 +98671,12 @@ nodes = (
 {
 angle = 20;
 pos = (118,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 160;
 pos = (651,-280);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -100232,23 +100252,23 @@ nodes = (
 {
 angle = 145;
 pos = (928,730);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 145;
 pos = (145,-245);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (-460,-227);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -35;
 pos = (322,747);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -100432,23 +100452,23 @@ nodes = (
 {
 angle = 145;
 pos = (928,730);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 145;
 pos = (145,-245);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (-460,-227);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -35;
 pos = (322,747);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -100632,23 +100652,23 @@ nodes = (
 {
 angle = 145;
 pos = (928,730);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = 145;
 pos = (145,-245);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -35;
 pos = (-460,-227);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -35;
 pos = (322,747);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -101322,11 +101342,11 @@ ref = _part.longkebab;
 },
 {
 pos = (-124,-221);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (179,-221);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 };
@@ -101621,11 +101641,11 @@ ref = _part.longkebab;
 },
 {
 pos = (-124,-221);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (179,-221);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 };
@@ -101719,11 +101739,11 @@ scale = (1,-1);
 },
 {
 pos = (-106,-281);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (160,-281);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -90;
@@ -101762,11 +101782,11 @@ ref = _part.longkebab;
 },
 {
 pos = (-124,-221);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (179,-221);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 };
@@ -101860,11 +101880,11 @@ scale = (1,-1);
 },
 {
 pos = (153,-78);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (410,-78);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -101980,11 +102000,11 @@ scale = (1,-1);
 },
 {
 pos = (-106,-281);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (160,-281);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -90;
@@ -102104,11 +102124,11 @@ scale = (1,-1);
 },
 {
 pos = (153,-78);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (410,-78);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -102224,11 +102244,11 @@ scale = (1,-1);
 },
 {
 pos = (-106,-281);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (160,-281);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -90;
@@ -102348,11 +102368,11 @@ scale = (1,-1);
 },
 {
 pos = (153,-78);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (410,-78);
-ref = _part.longBristles;
+ref = _part.longbristles;
 scale = (-1,1);
 }
 );
@@ -103817,37 +103837,37 @@ nodes = (
 {
 angle = 90;
 pos = (921,685);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (846,685);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (966,322);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (891,322);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 135;
 pos = (60,-392);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -45;
 pos = (-360,27);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 560;
@@ -104006,37 +104026,37 @@ nodes = (
 {
 angle = 90;
 pos = (921,685);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (846,685);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (966,322);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (891,322);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 135;
 pos = (60,-392);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -45;
 pos = (-360,27);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 560;
@@ -104195,37 +104215,37 @@ nodes = (
 {
 angle = 90;
 pos = (921,685);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (846,685);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (966,322);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 90;
 pos = (891,322);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = 135;
 pos = (60,-392);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = -45;
 pos = (-360,27);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 560;
@@ -105122,11 +105142,11 @@ nodes = (
 },
 {
 pos = (-141,-43);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (184,-3);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 600;
@@ -105204,11 +105224,11 @@ nodes = (
 },
 {
 pos = (-141,-43);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (184,-3);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 600;
@@ -105286,11 +105306,11 @@ nodes = (
 },
 {
 pos = (-141,-43);
-ref = _part.longBristles;
+ref = _part.longbristles;
 },
 {
 pos = (184,-3);
-ref = _part.longBristles;
+ref = _part.longbristles;
 }
 );
 width = 600;
@@ -105409,12 +105429,12 @@ nodes = (
 },
 {
 pos = (587,-456);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (11,-456);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (61,81);
@@ -105423,11 +105443,11 @@ ref = _part.longkebab;
 {
 angle = 180;
 pos = (588,1117);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (12,1117);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -105547,12 +105567,12 @@ nodes = (
 },
 {
 pos = (587,-456);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (11,-456);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (61,81);
@@ -105561,11 +105581,11 @@ ref = _part.longkebab;
 {
 angle = 180;
 pos = (588,1117);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (12,1117);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -105685,12 +105705,12 @@ nodes = (
 },
 {
 pos = (587,-456);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 pos = (11,-456);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (61,81);
@@ -105699,11 +105719,11 @@ ref = _part.longkebab;
 {
 angle = 180;
 pos = (588,1117);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (12,1117);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -106229,7 +106249,7 @@ nodes = (
 },
 {
 pos = (29,-356);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -106267,7 +106287,7 @@ nodes = (
 },
 {
 pos = (610,-356);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -106380,7 +106400,7 @@ nodes = (
 },
 {
 pos = (29,-356);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -106418,7 +106438,7 @@ nodes = (
 },
 {
 pos = (610,-356);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -106531,7 +106551,7 @@ nodes = (
 },
 {
 pos = (29,-356);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 closed = 1;
@@ -106569,7 +106589,7 @@ nodes = (
 },
 {
 pos = (610,-356);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 }
 );
@@ -107095,7 +107115,7 @@ nodes = (
 {
 angle = 90;
 pos = (-256,-185);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
@@ -107149,13 +107169,13 @@ nodes = (
 {
 angle = 90;
 pos = (-411,-185);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-316,329);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -107283,7 +107303,7 @@ nodes = (
 {
 angle = 90;
 pos = (-256,-185);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
@@ -107337,13 +107357,13 @@ nodes = (
 {
 angle = 90;
 pos = (-411,-185);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-316,329);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -107471,7 +107491,7 @@ nodes = (
 {
 angle = 90;
 pos = (-256,-185);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
@@ -107525,13 +107545,13 @@ nodes = (
 {
 angle = 90;
 pos = (-411,-185);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 },
 {
 angle = 90;
 pos = (-316,329);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (1,-1);
 }
 );
@@ -108205,13 +108225,13 @@ nodes = (
 {
 angle = 90;
 pos = (865,848);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = -90;
 pos = (-336,321);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -108426,13 +108446,13 @@ nodes = (
 {
 angle = 90;
 pos = (865,848);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = -90;
 pos = (-336,321);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -108647,13 +108667,13 @@ nodes = (
 {
 angle = 90;
 pos = (865,848);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 scale = (-1,1);
 },
 {
 angle = -90;
 pos = (-336,321);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -109090,11 +109110,11 @@ nodes = (
 },
 {
 pos = (206,-284);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (201,-132);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -109277,11 +109297,11 @@ nodes = (
 },
 {
 pos = (206,-284);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (201,-132);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -109464,11 +109484,11 @@ nodes = (
 },
 {
 pos = (206,-284);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (201,-132);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -110140,12 +110160,12 @@ nodes = (
 },
 {
 pos = (-44,-107);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -90;
 pos = (-308,328);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -110359,12 +110379,12 @@ nodes = (
 },
 {
 pos = (-44,-107);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -90;
 pos = (-308,328);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -110578,12 +110598,12 @@ nodes = (
 },
 {
 pos = (-44,-107);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 angle = -90;
 pos = (-308,328);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -111281,11 +111301,11 @@ nodes = (
 },
 {
 pos = (213,-402);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-126,-403);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -111441,11 +111461,11 @@ nodes = (
 },
 {
 pos = (213,-402);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-126,-403);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -111601,11 +111621,11 @@ nodes = (
 },
 {
 pos = (213,-402);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-126,-403);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -111969,7 +111989,7 @@ nodes = (
 {
 angle = 90;
 pos = (746,356);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (13,-38);
@@ -112038,7 +112058,7 @@ nodes = (
 {
 angle = 90;
 pos = (808,352);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (13,-38);
@@ -112107,7 +112127,7 @@ nodes = (
 {
 angle = 90;
 pos = (746,356);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (13,-38);
@@ -112176,7 +112196,7 @@ nodes = (
 {
 angle = 90;
 pos = (808,352);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (13,-38);
@@ -112245,7 +112265,7 @@ nodes = (
 {
 angle = 90;
 pos = (746,356);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (13,-38);
@@ -112314,7 +112334,7 @@ nodes = (
 {
 angle = 90;
 pos = (808,352);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (13,-38);
@@ -113369,19 +113389,19 @@ nodes = (
 },
 {
 pos = (197,-419);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-102,-474);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (168,-106);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-78,-126);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -113551,19 +113571,19 @@ nodes = (
 },
 {
 pos = (197,-419);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-102,-474);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (168,-106);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-78,-126);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -113733,19 +113753,19 @@ nodes = (
 },
 {
 pos = (197,-419);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-102,-474);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (168,-106);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-78,-126);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -114443,11 +114463,11 @@ nodes = (
 },
 {
 pos = (211,-168);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-118,-183);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -114603,11 +114623,11 @@ nodes = (
 },
 {
 pos = (211,-168);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-118,-183);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -114763,11 +114783,11 @@ nodes = (
 },
 {
 pos = (211,-168);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 },
 {
 pos = (-118,-183);
-ref = _part.shortBristles;
+ref = _part.shortbristles;
 }
 );
 width = 600;
@@ -131487,749 +131507,6 @@ width = 600;
 {
 color = 1;
 export = 0;
-glyphname = _part.longBristles;
-lastChange = "2024-03-04 11:24:18 +0000";
-layers = (
-{
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(328,465,ls),
-(332,468,o),
-(335,473,o),
-(335,479,cs),
-(335,488,o),
-(327,498,o),
-(318,498,cs),
-(315,498,o),
-(311,497,o),
-(307,494,cs),
-(230,440,ls),
-(225,437,o),
-(222,432,o),
-(222,427,cs),
-(222,418,o),
-(230,408,o),
-(239,407,cs),
-(243,407,o),
-(246,408,o),
-(250,411,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(328,263,ls),
-(332,266,o),
-(335,271,o),
-(335,277,cs),
-(335,286,o),
-(327,296,o),
-(318,296,cs),
-(315,296,o),
-(311,295,o),
-(307,292,cs),
-(230,238,ls),
-(225,235,o),
-(222,230,o),
-(222,225,cs),
-(222,216,o),
-(230,206,o),
-(239,205,cs),
-(243,205,o),
-(246,206,o),
-(250,209,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(328,364,ls),
-(332,367,o),
-(335,372,o),
-(335,378,cs),
-(335,387,o),
-(327,397,o),
-(318,397,cs),
-(315,397,o),
-(311,396,o),
-(307,393,cs),
-(230,339,ls),
-(225,336,o),
-(222,331,o),
-(222,326,cs),
-(222,317,o),
-(230,307,o),
-(239,306,cs),
-(243,306,o),
-(246,307,o),
-(250,310,cs)
-);
-}
-);
-width = 600;
-},
-{
-layerId = m01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(328,465,ls),
-(332,468,o),
-(335,473,o),
-(335,479,cs),
-(335,488,o),
-(327,498,o),
-(318,498,cs),
-(315,498,o),
-(311,497,o),
-(307,494,cs),
-(230,440,ls),
-(225,437,o),
-(222,432,o),
-(222,427,cs),
-(222,418,o),
-(230,408,o),
-(239,407,cs),
-(243,407,o),
-(246,408,o),
-(250,411,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(328,263,ls),
-(332,266,o),
-(335,271,o),
-(335,277,cs),
-(335,286,o),
-(327,296,o),
-(318,296,cs),
-(315,296,o),
-(311,295,o),
-(307,292,cs),
-(230,238,ls),
-(225,235,o),
-(222,230,o),
-(222,225,cs),
-(222,216,o),
-(230,206,o),
-(239,205,cs),
-(243,205,o),
-(246,206,o),
-(250,209,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(328,364,ls),
-(332,367,o),
-(335,372,o),
-(335,378,cs),
-(335,387,o),
-(327,397,o),
-(318,397,cs),
-(315,397,o),
-(311,396,o),
-(307,393,cs),
-(230,339,ls),
-(225,336,o),
-(222,331,o),
-(222,326,cs),
-(222,317,o),
-(230,307,o),
-(239,306,cs),
-(243,306,o),
-(246,307,o),
-(250,310,cs)
-);
-}
-);
-width = 600;
-},
-{
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(328,465,ls),
-(332,468,o),
-(335,473,o),
-(335,479,cs),
-(335,488,o),
-(327,498,o),
-(318,498,cs),
-(315,498,o),
-(311,497,o),
-(307,494,cs),
-(230,440,ls),
-(225,437,o),
-(222,432,o),
-(222,427,cs),
-(222,418,o),
-(230,408,o),
-(239,407,cs),
-(243,407,o),
-(246,408,o),
-(250,411,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(328,263,ls),
-(332,266,o),
-(335,271,o),
-(335,277,cs),
-(335,286,o),
-(327,296,o),
-(318,296,cs),
-(315,296,o),
-(311,295,o),
-(307,292,cs),
-(230,238,ls),
-(225,235,o),
-(222,230,o),
-(222,225,cs),
-(222,216,o),
-(230,206,o),
-(239,205,cs),
-(243,205,o),
-(246,206,o),
-(250,209,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(328,364,ls),
-(332,367,o),
-(335,372,o),
-(335,378,cs),
-(335,387,o),
-(327,397,o),
-(318,397,cs),
-(315,397,o),
-(311,396,o),
-(307,393,cs),
-(230,339,ls),
-(225,336,o),
-(222,331,o),
-(222,326,cs),
-(222,317,o),
-(230,307,o),
-(239,306,cs),
-(243,306,o),
-(246,307,o),
-(250,310,cs)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m003;
-attr = {
-axisRules = (
-{
-max = 39.99;
-min = 20;
-}
-);
-};
-layerId = "1D6C7581-1658-4A01-A9E9-1E562546C8F3";
-name = "4 Mar 24 at 12:21 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(326,435,ls),
-(337,435,o),
-(343,441,o),
-(343,452,cs),
-(343,460,o),
-(339,470,o),
-(325,470,cs),
-(231,470,ls),
-(220,470,o),
-(214,464,o),
-(214,453,cs),
-(214,443,o),
-(219,435,o),
-(231,435,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(326,233,ls),
-(337,233,o),
-(343,239,o),
-(343,250,cs),
-(343,258,o),
-(339,268,o),
-(325,268,cs),
-(231,268,ls),
-(220,268,o),
-(214,262,o),
-(214,251,cs),
-(214,241,o),
-(219,233,o),
-(231,233,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(326,334,ls),
-(337,334,o),
-(343,340,o),
-(343,351,cs),
-(343,359,o),
-(339,369,o),
-(325,369,cs),
-(231,369,ls),
-(220,369,o),
-(214,363,o),
-(214,352,cs),
-(214,342,o),
-(219,334,o),
-(231,334,c)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m003;
-attr = {
-axisRules = (
-{
-max = 60;
-min = 40;
-}
-);
-};
-layerId = "5F12AEAB-5A4A-4E7A-9079-B99A88EED6ED";
-name = "4 Mar 24 at 12:21 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(307,411,ls),
-(311,408,o),
-(314,407,o),
-(318,407,cs),
-(327,408,o),
-(335,418,o),
-(335,427,cs),
-(335,432,o),
-(332,437,o),
-(327,440,cs),
-(250,494,ls),
-(246,497,o),
-(242,498,o),
-(239,498,cs),
-(230,498,o),
-(222,488,o),
-(222,479,cs),
-(222,473,o),
-(225,468,o),
-(229,465,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(307,209,ls),
-(311,206,o),
-(314,205,o),
-(318,205,cs),
-(327,206,o),
-(335,216,o),
-(335,225,cs),
-(335,230,o),
-(332,235,o),
-(327,238,cs),
-(250,292,ls),
-(246,295,o),
-(242,296,o),
-(239,296,cs),
-(230,296,o),
-(222,286,o),
-(222,277,cs),
-(222,271,o),
-(225,266,o),
-(229,263,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(307,310,ls),
-(311,307,o),
-(314,306,o),
-(318,306,cs),
-(327,307,o),
-(335,317,o),
-(335,326,cs),
-(335,331,o),
-(332,336,o),
-(327,339,cs),
-(250,393,ls),
-(246,396,o),
-(242,397,o),
-(239,397,cs),
-(230,397,o),
-(222,387,o),
-(222,378,cs),
-(222,372,o),
-(225,367,o),
-(229,364,cs)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m002;
-attr = {
-axisRules = (
-{
-max = 39.99;
-min = 20;
-}
-);
-};
-layerId = "5501B0D2-2C85-4176-B47C-6EEFC8ED25F9";
-name = "4 Mar 24 at 12:21 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(326,435,ls),
-(337,435,o),
-(343,441,o),
-(343,452,cs),
-(343,460,o),
-(339,470,o),
-(325,470,cs),
-(231,470,ls),
-(220,470,o),
-(214,464,o),
-(214,453,cs),
-(214,443,o),
-(219,435,o),
-(231,435,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(326,233,ls),
-(337,233,o),
-(343,239,o),
-(343,250,cs),
-(343,258,o),
-(339,268,o),
-(325,268,cs),
-(231,268,ls),
-(220,268,o),
-(214,262,o),
-(214,251,cs),
-(214,241,o),
-(219,233,o),
-(231,233,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(326,334,ls),
-(337,334,o),
-(343,340,o),
-(343,351,cs),
-(343,359,o),
-(339,369,o),
-(325,369,cs),
-(231,369,ls),
-(220,369,o),
-(214,363,o),
-(214,352,cs),
-(214,342,o),
-(219,334,o),
-(231,334,c)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m002;
-attr = {
-axisRules = (
-{
-max = 60;
-min = 40;
-}
-);
-};
-layerId = "ACB0B28A-E6DB-411A-A39E-2AF1F6133891";
-name = "4 Mar 24 at 12:21 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(307,411,ls),
-(311,408,o),
-(314,407,o),
-(318,407,cs),
-(327,408,o),
-(335,418,o),
-(335,427,cs),
-(335,432,o),
-(332,437,o),
-(327,440,cs),
-(250,494,ls),
-(246,497,o),
-(242,498,o),
-(239,498,cs),
-(230,498,o),
-(222,488,o),
-(222,479,cs),
-(222,473,o),
-(225,468,o),
-(229,465,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(307,209,ls),
-(311,206,o),
-(314,205,o),
-(318,205,cs),
-(327,206,o),
-(335,216,o),
-(335,225,cs),
-(335,230,o),
-(332,235,o),
-(327,238,cs),
-(250,292,ls),
-(246,295,o),
-(242,296,o),
-(239,296,cs),
-(230,296,o),
-(222,286,o),
-(222,277,cs),
-(222,271,o),
-(225,266,o),
-(229,263,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(307,310,ls),
-(311,307,o),
-(314,306,o),
-(318,306,cs),
-(327,307,o),
-(335,317,o),
-(335,326,cs),
-(335,331,o),
-(332,336,o),
-(327,339,cs),
-(250,393,ls),
-(246,396,o),
-(242,397,o),
-(239,397,cs),
-(230,397,o),
-(222,387,o),
-(222,378,cs),
-(222,372,o),
-(225,367,o),
-(229,364,cs)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m01;
-attr = {
-axisRules = (
-{
-max = 39.99;
-min = 20;
-}
-);
-};
-layerId = "880B1AFE-A641-482F-8159-DA689F9ABA7A";
-name = "4 Mar 24 at 12:21 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(326,435,ls),
-(337,435,o),
-(343,441,o),
-(343,452,cs),
-(343,460,o),
-(339,470,o),
-(325,470,cs),
-(231,470,ls),
-(220,470,o),
-(214,464,o),
-(214,453,cs),
-(214,443,o),
-(219,435,o),
-(231,435,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(326,233,ls),
-(337,233,o),
-(343,239,o),
-(343,250,cs),
-(343,258,o),
-(339,268,o),
-(325,268,cs),
-(231,268,ls),
-(220,268,o),
-(214,262,o),
-(214,251,cs),
-(214,241,o),
-(219,233,o),
-(231,233,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(326,334,ls),
-(337,334,o),
-(343,340,o),
-(343,351,cs),
-(343,359,o),
-(339,369,o),
-(325,369,cs),
-(231,369,ls),
-(220,369,o),
-(214,363,o),
-(214,352,cs),
-(214,342,o),
-(219,334,o),
-(231,334,c)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m01;
-attr = {
-axisRules = (
-{
-max = 60;
-min = 40;
-}
-);
-};
-layerId = "1FF416D8-6E6A-443D-B443-9CB83B7D1DD3";
-name = "4 Mar 24 at 12:21 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(307,411,ls),
-(311,408,o),
-(314,407,o),
-(318,407,cs),
-(327,408,o),
-(335,418,o),
-(335,427,cs),
-(335,432,o),
-(332,437,o),
-(327,440,cs),
-(250,494,ls),
-(246,497,o),
-(242,498,o),
-(239,498,cs),
-(230,498,o),
-(222,488,o),
-(222,479,cs),
-(222,473,o),
-(225,468,o),
-(229,465,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(307,209,ls),
-(311,206,o),
-(314,205,o),
-(318,205,cs),
-(327,206,o),
-(335,216,o),
-(335,225,cs),
-(335,230,o),
-(332,235,o),
-(327,238,cs),
-(250,292,ls),
-(246,295,o),
-(242,296,o),
-(239,296,cs),
-(230,296,o),
-(222,286,o),
-(222,277,cs),
-(222,271,o),
-(225,266,o),
-(229,263,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(307,310,ls),
-(311,307,o),
-(314,306,o),
-(318,306,cs),
-(327,307,o),
-(335,317,o),
-(335,326,cs),
-(335,331,o),
-(332,336,o),
-(327,339,cs),
-(250,393,ls),
-(246,396,o),
-(242,397,o),
-(239,397,cs),
-(230,397,o),
-(222,387,o),
-(222,378,cs),
-(222,372,o),
-(225,367,o),
-(229,364,cs)
-);
-}
-);
-width = 600;
-}
-);
-},
-{
-color = 1;
-export = 0;
 glyphname = _part.longbones;
 lastChange = "2024-03-04 11:27:38 +0000";
 layers = (
@@ -133449,6 +132726,749 @@ nodes = (
 (197,395,o),
 (186,395,cs),
 (174,395,o)
+);
+}
+);
+width = 600;
+}
+);
+},
+{
+color = 1;
+export = 0;
+glyphname = _part.longbristles;
+lastChange = "2024-03-11 14:07:35 +0000";
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(328,465,ls),
+(332,468,o),
+(335,473,o),
+(335,479,cs),
+(335,488,o),
+(327,498,o),
+(318,498,cs),
+(315,498,o),
+(311,497,o),
+(307,494,cs),
+(230,440,ls),
+(225,437,o),
+(222,432,o),
+(222,427,cs),
+(222,418,o),
+(230,408,o),
+(239,407,cs),
+(243,407,o),
+(246,408,o),
+(250,411,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(328,263,ls),
+(332,266,o),
+(335,271,o),
+(335,277,cs),
+(335,286,o),
+(327,296,o),
+(318,296,cs),
+(315,296,o),
+(311,295,o),
+(307,292,cs),
+(230,238,ls),
+(225,235,o),
+(222,230,o),
+(222,225,cs),
+(222,216,o),
+(230,206,o),
+(239,205,cs),
+(243,205,o),
+(246,206,o),
+(250,209,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(328,364,ls),
+(332,367,o),
+(335,372,o),
+(335,378,cs),
+(335,387,o),
+(327,397,o),
+(318,397,cs),
+(315,397,o),
+(311,396,o),
+(307,393,cs),
+(230,339,ls),
+(225,336,o),
+(222,331,o),
+(222,326,cs),
+(222,317,o),
+(230,307,o),
+(239,306,cs),
+(243,306,o),
+(246,307,o),
+(250,310,cs)
+);
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(328,465,ls),
+(332,468,o),
+(335,473,o),
+(335,479,cs),
+(335,488,o),
+(327,498,o),
+(318,498,cs),
+(315,498,o),
+(311,497,o),
+(307,494,cs),
+(230,440,ls),
+(225,437,o),
+(222,432,o),
+(222,427,cs),
+(222,418,o),
+(230,408,o),
+(239,407,cs),
+(243,407,o),
+(246,408,o),
+(250,411,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(328,263,ls),
+(332,266,o),
+(335,271,o),
+(335,277,cs),
+(335,286,o),
+(327,296,o),
+(318,296,cs),
+(315,296,o),
+(311,295,o),
+(307,292,cs),
+(230,238,ls),
+(225,235,o),
+(222,230,o),
+(222,225,cs),
+(222,216,o),
+(230,206,o),
+(239,205,cs),
+(243,205,o),
+(246,206,o),
+(250,209,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(328,364,ls),
+(332,367,o),
+(335,372,o),
+(335,378,cs),
+(335,387,o),
+(327,397,o),
+(318,397,cs),
+(315,397,o),
+(311,396,o),
+(307,393,cs),
+(230,339,ls),
+(225,336,o),
+(222,331,o),
+(222,326,cs),
+(222,317,o),
+(230,307,o),
+(239,306,cs),
+(243,306,o),
+(246,307,o),
+(250,310,cs)
+);
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(328,465,ls),
+(332,468,o),
+(335,473,o),
+(335,479,cs),
+(335,488,o),
+(327,498,o),
+(318,498,cs),
+(315,498,o),
+(311,497,o),
+(307,494,cs),
+(230,440,ls),
+(225,437,o),
+(222,432,o),
+(222,427,cs),
+(222,418,o),
+(230,408,o),
+(239,407,cs),
+(243,407,o),
+(246,408,o),
+(250,411,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(328,263,ls),
+(332,266,o),
+(335,271,o),
+(335,277,cs),
+(335,286,o),
+(327,296,o),
+(318,296,cs),
+(315,296,o),
+(311,295,o),
+(307,292,cs),
+(230,238,ls),
+(225,235,o),
+(222,230,o),
+(222,225,cs),
+(222,216,o),
+(230,206,o),
+(239,205,cs),
+(243,205,o),
+(246,206,o),
+(250,209,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(328,364,ls),
+(332,367,o),
+(335,372,o),
+(335,378,cs),
+(335,387,o),
+(327,397,o),
+(318,397,cs),
+(315,397,o),
+(311,396,o),
+(307,393,cs),
+(230,339,ls),
+(225,336,o),
+(222,331,o),
+(222,326,cs),
+(222,317,o),
+(230,307,o),
+(239,306,cs),
+(243,306,o),
+(246,307,o),
+(250,310,cs)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m003;
+attr = {
+axisRules = (
+{
+max = 39.99;
+min = 20;
+}
+);
+};
+layerId = "1D6C7581-1658-4A01-A9E9-1E562546C8F3";
+name = "4 Mar 24 at 12:21 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,435,ls),
+(337,435,o),
+(343,441,o),
+(343,452,cs),
+(343,460,o),
+(339,470,o),
+(325,470,cs),
+(231,470,ls),
+(220,470,o),
+(214,464,o),
+(214,453,cs),
+(214,443,o),
+(219,435,o),
+(231,435,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,233,ls),
+(337,233,o),
+(343,239,o),
+(343,250,cs),
+(343,258,o),
+(339,268,o),
+(325,268,cs),
+(231,268,ls),
+(220,268,o),
+(214,262,o),
+(214,251,cs),
+(214,241,o),
+(219,233,o),
+(231,233,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,334,ls),
+(337,334,o),
+(343,340,o),
+(343,351,cs),
+(343,359,o),
+(339,369,o),
+(325,369,cs),
+(231,369,ls),
+(220,369,o),
+(214,363,o),
+(214,352,cs),
+(214,342,o),
+(219,334,o),
+(231,334,c)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m003;
+attr = {
+axisRules = (
+{
+max = 60;
+min = 40;
+}
+);
+};
+layerId = "5F12AEAB-5A4A-4E7A-9079-B99A88EED6ED";
+name = "4 Mar 24 at 12:21 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(307,411,ls),
+(311,408,o),
+(314,407,o),
+(318,407,cs),
+(327,408,o),
+(335,418,o),
+(335,427,cs),
+(335,432,o),
+(332,437,o),
+(327,440,cs),
+(250,494,ls),
+(246,497,o),
+(242,498,o),
+(239,498,cs),
+(230,498,o),
+(222,488,o),
+(222,479,cs),
+(222,473,o),
+(225,468,o),
+(229,465,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(307,209,ls),
+(311,206,o),
+(314,205,o),
+(318,205,cs),
+(327,206,o),
+(335,216,o),
+(335,225,cs),
+(335,230,o),
+(332,235,o),
+(327,238,cs),
+(250,292,ls),
+(246,295,o),
+(242,296,o),
+(239,296,cs),
+(230,296,o),
+(222,286,o),
+(222,277,cs),
+(222,271,o),
+(225,266,o),
+(229,263,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(307,310,ls),
+(311,307,o),
+(314,306,o),
+(318,306,cs),
+(327,307,o),
+(335,317,o),
+(335,326,cs),
+(335,331,o),
+(332,336,o),
+(327,339,cs),
+(250,393,ls),
+(246,396,o),
+(242,397,o),
+(239,397,cs),
+(230,397,o),
+(222,387,o),
+(222,378,cs),
+(222,372,o),
+(225,367,o),
+(229,364,cs)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m002;
+attr = {
+axisRules = (
+{
+max = 39.99;
+min = 20;
+}
+);
+};
+layerId = "5501B0D2-2C85-4176-B47C-6EEFC8ED25F9";
+name = "4 Mar 24 at 12:21 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,435,ls),
+(337,435,o),
+(343,441,o),
+(343,452,cs),
+(343,460,o),
+(339,470,o),
+(325,470,cs),
+(231,470,ls),
+(220,470,o),
+(214,464,o),
+(214,453,cs),
+(214,443,o),
+(219,435,o),
+(231,435,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,233,ls),
+(337,233,o),
+(343,239,o),
+(343,250,cs),
+(343,258,o),
+(339,268,o),
+(325,268,cs),
+(231,268,ls),
+(220,268,o),
+(214,262,o),
+(214,251,cs),
+(214,241,o),
+(219,233,o),
+(231,233,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,334,ls),
+(337,334,o),
+(343,340,o),
+(343,351,cs),
+(343,359,o),
+(339,369,o),
+(325,369,cs),
+(231,369,ls),
+(220,369,o),
+(214,363,o),
+(214,352,cs),
+(214,342,o),
+(219,334,o),
+(231,334,c)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m002;
+attr = {
+axisRules = (
+{
+max = 60;
+min = 40;
+}
+);
+};
+layerId = "ACB0B28A-E6DB-411A-A39E-2AF1F6133891";
+name = "4 Mar 24 at 12:21 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(307,411,ls),
+(311,408,o),
+(314,407,o),
+(318,407,cs),
+(327,408,o),
+(335,418,o),
+(335,427,cs),
+(335,432,o),
+(332,437,o),
+(327,440,cs),
+(250,494,ls),
+(246,497,o),
+(242,498,o),
+(239,498,cs),
+(230,498,o),
+(222,488,o),
+(222,479,cs),
+(222,473,o),
+(225,468,o),
+(229,465,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(307,209,ls),
+(311,206,o),
+(314,205,o),
+(318,205,cs),
+(327,206,o),
+(335,216,o),
+(335,225,cs),
+(335,230,o),
+(332,235,o),
+(327,238,cs),
+(250,292,ls),
+(246,295,o),
+(242,296,o),
+(239,296,cs),
+(230,296,o),
+(222,286,o),
+(222,277,cs),
+(222,271,o),
+(225,266,o),
+(229,263,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(307,310,ls),
+(311,307,o),
+(314,306,o),
+(318,306,cs),
+(327,307,o),
+(335,317,o),
+(335,326,cs),
+(335,331,o),
+(332,336,o),
+(327,339,cs),
+(250,393,ls),
+(246,396,o),
+(242,397,o),
+(239,397,cs),
+(230,397,o),
+(222,387,o),
+(222,378,cs),
+(222,372,o),
+(225,367,o),
+(229,364,cs)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+axisRules = (
+{
+max = 39.99;
+min = 20;
+}
+);
+};
+layerId = "880B1AFE-A641-482F-8159-DA689F9ABA7A";
+name = "4 Mar 24 at 12:21 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,435,ls),
+(337,435,o),
+(343,441,o),
+(343,452,cs),
+(343,460,o),
+(339,470,o),
+(325,470,cs),
+(231,470,ls),
+(220,470,o),
+(214,464,o),
+(214,453,cs),
+(214,443,o),
+(219,435,o),
+(231,435,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,233,ls),
+(337,233,o),
+(343,239,o),
+(343,250,cs),
+(343,258,o),
+(339,268,o),
+(325,268,cs),
+(231,268,ls),
+(220,268,o),
+(214,262,o),
+(214,251,cs),
+(214,241,o),
+(219,233,o),
+(231,233,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,334,ls),
+(337,334,o),
+(343,340,o),
+(343,351,cs),
+(343,359,o),
+(339,369,o),
+(325,369,cs),
+(231,369,ls),
+(220,369,o),
+(214,363,o),
+(214,352,cs),
+(214,342,o),
+(219,334,o),
+(231,334,c)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+axisRules = (
+{
+max = 60;
+min = 40;
+}
+);
+};
+layerId = "1FF416D8-6E6A-443D-B443-9CB83B7D1DD3";
+name = "4 Mar 24 at 12:21 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(307,411,ls),
+(311,408,o),
+(314,407,o),
+(318,407,cs),
+(327,408,o),
+(335,418,o),
+(335,427,cs),
+(335,432,o),
+(332,437,o),
+(327,440,cs),
+(250,494,ls),
+(246,497,o),
+(242,498,o),
+(239,498,cs),
+(230,498,o),
+(222,488,o),
+(222,479,cs),
+(222,473,o),
+(225,468,o),
+(229,465,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(307,209,ls),
+(311,206,o),
+(314,205,o),
+(318,205,cs),
+(327,206,o),
+(335,216,o),
+(335,225,cs),
+(335,230,o),
+(332,235,o),
+(327,238,cs),
+(250,292,ls),
+(246,295,o),
+(242,296,o),
+(239,296,cs),
+(230,296,o),
+(222,286,o),
+(222,277,cs),
+(222,271,o),
+(225,266,o),
+(229,263,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(307,310,ls),
+(311,307,o),
+(314,306,o),
+(318,306,cs),
+(327,307,o),
+(335,317,o),
+(335,326,cs),
+(335,331,o),
+(332,336,o),
+(327,339,cs),
+(250,393,ls),
+(246,396,o),
+(242,397,o),
+(239,397,cs),
+(230,397,o),
+(222,387,o),
+(222,378,cs),
+(222,372,o),
+(225,367,o),
+(229,364,cs)
 );
 }
 );
@@ -135473,542 +135493,6 @@ width = 600;
 {
 color = 1;
 export = 0;
-glyphname = _part.shortBristles;
-lastChange = "2024-03-04 12:37:36 +0000";
-layers = (
-{
-layerId = m003;
-shapes = (
-{
-closed = 1;
-nodes = (
-(303,563,cs),
-(303,569,o),
-(300,573,o),
-(295,577,cs),
-(235,619,ls),
-(231,622,o),
-(227,624,o),
-(223,624,cs),
-(214,624,o),
-(205,615,o),
-(205,606,cs),
-(205,600,o),
-(208,595,o),
-(214,591,cs),
-(274,549,ls),
-(277,547,o),
-(281,545,o),
-(285,545,cs),
-(294,545,o),
-(303,554,o)
-);
-},
-{
-closed = 1;
-nodes = (
-(303,638,cs),
-(303,644,o),
-(300,648,o),
-(295,652,cs),
-(235,694,ls),
-(231,697,o),
-(227,699,o),
-(223,699,cs),
-(214,699,o),
-(205,690,o),
-(205,681,cs),
-(205,675,o),
-(208,670,o),
-(214,666,cs),
-(274,624,ls),
-(277,622,o),
-(281,620,o),
-(285,620,cs),
-(294,620,o),
-(303,629,o)
-);
-}
-);
-width = 600;
-},
-{
-layerId = m01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(303,563,cs),
-(303,569,o),
-(300,573,o),
-(295,577,cs),
-(235,619,ls),
-(231,622,o),
-(227,624,o),
-(223,624,cs),
-(214,624,o),
-(205,615,o),
-(205,606,cs),
-(205,600,o),
-(208,595,o),
-(214,591,cs),
-(274,549,ls),
-(277,547,o),
-(281,545,o),
-(285,545,cs),
-(294,545,o),
-(303,554,o)
-);
-},
-{
-closed = 1;
-nodes = (
-(303,638,cs),
-(303,644,o),
-(300,648,o),
-(295,652,cs),
-(235,694,ls),
-(231,697,o),
-(227,699,o),
-(223,699,cs),
-(214,699,o),
-(205,690,o),
-(205,681,cs),
-(205,675,o),
-(208,670,o),
-(214,666,cs),
-(274,624,ls),
-(277,622,o),
-(281,620,o),
-(285,620,cs),
-(294,620,o),
-(303,629,o)
-);
-}
-);
-width = 600;
-},
-{
-layerId = m002;
-shapes = (
-{
-closed = 1;
-nodes = (
-(303,563,cs),
-(303,569,o),
-(300,573,o),
-(295,577,cs),
-(235,619,ls),
-(231,622,o),
-(227,624,o),
-(223,624,cs),
-(214,624,o),
-(205,615,o),
-(205,606,cs),
-(205,600,o),
-(208,595,o),
-(214,591,cs),
-(274,549,ls),
-(277,547,o),
-(281,545,o),
-(285,545,cs),
-(294,545,o),
-(303,554,o)
-);
-},
-{
-closed = 1;
-nodes = (
-(303,638,cs),
-(303,644,o),
-(300,648,o),
-(295,652,cs),
-(235,694,ls),
-(231,697,o),
-(227,699,o),
-(223,699,cs),
-(214,699,o),
-(205,690,o),
-(205,681,cs),
-(205,675,o),
-(208,670,o),
-(214,666,cs),
-(274,624,ls),
-(277,622,o),
-(281,620,o),
-(285,620,cs),
-(294,620,o),
-(303,629,o)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m003;
-attr = {
-axisRules = (
-{
-max = 39.99;
-min = 20;
-}
-);
-};
-layerId = "409B4C16-A244-4684-BDD4-EAC6EE2ACCB8";
-name = "4 Mar 24 at 1:19 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(199,573,o),
-(207,567,o),
-(217,567,cs),
-(291,567,ls),
-(302,567,o),
-(309,573,o),
-(309,585,cs),
-(309,596,o),
-(301,602,o),
-(290,602,cs),
-(216,602,ls),
-(206,602,o),
-(199,596,o),
-(199,585,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(199,648,o),
-(207,642,o),
-(217,642,cs),
-(291,642,ls),
-(302,642,o),
-(309,648,o),
-(309,660,cs),
-(309,671,o),
-(301,677,o),
-(290,677,cs),
-(216,677,ls),
-(206,677,o),
-(199,671,o),
-(199,660,cs)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m003;
-attr = {
-axisRules = (
-{
-max = 60;
-min = 40;
-}
-);
-};
-layerId = "89306927-5B2E-4480-B981-B41FB449F3EB";
-name = "4 Mar 24 at 1:19 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(214,545,o),
-(223,545,cs),
-(227,545,o),
-(231,547,o),
-(234,549,cs),
-(294,591,ls),
-(300,595,o),
-(303,600,o),
-(303,606,cs),
-(303,615,o),
-(294,624,o),
-(285,624,cs),
-(281,624,o),
-(277,622,o),
-(273,619,cs),
-(213,577,ls),
-(208,573,o),
-(205,569,o),
-(205,563,cs),
-(205,554,o)
-);
-},
-{
-closed = 1;
-nodes = (
-(214,620,o),
-(223,620,cs),
-(227,620,o),
-(231,622,o),
-(234,624,cs),
-(294,666,ls),
-(300,670,o),
-(303,675,o),
-(303,681,cs),
-(303,690,o),
-(294,699,o),
-(285,699,cs),
-(281,699,o),
-(277,697,o),
-(273,694,cs),
-(213,652,ls),
-(208,648,o),
-(205,644,o),
-(205,638,cs),
-(205,629,o)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m01;
-attr = {
-axisRules = (
-{
-max = 39.99;
-min = 20;
-}
-);
-};
-layerId = "FC837ADC-C374-45CD-A1AC-F979DD348D6B";
-name = "4 Mar 24 at 1:19 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(199,573,o),
-(207,567,o),
-(217,567,cs),
-(291,567,ls),
-(302,567,o),
-(309,573,o),
-(309,585,cs),
-(309,596,o),
-(301,602,o),
-(290,602,cs),
-(216,602,ls),
-(206,602,o),
-(199,596,o),
-(199,585,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(199,648,o),
-(207,642,o),
-(217,642,cs),
-(291,642,ls),
-(302,642,o),
-(309,648,o),
-(309,660,cs),
-(309,671,o),
-(301,677,o),
-(290,677,cs),
-(216,677,ls),
-(206,677,o),
-(199,671,o),
-(199,660,cs)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m01;
-attr = {
-axisRules = (
-{
-max = 60;
-min = 40;
-}
-);
-};
-layerId = "D763D5B0-4F66-4E3C-BA8B-BF9E0E7B3E86";
-name = "4 Mar 24 at 1:19 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(214,545,o),
-(223,545,cs),
-(227,545,o),
-(231,547,o),
-(234,549,cs),
-(294,591,ls),
-(300,595,o),
-(303,600,o),
-(303,606,cs),
-(303,615,o),
-(294,624,o),
-(285,624,cs),
-(281,624,o),
-(277,622,o),
-(273,619,cs),
-(213,577,ls),
-(208,573,o),
-(205,569,o),
-(205,563,cs),
-(205,554,o)
-);
-},
-{
-closed = 1;
-nodes = (
-(214,620,o),
-(223,620,cs),
-(227,620,o),
-(231,622,o),
-(234,624,cs),
-(294,666,ls),
-(300,670,o),
-(303,675,o),
-(303,681,cs),
-(303,690,o),
-(294,699,o),
-(285,699,cs),
-(281,699,o),
-(277,697,o),
-(273,694,cs),
-(213,652,ls),
-(208,648,o),
-(205,644,o),
-(205,638,cs),
-(205,629,o)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m002;
-attr = {
-axisRules = (
-{
-max = 39.99;
-min = 20;
-}
-);
-};
-layerId = "5F2C939A-59EC-4061-8ED8-17545A07F935";
-name = "4 Mar 24 at 1:19 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(199,573,o),
-(207,567,o),
-(217,567,cs),
-(291,567,ls),
-(302,567,o),
-(309,573,o),
-(309,585,cs),
-(309,596,o),
-(301,602,o),
-(290,602,cs),
-(216,602,ls),
-(206,602,o),
-(199,596,o),
-(199,585,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(199,648,o),
-(207,642,o),
-(217,642,cs),
-(291,642,ls),
-(302,642,o),
-(309,648,o),
-(309,660,cs),
-(309,671,o),
-(301,677,o),
-(290,677,cs),
-(216,677,ls),
-(206,677,o),
-(199,671,o),
-(199,660,cs)
-);
-}
-);
-width = 600;
-},
-{
-associatedMasterId = m002;
-attr = {
-axisRules = (
-{
-max = 60;
-min = 40;
-}
-);
-};
-layerId = "B7EF8C46-6F49-4E8A-BFF3-893FF64B5A28";
-name = "4 Mar 24 at 1:19 PM";
-shapes = (
-{
-closed = 1;
-nodes = (
-(214,545,o),
-(223,545,cs),
-(227,545,o),
-(231,547,o),
-(234,549,cs),
-(294,591,ls),
-(300,595,o),
-(303,600,o),
-(303,606,cs),
-(303,615,o),
-(294,624,o),
-(285,624,cs),
-(281,624,o),
-(277,622,o),
-(273,619,cs),
-(213,577,ls),
-(208,573,o),
-(205,569,o),
-(205,563,cs),
-(205,554,o)
-);
-},
-{
-closed = 1;
-nodes = (
-(214,620,o),
-(223,620,cs),
-(227,620,o),
-(231,622,o),
-(234,624,cs),
-(294,666,ls),
-(300,670,o),
-(303,675,o),
-(303,681,cs),
-(303,690,o),
-(294,699,o),
-(285,699,cs),
-(281,699,o),
-(277,697,o),
-(273,694,cs),
-(213,652,ls),
-(208,648,o),
-(205,644,o),
-(205,638,cs),
-(205,629,o)
-);
-}
-);
-width = 600;
-}
-);
-},
-{
-color = 1;
-export = 0;
 glyphname = _part.shortbones;
 lastChange = "2024-03-04 12:35:57 +0000";
 layers = (
@@ -137232,6 +136716,542 @@ nodes = (
 }
 );
 width = 660;
+}
+);
+},
+{
+color = 1;
+export = 0;
+glyphname = _part.shortbristles;
+lastChange = "2024-03-11 14:08:35 +0000";
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(303,563,cs),
+(303,569,o),
+(300,573,o),
+(295,577,cs),
+(235,619,ls),
+(231,622,o),
+(227,624,o),
+(223,624,cs),
+(214,624,o),
+(205,615,o),
+(205,606,cs),
+(205,600,o),
+(208,595,o),
+(214,591,cs),
+(274,549,ls),
+(277,547,o),
+(281,545,o),
+(285,545,cs),
+(294,545,o),
+(303,554,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(303,638,cs),
+(303,644,o),
+(300,648,o),
+(295,652,cs),
+(235,694,ls),
+(231,697,o),
+(227,699,o),
+(223,699,cs),
+(214,699,o),
+(205,690,o),
+(205,681,cs),
+(205,675,o),
+(208,670,o),
+(214,666,cs),
+(274,624,ls),
+(277,622,o),
+(281,620,o),
+(285,620,cs),
+(294,620,o),
+(303,629,o)
+);
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(303,563,cs),
+(303,569,o),
+(300,573,o),
+(295,577,cs),
+(235,619,ls),
+(231,622,o),
+(227,624,o),
+(223,624,cs),
+(214,624,o),
+(205,615,o),
+(205,606,cs),
+(205,600,o),
+(208,595,o),
+(214,591,cs),
+(274,549,ls),
+(277,547,o),
+(281,545,o),
+(285,545,cs),
+(294,545,o),
+(303,554,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(303,638,cs),
+(303,644,o),
+(300,648,o),
+(295,652,cs),
+(235,694,ls),
+(231,697,o),
+(227,699,o),
+(223,699,cs),
+(214,699,o),
+(205,690,o),
+(205,681,cs),
+(205,675,o),
+(208,670,o),
+(214,666,cs),
+(274,624,ls),
+(277,622,o),
+(281,620,o),
+(285,620,cs),
+(294,620,o),
+(303,629,o)
+);
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(303,563,cs),
+(303,569,o),
+(300,573,o),
+(295,577,cs),
+(235,619,ls),
+(231,622,o),
+(227,624,o),
+(223,624,cs),
+(214,624,o),
+(205,615,o),
+(205,606,cs),
+(205,600,o),
+(208,595,o),
+(214,591,cs),
+(274,549,ls),
+(277,547,o),
+(281,545,o),
+(285,545,cs),
+(294,545,o),
+(303,554,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(303,638,cs),
+(303,644,o),
+(300,648,o),
+(295,652,cs),
+(235,694,ls),
+(231,697,o),
+(227,699,o),
+(223,699,cs),
+(214,699,o),
+(205,690,o),
+(205,681,cs),
+(205,675,o),
+(208,670,o),
+(214,666,cs),
+(274,624,ls),
+(277,622,o),
+(281,620,o),
+(285,620,cs),
+(294,620,o),
+(303,629,o)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m003;
+attr = {
+axisRules = (
+{
+max = 39.99;
+min = 20;
+}
+);
+};
+layerId = "409B4C16-A244-4684-BDD4-EAC6EE2ACCB8";
+name = "4 Mar 24 at 1:19 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,573,o),
+(207,567,o),
+(217,567,cs),
+(291,567,ls),
+(302,567,o),
+(309,573,o),
+(309,585,cs),
+(309,596,o),
+(301,602,o),
+(290,602,cs),
+(216,602,ls),
+(206,602,o),
+(199,596,o),
+(199,585,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(199,648,o),
+(207,642,o),
+(217,642,cs),
+(291,642,ls),
+(302,642,o),
+(309,648,o),
+(309,660,cs),
+(309,671,o),
+(301,677,o),
+(290,677,cs),
+(216,677,ls),
+(206,677,o),
+(199,671,o),
+(199,660,cs)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m003;
+attr = {
+axisRules = (
+{
+max = 60;
+min = 40;
+}
+);
+};
+layerId = "89306927-5B2E-4480-B981-B41FB449F3EB";
+name = "4 Mar 24 at 1:19 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,545,o),
+(223,545,cs),
+(227,545,o),
+(231,547,o),
+(234,549,cs),
+(294,591,ls),
+(300,595,o),
+(303,600,o),
+(303,606,cs),
+(303,615,o),
+(294,624,o),
+(285,624,cs),
+(281,624,o),
+(277,622,o),
+(273,619,cs),
+(213,577,ls),
+(208,573,o),
+(205,569,o),
+(205,563,cs),
+(205,554,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(214,620,o),
+(223,620,cs),
+(227,620,o),
+(231,622,o),
+(234,624,cs),
+(294,666,ls),
+(300,670,o),
+(303,675,o),
+(303,681,cs),
+(303,690,o),
+(294,699,o),
+(285,699,cs),
+(281,699,o),
+(277,697,o),
+(273,694,cs),
+(213,652,ls),
+(208,648,o),
+(205,644,o),
+(205,638,cs),
+(205,629,o)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+axisRules = (
+{
+max = 39.99;
+min = 20;
+}
+);
+};
+layerId = "FC837ADC-C374-45CD-A1AC-F979DD348D6B";
+name = "4 Mar 24 at 1:19 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,573,o),
+(207,567,o),
+(217,567,cs),
+(291,567,ls),
+(302,567,o),
+(309,573,o),
+(309,585,cs),
+(309,596,o),
+(301,602,o),
+(290,602,cs),
+(216,602,ls),
+(206,602,o),
+(199,596,o),
+(199,585,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(199,648,o),
+(207,642,o),
+(217,642,cs),
+(291,642,ls),
+(302,642,o),
+(309,648,o),
+(309,660,cs),
+(309,671,o),
+(301,677,o),
+(290,677,cs),
+(216,677,ls),
+(206,677,o),
+(199,671,o),
+(199,660,cs)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m01;
+attr = {
+axisRules = (
+{
+max = 60;
+min = 40;
+}
+);
+};
+layerId = "D763D5B0-4F66-4E3C-BA8B-BF9E0E7B3E86";
+name = "4 Mar 24 at 1:19 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,545,o),
+(223,545,cs),
+(227,545,o),
+(231,547,o),
+(234,549,cs),
+(294,591,ls),
+(300,595,o),
+(303,600,o),
+(303,606,cs),
+(303,615,o),
+(294,624,o),
+(285,624,cs),
+(281,624,o),
+(277,622,o),
+(273,619,cs),
+(213,577,ls),
+(208,573,o),
+(205,569,o),
+(205,563,cs),
+(205,554,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(214,620,o),
+(223,620,cs),
+(227,620,o),
+(231,622,o),
+(234,624,cs),
+(294,666,ls),
+(300,670,o),
+(303,675,o),
+(303,681,cs),
+(303,690,o),
+(294,699,o),
+(285,699,cs),
+(281,699,o),
+(277,697,o),
+(273,694,cs),
+(213,652,ls),
+(208,648,o),
+(205,644,o),
+(205,638,cs),
+(205,629,o)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m002;
+attr = {
+axisRules = (
+{
+max = 39.99;
+min = 20;
+}
+);
+};
+layerId = "5F2C939A-59EC-4061-8ED8-17545A07F935";
+name = "4 Mar 24 at 1:19 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,573,o),
+(207,567,o),
+(217,567,cs),
+(291,567,ls),
+(302,567,o),
+(309,573,o),
+(309,585,cs),
+(309,596,o),
+(301,602,o),
+(290,602,cs),
+(216,602,ls),
+(206,602,o),
+(199,596,o),
+(199,585,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(199,648,o),
+(207,642,o),
+(217,642,cs),
+(291,642,ls),
+(302,642,o),
+(309,648,o),
+(309,660,cs),
+(309,671,o),
+(301,677,o),
+(290,677,cs),
+(216,677,ls),
+(206,677,o),
+(199,671,o),
+(199,660,cs)
+);
+}
+);
+width = 600;
+},
+{
+associatedMasterId = m002;
+attr = {
+axisRules = (
+{
+max = 60;
+min = 40;
+}
+);
+};
+layerId = "B7EF8C46-6F49-4E8A-BFF3-893FF64B5A28";
+name = "4 Mar 24 at 1:19 PM";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,545,o),
+(223,545,cs),
+(227,545,o),
+(231,547,o),
+(234,549,cs),
+(294,591,ls),
+(300,595,o),
+(303,600,o),
+(303,606,cs),
+(303,615,o),
+(294,624,o),
+(285,624,cs),
+(281,624,o),
+(277,622,o),
+(273,619,cs),
+(213,577,ls),
+(208,573,o),
+(205,569,o),
+(205,563,cs),
+(205,554,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(214,620,o),
+(223,620,cs),
+(227,620,o),
+(231,622,o),
+(234,624,cs),
+(294,666,ls),
+(300,670,o),
+(303,675,o),
+(303,681,cs),
+(303,690,o),
+(294,699,o),
+(285,699,cs),
+(281,699,o),
+(277,697,o),
+(273,694,cs),
+(213,652,ls),
+(208,648,o),
+(205,644,o),
+(205,638,cs),
+(205,629,o)
+);
+}
+);
+width = 600;
 }
 );
 },
@@ -138917,17 +138937,17 @@ axesValues = (
 instanceInterpolations = {
 m01 = 1;
 };
-name = "0";
+name = Uzo;
 weightClass = 500;
 },
 {
 axesValues = (
-40
+30
 );
 instanceInterpolations = {
 m002 = 1;
 };
-name = "1";
+name = Onye;
 weightClass = 600;
 },
 {
@@ -138937,7 +138957,7 @@ axesValues = (
 instanceInterpolations = {
 m003 = 1;
 };
-name = "2";
+name = Ato;
 weightClass = 700;
 }
 );
