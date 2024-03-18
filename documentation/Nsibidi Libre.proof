@@ -5,7 +5,7 @@
       {
         "familyName" : "Nsibidi Libre",
         "filePath" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
-        "id" : "8545EF62-7057-4CF6-9204-35BE01FD8269",
+        "id" : "AC591282-1D5D-4676-A026-27331E9CBC5E",
         "type" : "GlyphsFormat3"
       }
     ],
@@ -27,7 +27,7 @@
             "upm" : 1000,
             "version" : "1.011"
           },
-          "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
+          "project" : "2A5C3ACB-0DAD-45CF-81D4-1E703E7AB357",
           "styleName" : "3",
           "type" : "source"
         },
@@ -35,48 +35,53 @@
       },
       {
         "active" : true,
+        "familyName" : "Nsibidi Libre",
         "fontProjectStyle" : {
           "active" : true,
           "id" : "m003",
           "info" : {
             "axisValues" : {
-              "morf" : 2
+              "morf" : 60
             },
             "designerName" : "Oluwaseun Badejo",
             "familyName" : "Nsibidi Libre",
             "fontSlant" : -0,
-            "styleName" : "2",
+            "styleName" : "Ato",
             "upm" : 1000,
-            "version" : "1.012"
+            "version" : "1.013"
           },
           "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
-          "styleName" : "2",
+          "styleName" : "Ato",
           "type" : "source"
-        }
+        },
+        "styleName" : "2"
       },
       {
         "active" : true,
+        "familyName" : "Nsibidi Libre",
         "fontProjectStyle" : {
           "active" : true,
           "id" : "m002",
           "info" : {
             "axisValues" : {
-              "morf" : 1
+              "morf" : 30
             },
             "designerName" : "Oluwaseun Badejo",
             "familyName" : "Nsibidi Libre",
             "fontSlant" : -0,
-            "styleName" : "1",
+            "styleName" : "Onye",
             "upm" : 1000,
-            "version" : "1.012"
+            "version" : "1.013"
           },
           "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
-          "styleName" : "1",
+          "styleName" : "Onye",
           "type" : "source"
-        }
+        },
+        "styleName" : "1"
       },
       {
         "active" : true,
+        "familyName" : "Nsibidi Libre",
         "fontProjectStyle" : {
           "active" : true,
           "id" : "m01",
@@ -87,14 +92,15 @@
             "designerName" : "Oluwaseun Badejo",
             "familyName" : "Nsibidi Libre",
             "fontSlant" : -0,
-            "styleName" : "0",
+            "styleName" : "Uzo",
             "upm" : 1000,
-            "version" : "1.012"
+            "version" : "1.013"
           },
           "project" : "~/Documents/53VN HQ/Nsibidi Glyphset/Typeface Design/nsibidi-libre/nsibidi-libre/sources/Nsibidi_Libre.glyphs",
-          "styleName" : "0",
+          "styleName" : "Uzo",
           "type" : "source"
-        }
+        },
+        "styleName" : "0"
       }
     ]
   },
@@ -421,8 +427,8 @@
         },
         "gridFontSize" : 120,
         "gridGutters" : [
-          21.600000000001,
-          43.200000000001
+          21.600000000001998,
+          43.200000000002
         ],
         "gridItemsPerLine" : 0,
         "gridLineAlign" : "justified"
@@ -452,8 +458,8 @@
       "fontSize" : 16
     },
     "pageSize" : {
-      "height" : 1188.000000000002,
-      "width" : 1684.800000000002
+      "height" : 1188.0000000000032,
+      "width" : 1684.800000000003
     },
     "removeEmptyGlyphs" : true,
     "units" : {
