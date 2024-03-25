@@ -36,7 +36,7 @@ numCols = 1
 numRows = 15
 
 # customize the glyphs that surround each glyph. Maybe use 'non', 'ono' for lowercase
-spaceStrings=['HOH','OHO']
+spaceStrings=['non','ono']
 
 bgColorR, bgColorG, bgColorB, bgColorA = 1,1,1,1
 textColorR, textColorG, textColorB, textColorA = 0,0,0,1
