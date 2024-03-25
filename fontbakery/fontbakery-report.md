@@ -35,10 +35,100 @@ fontbakery version: 0.10.3
 * ⚠ **WARN** GF_Latin_Core/dyo_Latn (Jola-Fonyi): [WARN: No variant glyphs were found for Eng] [code: warning-language-shaping]
 * ⚠ **WARN** GF_Latin_Core/ny_Latn (Nyanja): [WARN: No variant glyphs were found for Eng] [code: warning-language-shaping]
 * ⚠ **WARN** GF_Latin_Core/wo_Latn (Wolof): [WARN: No variant glyphs were found for Eng] [code: warning-language-shaping]
-</div></details><br></div></details><details><summary><b>[18] NsibidiLibre-Uzo.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[17] NsibidiLibre-Uzo.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
-* 🔥 **FAIL** Font lacks NameID 13 (LICENSE DESCRIPTION). A proper licensing entry must be set. [code: missing]
+* 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
 
 
@@ -53,19 +143,19 @@ fontbakery version: 0.10.3
 | Typographic Family Name | **Nsibidi Libre** | **N/A** |
 | Typographic Subfamily Name | **Uzo** | **N/A** | [code: bad-names]
 * ⚠ **WARN** Regular missing from full name [code: lacks-regular]
+</div></details><details><summary>🔥 <b>FAIL:</b> Name table entries should not contain line-breaks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/line_breaks">com.google.fonts/check/name/line_breaks</a>)</summary><div>
+
+
+* 🔥 **FAIL** Name entry LICENSE_DESCRIPTION on platform WINDOWS contains a line-break. [code: line-break]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.sTypoLineGap is "174" it should be 0 [code: bad-OS/2.sTypoLineGap]
+* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1026 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1150, but got 900 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1150, but got 726 instead [code: ascent]
 * 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 309, but got 300 instead [code: descent]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 sTypoAscender (726) and hhea ascent (900) must be equal. [code: ascender]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
@@ -145,8 +235,6 @@ fontbakery version: 0.10.3
 
 	- Glyph name: divide	Expected: 3
 
-	- Glyph name: hbar	Expected: 1
-
 	- Glyph name: Eng	Expected: 1
 
 	- Glyph name: eng	Expected: 1
@@ -159,11 +247,7 @@ fontbakery version: 0.10.3
 
 	- Glyph name: Iotalatin	Expected: 1
 
-	- Glyph name: ohorn	Expected: 2
-
 	- Glyph name: uni01A9	Expected: 1
-
-	- Glyph name: uhorn	Expected: 1
 
 	- Glyph name: Upsilonlatin	Expected: 1
 
@@ -173,8 +257,6 @@ fontbakery version: 0.10.3
 
 	- Glyph name: uni01B9	Expected: 1
 
-	- Glyph name: uni01C3	Expected: 2
-
 	- Glyph name: uni01EE	Expected: 2
 
 	- Glyph name: uni01EF	Expected: 2
@@ -182,10 +264,6 @@ fontbakery version: 0.10.3
 	- Glyph name: uni0222	Expected: 2
 
 	- Glyph name: uni0223	Expected: 2
-
-	- Glyph name: uni0241	Expected: 1
-
-	- Glyph name: uni0242	Expected: 1
 
 	- Glyph name: uni0251	Expected: 2
 
@@ -204,26 +282,6 @@ fontbakery version: 0.10.3
 	- Glyph name: uni0E3F	Expected: 3 or 5
 
 	- Glyph name: uni1E9E	Expected: 1
-
-	- Glyph name: uni1EDB	Expected: 3
-
-	- Glyph name: uni1EDD	Expected: 3
-
-	- Glyph name: uni1EDF	Expected: 3
-
-	- Glyph name: uni1EE1	Expected: 3
-
-	- Glyph name: uni1EE3	Expected: 3
-
-	- Glyph name: uni1EE9	Expected: 2
-
-	- Glyph name: uni1EEB	Expected: 2
-
-	- Glyph name: uni1EED	Expected: 2
-
-	- Glyph name: uni1EEF	Expected: 2
-
-	- Glyph name: uni1EF1	Expected: 2
 
 	- Glyph name: quoteleft	Expected: 1
 
@@ -409,8 +467,6 @@ fontbakery version: 0.10.3
 
 	- Glyph name: greaterequal	Expected: 2
 
-	- Glyph name: hbar	Expected: 1
-
 	- Glyph name: infinity	Expected: 3
 
 	- Glyph name: integral	Expected: 1
@@ -426,8 +482,6 @@ fontbakery version: 0.10.3
 	- Glyph name: multiply	Expected: 1
 
 	- Glyph name: notequal	Expected: 1
-
-	- Glyph name: ohorn	Expected: 2
 
 	- Glyph name: onehalf	Expected: 3
 
@@ -467,8 +521,6 @@ fontbakery version: 0.10.3
 
 	- Glyph name: threequarters	Expected: 3 or 4
 
-	- Glyph name: uhorn	Expected: 1
-
 	- Glyph name: uni00B5	Expected: 1
 
 	- Glyph name: uni018F	Expected: 2
@@ -481,8 +533,6 @@ fontbakery version: 0.10.3
 
 	- Glyph name: uni01B9	Expected: 1
 
-	- Glyph name: uni01C3	Expected: 2
-
 	- Glyph name: uni01EE	Expected: 2
 
 	- Glyph name: uni01EF	Expected: 2
@@ -490,10 +540,6 @@ fontbakery version: 0.10.3
 	- Glyph name: uni0222	Expected: 2
 
 	- Glyph name: uni0223	Expected: 2
-
-	- Glyph name: uni0241	Expected: 1
-
-	- Glyph name: uni0242	Expected: 1
 
 	- Glyph name: uni0251	Expected: 2
 
@@ -510,26 +556,6 @@ fontbakery version: 0.10.3
 	- Glyph name: uni0E3F	Expected: 3 or 5
 
 	- Glyph name: uni1E9E	Expected: 1
-
-	- Glyph name: uni1EDB	Expected: 3
-
-	- Glyph name: uni1EDD	Expected: 3
-
-	- Glyph name: uni1EDF	Expected: 3
-
-	- Glyph name: uni1EE1	Expected: 3
-
-	- Glyph name: uni1EE3	Expected: 3
-
-	- Glyph name: uni1EE9	Expected: 2
-
-	- Glyph name: uni1EEB	Expected: 2
-
-	- Glyph name: uni1EED	Expected: 2
-
-	- Glyph name: uni1EEF	Expected: 2
-
-	- Glyph name: uni1EF1	Expected: 2
 
 	- Glyph name: uni20A6	Expected: 1, 3 or 5
 
@@ -875,6 +901,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Hbar	Contours detected: 5	Expected: 2
 
+	- Glyph name: hbar	Contours detected: 8	Expected: 1
+
 	- Glyph name: IJ	Contours detected: 5	Expected: 1 or 2
 
 	- Glyph name: uni0136	Contours detected: 6	Expected: 2 or 3
@@ -1023,11 +1051,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Ohorn	Contours detected: 11	Expected: 2 or 3
 
+	- Glyph name: ohorn	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni01A4	Contours detected: 6	Expected: 2
 
 	- Glyph name: uni01AE	Contours detected: 5	Expected: 1
 
 	- Glyph name: Uhorn	Contours detected: 8	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 8	Expected: 1
 
 	- Glyph name: uni01B5	Contours detected: 6	Expected: 1
 
@@ -1519,13 +1551,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EDA	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EDB	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EDC	Contours detected: 12	Expected: 3 or 4
+
+	- Glyph name: uni1EDD	Contours detected: 10	Expected: 3
 
 	- Glyph name: uni1EDE	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EDF	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EE0	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EE1	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EE2	Contours detected: 12	Expected: 3 or 4
+
+	- Glyph name: uni1EE3	Contours detected: 10	Expected: 3
 
 	- Glyph name: uni1EE4	Contours detected: 8	Expected: 2
 
@@ -1537,13 +1579,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EE8	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EE9	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EEA	Contours detected: 9	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 9	Expected: 2
 
 	- Glyph name: uni1EEC	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EED	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EEE	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EEF	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EF0	Contours detected: 9	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 9	Expected: 2
 
 	- Glyph name: Ygrave	Contours detected: 7	Expected: 2
 
@@ -1873,6 +1925,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: h	Contours detected: 7	Expected: 1
 
+	- Glyph name: hbar	Contours detected: 8	Expected: 1
+
 	- Glyph name: k	Contours detected: 5	Expected: 1 or 2
 
 	- Glyph name: lslash	Contours detected: 2	Expected: 1
@@ -1900,6 +1954,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: oe	Contours detected: 13	Expected: 3
 
 	- Glyph name: ograve	Contours detected: 9	Expected: 3
+
+	- Glyph name: ohorn	Contours detected: 9	Expected: 2
 
 	- Glyph name: ohungarumlaut	Contours detected: 10	Expected: 4
 
@@ -1960,6 +2016,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: udieresis	Contours detected: 9	Expected: 3
 
 	- Glyph name: ugrave	Contours detected: 8	Expected: 2
+
+	- Glyph name: uhorn	Contours detected: 8	Expected: 1
 
 	- Glyph name: uhungarumlaut	Contours detected: 9	Expected: 3
 
@@ -2409,13 +2467,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EDA	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EDB	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EDC	Contours detected: 12	Expected: 3 or 4
+
+	- Glyph name: uni1EDD	Contours detected: 10	Expected: 3
 
 	- Glyph name: uni1EDE	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EDF	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EE0	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EE1	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EE2	Contours detected: 12	Expected: 3 or 4
+
+	- Glyph name: uni1EE3	Contours detected: 10	Expected: 3
 
 	- Glyph name: uni1EE4	Contours detected: 8	Expected: 2
 
@@ -2427,13 +2495,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EE8	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EE9	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EEA	Contours detected: 9	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 9	Expected: 2
 
 	- Glyph name: uni1EEC	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EED	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EEE	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EEF	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EF0	Contours detected: 9	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 9	Expected: 2
 
 	- Glyph name: uni1EF4	Contours detected: 7	Expected: 2
 
@@ -2576,7 +2654,7 @@ The following glyphs do not have the recommended number of contours:
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
@@ -2585,9 +2663,9 @@ The following glyphs do not have the recommended number of contours:
  * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, coptic, cherokee
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, cherokee, math
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, old-permic, syriac, coptic, tai-le, math, tifinagh, malayalam
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, math, coptic, syriac, malayalam, canadian-aboriginal, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
@@ -2604,14 +2682,14 @@ The following glyphs do not have the recommended number of contours:
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, caucasian-albanian, gothic, tifinagh, cherokee
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
+ * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, cherokee, gothic, syriac, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
  * U+0336 COMBINING LONG STROKE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
- * U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math
+ * U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math
  * U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai
  * U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition
  * U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition
@@ -2665,7 +2743,7 @@ The following glyphs do not have the recommended number of contours:
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25A1 WHITE SQUARE: try adding symbols
- * U+25CC DOTTED CIRCLE: try adding one of: sinhala, newa, telugu, modi, khmer, kayah-li, miao, pahawh-hmong, osage, myanmar, ahom, bassa-vah, symbols, limbu, syloti-nagri, dogra, tifinagh, meetei-mayek, marchen, mandaic, mahajani, tamil, hebrew, wancho, tai-le, gurmukhi, yi, rejang, gujarati, adlam, lepcha, javanese, khudawadi, cham, chakma, brahmi, masaram-gondi, hanunoo, grantha, thai, sharada, khojki, takri, tagbanwa, duployan, buginese, kannada, gunjala-gondi, bengali, hanifi-rohingya, old-permic, oriya, tagalog, devanagari, psalter-pahlavi, coptic, kharoshthi, soyombo, manichaean, tai-viet, sundanese, sogdian, syriac, new-tai-lue, batak, malayalam, mende-kikakui, zanabazar-square, phags-pa, bhaiksuki, siddham, kaithi, mongolian, buhid, math, nko, tibetan, thaana, balinese, elbasan, caucasian-albanian, lao, music, tirhuta
+ * U+25CC DOTTED CIRCLE: try adding one of: hanifi-rohingya, thai, wancho, mandaic, khojki, buginese, yi, elbasan, psalter-pahlavi, khudawadi, phags-pa, lao, nko, rejang, mahajani, marchen, modi, sundanese, tibetan, duployan, tagbanwa, takri, sinhala, chakma, batak, pahawh-hmong, kharoshthi, sogdian, mongolian, tifinagh, gurmukhi, tirhuta, miao, javanese, adlam, bassa-vah, telugu, limbu, bengali, buhid, siddham, mende-kikakui, myanmar, manichaean, hebrew, tai-viet, old-permic, sharada, brahmi, bhaiksuki, coptic, balinese, syloti-nagri, symbols, cham, oriya, tamil, gujarati, devanagari, music, gunjala-gondi, kannada, tagalog, lepcha, masaram-gondi, syriac, caucasian-albanian, zanabazar-square, thaana, ahom, newa, osage, tai-le, khmer, new-tai-lue, soyombo, hanunoo, kayah-li, dogra, math, meetei-mayek, malayalam, kaithi, grantha
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
@@ -3214,6 +3292,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- gdotaccent.BRACKET.varAlt02
 
+	- hbar.BRACKET.varAlt01
+
+	- hbar.BRACKET.varAlt02
+
 	- i.loclTRK
 
 	- i.loclTRK.BRACKET.varAlt01
@@ -3357,6 +3439,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 	- ograve.BRACKET.varAlt01
 
 	- ograve.BRACKET.varAlt02
+
+	- ohorn.BRACKET.varAlt01
+
+	- ohorn.BRACKET.varAlt02
 
 	- ohungarumlaut.BRACKET.varAlt01
 
@@ -3535,6 +3621,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 	- ugrave.BRACKET.varAlt01
 
 	- ugrave.BRACKET.varAlt02
+
+	- uhorn.BRACKET.varAlt01
+
+	- uhorn.BRACKET.varAlt02
 
 	- uhungarumlaut.BRACKET.varAlt01
 
@@ -4916,21 +5006,41 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- uni1EDA.BRACKET.varAlt02
 
+	- uni1EDB.BRACKET.varAlt01
+
+	- uni1EDB.BRACKET.varAlt02
+
 	- uni1EDC.BRACKET.varAlt01
 
 	- uni1EDC.BRACKET.varAlt02
+
+	- uni1EDD.BRACKET.varAlt01
+
+	- uni1EDD.BRACKET.varAlt02
 
 	- uni1EDE.BRACKET.varAlt01
 
 	- uni1EDE.BRACKET.varAlt02
 
+	- uni1EDF.BRACKET.varAlt01
+
+	- uni1EDF.BRACKET.varAlt02
+
 	- uni1EE0.BRACKET.varAlt01
 
 	- uni1EE0.BRACKET.varAlt02
 
+	- uni1EE1.BRACKET.varAlt01
+
+	- uni1EE1.BRACKET.varAlt02
+
 	- uni1EE2.BRACKET.varAlt01
 
 	- uni1EE2.BRACKET.varAlt02
+
+	- uni1EE3.BRACKET.varAlt01
+
+	- uni1EE3.BRACKET.varAlt02
 
 	- uni1EE4.BRACKET.varAlt01
 
@@ -4952,21 +5062,41 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- uni1EE8.BRACKET.varAlt02
 
+	- uni1EE9.BRACKET.varAlt01
+
+	- uni1EE9.BRACKET.varAlt02
+
 	- uni1EEA.BRACKET.varAlt01
 
 	- uni1EEA.BRACKET.varAlt02
+
+	- uni1EEB.BRACKET.varAlt01
+
+	- uni1EEB.BRACKET.varAlt02
 
 	- uni1EEC.BRACKET.varAlt01
 
 	- uni1EEC.BRACKET.varAlt02
 
+	- uni1EED.BRACKET.varAlt01
+
+	- uni1EED.BRACKET.varAlt02
+
 	- uni1EEE.BRACKET.varAlt01
 
 	- uni1EEE.BRACKET.varAlt02
 
+	- uni1EEF.BRACKET.varAlt01
+
+	- uni1EEF.BRACKET.varAlt02
+
 	- uni1EF0.BRACKET.varAlt01
 
 	- uni1EF0.BRACKET.varAlt02
+
+	- uni1EF1.BRACKET.varAlt01
+
+	- uni1EF1.BRACKET.varAlt02
 
 	- uni1EF4.BRACKET.varAlt01
 
@@ -5204,10 +5334,6 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- zmacronbelow.BRACKET.varAlt02
  [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Checking Vertical Metric Linegaps. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/linegaps">com.google.fonts/check/linegaps</a>)</summary><div>
-
-
-* ⚠ **WARN** OS/2 sTypoLineGap is not equal to 0. [code: OS/2]
 </div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
 
 
@@ -5258,6 +5384,8 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 	* Ygrave (U+1EF2): B<<45.0,700.0>-<46.0,700.0>-<44.0,699.0>>/B<<44.0,699.0>-<47.0,700.0>-<49.0,700.0>> = 8.13010235415587
 
 	* h (U+0068): B<<357.0,437.0>-<345.0,455.0>-<316.0,457.0>>/L<<316.0,457.0>--<316.0,457.0>> = 3.94518622903751
+
+	* hbar (U+0127): B<<357.0,437.0>-<345.0,455.0>-<316.0,457.0>>/L<<316.0,457.0>--<316.0,457.0>> = 3.94518622903751
 
 	* three (U+0033): B<<339.5,345.0>-<321.0,378.0>-<275.0,388.0>>/L<<275.0,388.0>--<275.0,388.0>> = 12.2647737278924
 
@@ -5377,13 +5505,103 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 The dot of soft dotted characters _should_ disappear in other cases, for example: ĭ i̇ i̒ i᷄ i᷅ ĭ̛ i̛̇ i̛̊ i̛̋ i̛̍ i̛̐ i̛̒ i̛̓ i̛᷄ i̛᷅ i̛᷆ i̛᷇ ĭ̥ i̥̇ i̥̊
 
-Your font fully covers the following languages that require the soft-dotted feature: Navajo (Latn, 166,319 speakers), Lugbara (Latn, 2,200,000 speakers), Lithuanian (Latn, 2,357,094 speakers). 
+Your font fully covers the following languages that require the soft-dotted feature: Lugbara (Latn, 2,200,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Navajo (Latn, 166,319 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: Basaa (Latn, 332,940 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Koonzime (Latn, 40,000 speakers), Ejagham (Latn, 120,000 speakers), Dutch (Latn, 31,709,104 speakers), Kom (Latn, 360,685 speakers), Aghem (Latn, 38,843 speakers), Ebira (Latn, 2,200,000 speakers), Ma’di (Latn, 584,000 speakers), Igbo (Latn, 27,823,640 speakers), Nateni (Latn, 100,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Dan (Latn, 1,099,244 speakers), Avokaya (Latn, 100,000 speakers). [code: soft-dotted]
-</div></details><br></div></details><details><summary><b>[18] NsibidiLibre-Onye.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+Your font does *not* cover the following languages that require the soft-dotted feature: Kom (Latn, 360,685 speakers), Belarusian (Cyrl, 10,064,517 speakers), Avokaya (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Koonzime (Latn, 40,000 speakers), Dutch (Latn, 31,709,104 speakers), Ma’di (Latn, 584,000 speakers), Aghem (Latn, 38,843 speakers), Nateni (Latn, 100,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Dan (Latn, 1,099,244 speakers). [code: soft-dotted]
+</div></details><br></div></details><details><summary><b>[17] NsibidiLibre-Onye.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
-* 🔥 **FAIL** Font lacks NameID 13 (LICENSE DESCRIPTION). A proper licensing entry must be set. [code: missing]
+* 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
 
 
@@ -5398,19 +5616,19 @@ Your font does *not* cover the following languages that require the soft-dotted 
 | Typographic Family Name | **Nsibidi Libre** | **N/A** |
 | Typographic Subfamily Name | **Onye** | **N/A** | [code: bad-names]
 * ⚠ **WARN** Regular missing from full name [code: lacks-regular]
+</div></details><details><summary>🔥 <b>FAIL:</b> Name table entries should not contain line-breaks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/line_breaks">com.google.fonts/check/name/line_breaks</a>)</summary><div>
+
+
+* 🔥 **FAIL** Name entry LICENSE_DESCRIPTION on platform WINDOWS contains a line-break. [code: line-break]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.sTypoLineGap is "174" it should be 0 [code: bad-OS/2.sTypoLineGap]
+* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1026 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1150, but got 900 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1150, but got 726 instead [code: ascent]
 * 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 309, but got 300 instead [code: descent]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 sTypoAscender (726) and hhea ascent (900) must be equal. [code: ascender]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
@@ -5490,8 +5708,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: divide	Expected: 3
 
-	- Glyph name: hbar	Expected: 1
-
 	- Glyph name: Eng	Expected: 1
 
 	- Glyph name: eng	Expected: 1
@@ -5504,11 +5720,7 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: Iotalatin	Expected: 1
 
-	- Glyph name: ohorn	Expected: 2
-
 	- Glyph name: uni01A9	Expected: 1
-
-	- Glyph name: uhorn	Expected: 1
 
 	- Glyph name: Upsilonlatin	Expected: 1
 
@@ -5518,8 +5730,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: uni01B9	Expected: 1
 
-	- Glyph name: uni01C3	Expected: 2
-
 	- Glyph name: uni01EE	Expected: 2
 
 	- Glyph name: uni01EF	Expected: 2
@@ -5527,10 +5737,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 	- Glyph name: uni0222	Expected: 2
 
 	- Glyph name: uni0223	Expected: 2
-
-	- Glyph name: uni0241	Expected: 1
-
-	- Glyph name: uni0242	Expected: 1
 
 	- Glyph name: uni0251	Expected: 2
 
@@ -5549,26 +5755,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 	- Glyph name: uni0E3F	Expected: 3 or 5
 
 	- Glyph name: uni1E9E	Expected: 1
-
-	- Glyph name: uni1EDB	Expected: 3
-
-	- Glyph name: uni1EDD	Expected: 3
-
-	- Glyph name: uni1EDF	Expected: 3
-
-	- Glyph name: uni1EE1	Expected: 3
-
-	- Glyph name: uni1EE3	Expected: 3
-
-	- Glyph name: uni1EE9	Expected: 2
-
-	- Glyph name: uni1EEB	Expected: 2
-
-	- Glyph name: uni1EED	Expected: 2
-
-	- Glyph name: uni1EEF	Expected: 2
-
-	- Glyph name: uni1EF1	Expected: 2
 
 	- Glyph name: quoteleft	Expected: 1
 
@@ -5754,8 +5940,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: greaterequal	Expected: 2
 
-	- Glyph name: hbar	Expected: 1
-
 	- Glyph name: infinity	Expected: 3
 
 	- Glyph name: integral	Expected: 1
@@ -5771,8 +5955,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 	- Glyph name: multiply	Expected: 1
 
 	- Glyph name: notequal	Expected: 1
-
-	- Glyph name: ohorn	Expected: 2
 
 	- Glyph name: onehalf	Expected: 3
 
@@ -5812,8 +5994,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: threequarters	Expected: 3 or 4
 
-	- Glyph name: uhorn	Expected: 1
-
 	- Glyph name: uni00B5	Expected: 1
 
 	- Glyph name: uni018F	Expected: 2
@@ -5826,8 +6006,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: uni01B9	Expected: 1
 
-	- Glyph name: uni01C3	Expected: 2
-
 	- Glyph name: uni01EE	Expected: 2
 
 	- Glyph name: uni01EF	Expected: 2
@@ -5835,10 +6013,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 	- Glyph name: uni0222	Expected: 2
 
 	- Glyph name: uni0223	Expected: 2
-
-	- Glyph name: uni0241	Expected: 1
-
-	- Glyph name: uni0242	Expected: 1
 
 	- Glyph name: uni0251	Expected: 2
 
@@ -5855,26 +6029,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 	- Glyph name: uni0E3F	Expected: 3 or 5
 
 	- Glyph name: uni1E9E	Expected: 1
-
-	- Glyph name: uni1EDB	Expected: 3
-
-	- Glyph name: uni1EDD	Expected: 3
-
-	- Glyph name: uni1EDF	Expected: 3
-
-	- Glyph name: uni1EE1	Expected: 3
-
-	- Glyph name: uni1EE3	Expected: 3
-
-	- Glyph name: uni1EE9	Expected: 2
-
-	- Glyph name: uni1EEB	Expected: 2
-
-	- Glyph name: uni1EED	Expected: 2
-
-	- Glyph name: uni1EEF	Expected: 2
-
-	- Glyph name: uni1EF1	Expected: 2
 
 	- Glyph name: uni20A6	Expected: 1, 3 or 5
 
@@ -6220,6 +6374,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Hbar	Contours detected: 5	Expected: 2
 
+	- Glyph name: hbar	Contours detected: 8	Expected: 1
+
 	- Glyph name: IJ	Contours detected: 5	Expected: 1 or 2
 
 	- Glyph name: uni0136	Contours detected: 6	Expected: 2 or 3
@@ -6368,11 +6524,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Ohorn	Contours detected: 11	Expected: 2 or 3
 
+	- Glyph name: ohorn	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni01A4	Contours detected: 6	Expected: 2
 
 	- Glyph name: uni01AE	Contours detected: 5	Expected: 1
 
 	- Glyph name: Uhorn	Contours detected: 8	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 8	Expected: 1
 
 	- Glyph name: uni01B5	Contours detected: 6	Expected: 1
 
@@ -6864,13 +7024,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EDA	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EDB	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EDC	Contours detected: 12	Expected: 3 or 4
+
+	- Glyph name: uni1EDD	Contours detected: 10	Expected: 3
 
 	- Glyph name: uni1EDE	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EDF	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EE0	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EE1	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EE2	Contours detected: 12	Expected: 3 or 4
+
+	- Glyph name: uni1EE3	Contours detected: 10	Expected: 3
 
 	- Glyph name: uni1EE4	Contours detected: 8	Expected: 2
 
@@ -6882,13 +7052,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EE8	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EE9	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EEA	Contours detected: 9	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 9	Expected: 2
 
 	- Glyph name: uni1EEC	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EED	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EEE	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EEF	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EF0	Contours detected: 9	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 9	Expected: 2
 
 	- Glyph name: Ygrave	Contours detected: 7	Expected: 2
 
@@ -7218,6 +7398,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: h	Contours detected: 7	Expected: 1
 
+	- Glyph name: hbar	Contours detected: 8	Expected: 1
+
 	- Glyph name: k	Contours detected: 5	Expected: 1 or 2
 
 	- Glyph name: lslash	Contours detected: 2	Expected: 1
@@ -7245,6 +7427,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: oe	Contours detected: 13	Expected: 3
 
 	- Glyph name: ograve	Contours detected: 9	Expected: 3
+
+	- Glyph name: ohorn	Contours detected: 9	Expected: 2
 
 	- Glyph name: ohungarumlaut	Contours detected: 10	Expected: 4
 
@@ -7305,6 +7489,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: udieresis	Contours detected: 9	Expected: 3
 
 	- Glyph name: ugrave	Contours detected: 8	Expected: 2
+
+	- Glyph name: uhorn	Contours detected: 8	Expected: 1
 
 	- Glyph name: uhungarumlaut	Contours detected: 9	Expected: 3
 
@@ -7754,13 +7940,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EDA	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EDB	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EDC	Contours detected: 12	Expected: 3 or 4
+
+	- Glyph name: uni1EDD	Contours detected: 10	Expected: 3
 
 	- Glyph name: uni1EDE	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EDF	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EE0	Contours detected: 12	Expected: 3 or 4
 
+	- Glyph name: uni1EE1	Contours detected: 10	Expected: 3
+
 	- Glyph name: uni1EE2	Contours detected: 12	Expected: 3 or 4
+
+	- Glyph name: uni1EE3	Contours detected: 10	Expected: 3
 
 	- Glyph name: uni1EE4	Contours detected: 8	Expected: 2
 
@@ -7772,13 +7968,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EE8	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EE9	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EEA	Contours detected: 9	Expected: 2
+
+	- Glyph name: uni1EEB	Contours detected: 9	Expected: 2
 
 	- Glyph name: uni1EEC	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EED	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EEE	Contours detected: 9	Expected: 2
 
+	- Glyph name: uni1EEF	Contours detected: 9	Expected: 2
+
 	- Glyph name: uni1EF0	Contours detected: 9	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 9	Expected: 2
 
 	- Glyph name: uni1EF4	Contours detected: 7	Expected: 2
 
@@ -7921,7 +8127,7 @@ The following glyphs do not have the recommended number of contours:
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
@@ -7930,9 +8136,9 @@ The following glyphs do not have the recommended number of contours:
  * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, coptic, cherokee
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, cherokee, math
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, old-permic, syriac, coptic, tai-le, math, tifinagh, malayalam
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, math, coptic, syriac, malayalam, canadian-aboriginal, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
@@ -7949,14 +8155,14 @@ The following glyphs do not have the recommended number of contours:
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, caucasian-albanian, gothic, tifinagh, cherokee
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
+ * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, cherokee, gothic, syriac, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
  * U+0336 COMBINING LONG STROKE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
- * U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math
+ * U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math
  * U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai
  * U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition
  * U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition
@@ -8010,7 +8216,7 @@ The following glyphs do not have the recommended number of contours:
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25A1 WHITE SQUARE: try adding symbols
- * U+25CC DOTTED CIRCLE: try adding one of: sinhala, newa, telugu, modi, khmer, kayah-li, miao, pahawh-hmong, osage, myanmar, ahom, bassa-vah, symbols, limbu, syloti-nagri, dogra, tifinagh, meetei-mayek, marchen, mandaic, mahajani, tamil, hebrew, wancho, tai-le, gurmukhi, yi, rejang, gujarati, adlam, lepcha, javanese, khudawadi, cham, chakma, brahmi, masaram-gondi, hanunoo, grantha, thai, sharada, khojki, takri, tagbanwa, duployan, buginese, kannada, gunjala-gondi, bengali, hanifi-rohingya, old-permic, oriya, tagalog, devanagari, psalter-pahlavi, coptic, kharoshthi, soyombo, manichaean, tai-viet, sundanese, sogdian, syriac, new-tai-lue, batak, malayalam, mende-kikakui, zanabazar-square, phags-pa, bhaiksuki, siddham, kaithi, mongolian, buhid, math, nko, tibetan, thaana, balinese, elbasan, caucasian-albanian, lao, music, tirhuta
+ * U+25CC DOTTED CIRCLE: try adding one of: hanifi-rohingya, thai, wancho, mandaic, khojki, buginese, yi, elbasan, psalter-pahlavi, khudawadi, phags-pa, lao, nko, rejang, mahajani, marchen, modi, sundanese, tibetan, duployan, tagbanwa, takri, sinhala, chakma, batak, pahawh-hmong, kharoshthi, sogdian, mongolian, tifinagh, gurmukhi, tirhuta, miao, javanese, adlam, bassa-vah, telugu, limbu, bengali, buhid, siddham, mende-kikakui, myanmar, manichaean, hebrew, tai-viet, old-permic, sharada, brahmi, bhaiksuki, coptic, balinese, syloti-nagri, symbols, cham, oriya, tamil, gujarati, devanagari, music, gunjala-gondi, kannada, tagalog, lepcha, masaram-gondi, syriac, caucasian-albanian, zanabazar-square, thaana, ahom, newa, osage, tai-le, khmer, new-tai-lue, soyombo, hanunoo, kayah-li, dogra, math, meetei-mayek, malayalam, kaithi, grantha
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
@@ -8559,6 +8765,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- gdotaccent.BRACKET.varAlt02
 
+	- hbar.BRACKET.varAlt01
+
+	- hbar.BRACKET.varAlt02
+
 	- i.loclTRK
 
 	- i.loclTRK.BRACKET.varAlt01
@@ -8702,6 +8912,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 	- ograve.BRACKET.varAlt01
 
 	- ograve.BRACKET.varAlt02
+
+	- ohorn.BRACKET.varAlt01
+
+	- ohorn.BRACKET.varAlt02
 
 	- ohungarumlaut.BRACKET.varAlt01
 
@@ -8880,6 +9094,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 	- ugrave.BRACKET.varAlt01
 
 	- ugrave.BRACKET.varAlt02
+
+	- uhorn.BRACKET.varAlt01
+
+	- uhorn.BRACKET.varAlt02
 
 	- uhungarumlaut.BRACKET.varAlt01
 
@@ -10261,21 +10479,41 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- uni1EDA.BRACKET.varAlt02
 
+	- uni1EDB.BRACKET.varAlt01
+
+	- uni1EDB.BRACKET.varAlt02
+
 	- uni1EDC.BRACKET.varAlt01
 
 	- uni1EDC.BRACKET.varAlt02
+
+	- uni1EDD.BRACKET.varAlt01
+
+	- uni1EDD.BRACKET.varAlt02
 
 	- uni1EDE.BRACKET.varAlt01
 
 	- uni1EDE.BRACKET.varAlt02
 
+	- uni1EDF.BRACKET.varAlt01
+
+	- uni1EDF.BRACKET.varAlt02
+
 	- uni1EE0.BRACKET.varAlt01
 
 	- uni1EE0.BRACKET.varAlt02
 
+	- uni1EE1.BRACKET.varAlt01
+
+	- uni1EE1.BRACKET.varAlt02
+
 	- uni1EE2.BRACKET.varAlt01
 
 	- uni1EE2.BRACKET.varAlt02
+
+	- uni1EE3.BRACKET.varAlt01
+
+	- uni1EE3.BRACKET.varAlt02
 
 	- uni1EE4.BRACKET.varAlt01
 
@@ -10297,21 +10535,41 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- uni1EE8.BRACKET.varAlt02
 
+	- uni1EE9.BRACKET.varAlt01
+
+	- uni1EE9.BRACKET.varAlt02
+
 	- uni1EEA.BRACKET.varAlt01
 
 	- uni1EEA.BRACKET.varAlt02
+
+	- uni1EEB.BRACKET.varAlt01
+
+	- uni1EEB.BRACKET.varAlt02
 
 	- uni1EEC.BRACKET.varAlt01
 
 	- uni1EEC.BRACKET.varAlt02
 
+	- uni1EED.BRACKET.varAlt01
+
+	- uni1EED.BRACKET.varAlt02
+
 	- uni1EEE.BRACKET.varAlt01
 
 	- uni1EEE.BRACKET.varAlt02
 
+	- uni1EEF.BRACKET.varAlt01
+
+	- uni1EEF.BRACKET.varAlt02
+
 	- uni1EF0.BRACKET.varAlt01
 
 	- uni1EF0.BRACKET.varAlt02
+
+	- uni1EF1.BRACKET.varAlt01
+
+	- uni1EF1.BRACKET.varAlt02
 
 	- uni1EF4.BRACKET.varAlt01
 
@@ -10549,10 +10807,6 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- zmacronbelow.BRACKET.varAlt02
  [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Checking Vertical Metric Linegaps. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/linegaps">com.google.fonts/check/linegaps</a>)</summary><div>
-
-
-* ⚠ **WARN** OS/2 sTypoLineGap is not equal to 0. [code: OS/2]
 </div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
 
 
@@ -10583,6 +10837,8 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 	* Ygrave (U+1EF2): B<<45.0,700.0>-<46.0,700.0>-<44.0,699.0>>/B<<44.0,699.0>-<47.0,700.0>-<49.0,700.0>> = 8.13010235415587
 
 	* h (U+0068): B<<357.0,437.0>-<345.0,455.0>-<316.0,457.0>>/L<<316.0,457.0>--<316.0,457.0>> = 3.94518622903751
+
+	* hbar (U+0127): B<<357.0,437.0>-<345.0,455.0>-<316.0,457.0>>/L<<316.0,457.0>--<316.0,457.0>> = 3.94518622903751
 
 	* three (U+0033): B<<339.5,345.0>-<321.0,378.0>-<275.0,388.0>>/L<<275.0,388.0>--<275.0,388.0>> = 12.2647737278924
 
@@ -10692,11 +10948,101 @@ The dot of soft dotted characters _should_ disappear in other cases, for example
 
 Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: Basaa (Latn, 332,940 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Navajo (Latn, 166,319 speakers), Koonzime (Latn, 40,000 speakers), Ejagham (Latn, 120,000 speakers), Lugbara (Latn, 2,200,000 speakers), Dutch (Latn, 31,709,104 speakers), Kom (Latn, 360,685 speakers), Aghem (Latn, 38,843 speakers), Ebira (Latn, 2,200,000 speakers), Ma’di (Latn, 584,000 speakers), Igbo (Latn, 27,823,640 speakers), Nateni (Latn, 100,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Dan (Latn, 1,099,244 speakers), Avokaya (Latn, 100,000 speakers). [code: soft-dotted]
-</div></details><br></div></details><details><summary><b>[18] NsibidiLibre-Ato.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
+Your font does *not* cover the following languages that require the soft-dotted feature: Kom (Latn, 360,685 speakers), Belarusian (Cyrl, 10,064,517 speakers), Avokaya (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Lugbara (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Dutch (Latn, 31,709,104 speakers), Ma’di (Latn, 584,000 speakers), Aghem (Latn, 38,843 speakers), Nateni (Latn, 100,000 speakers), Navajo (Latn, 166,319 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Dan (Latn, 1,099,244 speakers). [code: soft-dotted]
+</div></details><br></div></details><details><summary><b>[17] NsibidiLibre-Ato.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check copyright namerecords match license file. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/license">com.google.fonts/check/name/license</a>)</summary><div>
 
 
-* 🔥 **FAIL** Font lacks NameID 13 (LICENSE DESCRIPTION). A proper licensing entry must be set. [code: missing]
+* 🔥 **FAIL** License file OFL.txt exists but NameID 13 (LICENSE DESCRIPTION) value on platform 3 (WINDOWS) is not specified for that. Value was: "This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE." Must be changed to "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" [code: wrong]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
 
 
@@ -10711,19 +11057,19 @@ Your font does *not* cover the following languages that require the soft-dotted 
 | Typographic Family Name | **Nsibidi Libre** | **N/A** |
 | Typographic Subfamily Name | **Ato** | **N/A** | [code: bad-names]
 * ⚠ **WARN** Regular missing from full name [code: lacks-regular]
+</div></details><details><summary>🔥 <b>FAIL:</b> Name table entries should not contain line-breaks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/line_breaks">com.google.fonts/check/name/line_breaks</a>)</summary><div>
+
+
+* 🔥 **FAIL** Name entry LICENSE_DESCRIPTION on platform WINDOWS contains a line-break. [code: line-break]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.sTypoLineGap is "174" it should be 0 [code: bad-OS/2.sTypoLineGap]
+* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1026 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1150, but got 900 instead [code: ascent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1150, but got 726 instead [code: ascent]
 * 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 309, but got 300 instead [code: descent]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 sTypoAscender (726) and hhea ascent (900) must be equal. [code: ascender]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
@@ -10803,8 +11149,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: divide	Expected: 3
 
-	- Glyph name: hbar	Expected: 1
-
 	- Glyph name: Eng	Expected: 1
 
 	- Glyph name: eng	Expected: 1
@@ -10817,11 +11161,7 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: Iotalatin	Expected: 1
 
-	- Glyph name: ohorn	Expected: 2
-
 	- Glyph name: uni01A9	Expected: 1
-
-	- Glyph name: uhorn	Expected: 1
 
 	- Glyph name: Upsilonlatin	Expected: 1
 
@@ -10831,8 +11171,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: uni01B9	Expected: 1
 
-	- Glyph name: uni01C3	Expected: 2
-
 	- Glyph name: uni01EE	Expected: 2
 
 	- Glyph name: uni01EF	Expected: 2
@@ -10840,10 +11178,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 	- Glyph name: uni0222	Expected: 2
 
 	- Glyph name: uni0223	Expected: 2
-
-	- Glyph name: uni0241	Expected: 1
-
-	- Glyph name: uni0242	Expected: 1
 
 	- Glyph name: uni0251	Expected: 2
 
@@ -10862,26 +11196,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 	- Glyph name: uni0E3F	Expected: 3 or 5
 
 	- Glyph name: uni1E9E	Expected: 1
-
-	- Glyph name: uni1EDB	Expected: 3
-
-	- Glyph name: uni1EDD	Expected: 3
-
-	- Glyph name: uni1EDF	Expected: 3
-
-	- Glyph name: uni1EE1	Expected: 3
-
-	- Glyph name: uni1EE3	Expected: 3
-
-	- Glyph name: uni1EE9	Expected: 2
-
-	- Glyph name: uni1EEB	Expected: 2
-
-	- Glyph name: uni1EED	Expected: 2
-
-	- Glyph name: uni1EEF	Expected: 2
-
-	- Glyph name: uni1EF1	Expected: 2
 
 	- Glyph name: quoteleft	Expected: 1
 
@@ -11067,8 +11381,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: greaterequal	Expected: 2
 
-	- Glyph name: hbar	Expected: 1
-
 	- Glyph name: infinity	Expected: 3
 
 	- Glyph name: integral	Expected: 1
@@ -11084,8 +11396,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 	- Glyph name: multiply	Expected: 1
 
 	- Glyph name: notequal	Expected: 1
-
-	- Glyph name: ohorn	Expected: 2
 
 	- Glyph name: onehalf	Expected: 3
 
@@ -11125,8 +11435,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: threequarters	Expected: 3 or 4
 
-	- Glyph name: uhorn	Expected: 1
-
 	- Glyph name: uni00B5	Expected: 1
 
 	- Glyph name: uni018F	Expected: 2
@@ -11139,8 +11447,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 
 	- Glyph name: uni01B9	Expected: 1
 
-	- Glyph name: uni01C3	Expected: 2
-
 	- Glyph name: uni01EE	Expected: 2
 
 	- Glyph name: uni01EF	Expected: 2
@@ -11148,10 +11454,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 	- Glyph name: uni0222	Expected: 2
 
 	- Glyph name: uni0223	Expected: 2
-
-	- Glyph name: uni0241	Expected: 1
-
-	- Glyph name: uni0242	Expected: 1
 
 	- Glyph name: uni0251	Expected: 2
 
@@ -11168,26 +11470,6 @@ Your font does *not* cover the following languages that require the soft-dotted 
 	- Glyph name: uni0E3F	Expected: 3 or 5
 
 	- Glyph name: uni1E9E	Expected: 1
-
-	- Glyph name: uni1EDB	Expected: 3
-
-	- Glyph name: uni1EDD	Expected: 3
-
-	- Glyph name: uni1EDF	Expected: 3
-
-	- Glyph name: uni1EE1	Expected: 3
-
-	- Glyph name: uni1EE3	Expected: 3
-
-	- Glyph name: uni1EE9	Expected: 2
-
-	- Glyph name: uni1EEB	Expected: 2
-
-	- Glyph name: uni1EED	Expected: 2
-
-	- Glyph name: uni1EEF	Expected: 2
-
-	- Glyph name: uni1EF1	Expected: 2
 
 	- Glyph name: uni20A6	Expected: 1, 3 or 5
 
@@ -11309,6 +11591,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0122	Contours detected: 7	Expected: 2
 
+	- Glyph name: hbar	Contours detected: 2	Expected: 1
+
 	- Glyph name: Lslash	Contours detected: 2	Expected: 1
 
 	- Glyph name: lslash	Contours detected: 2	Expected: 1
@@ -11355,7 +11639,11 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Ohorn	Contours detected: 6	Expected: 2 or 3
 
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
 	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
 
 	- Glyph name: uni01B5	Contours detected: 3	Expected: 1
 
@@ -11475,23 +11763,43 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EDA	Contours detected: 7	Expected: 3 or 4
 
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
 	- Glyph name: uni1EDC	Contours detected: 7	Expected: 3 or 4
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
 
 	- Glyph name: uni1EDE	Contours detected: 7	Expected: 3 or 4
 
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
 	- Glyph name: uni1EE0	Contours detected: 7	Expected: 3 or 4
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
 
 	- Glyph name: uni1EE2	Contours detected: 7	Expected: 3 or 4
 
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
 	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
 
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
 	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
 
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
 	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
 
 	- Glyph name: quotedblbase	Contours detected: 1	Expected: 2
 
@@ -11577,15 +11885,21 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
+	- Glyph name: hbar	Contours detected: 2	Expected: 1
+
 	- Glyph name: lslash	Contours detected: 2	Expected: 1
 
 	- Glyph name: oe	Contours detected: 4	Expected: 3
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
 	- Glyph name: q	Contours detected: 3	Expected: 2
 
 	- Glyph name: quotedblbase	Contours detected: 1	Expected: 2
 
 	- Glyph name: trademark	Contours detected: 3	Expected: 2
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
 
 	- Glyph name: uni0122	Contours detected: 7	Expected: 2
 
@@ -11711,23 +12025,43 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EDA	Contours detected: 7	Expected: 3 or 4
 
+	- Glyph name: uni1EDB	Contours detected: 4	Expected: 3
+
 	- Glyph name: uni1EDC	Contours detected: 7	Expected: 3 or 4
+
+	- Glyph name: uni1EDD	Contours detected: 4	Expected: 3
 
 	- Glyph name: uni1EDE	Contours detected: 7	Expected: 3 or 4
 
+	- Glyph name: uni1EDF	Contours detected: 4	Expected: 3
+
 	- Glyph name: uni1EE0	Contours detected: 7	Expected: 3 or 4
+
+	- Glyph name: uni1EE1	Contours detected: 4	Expected: 3
 
 	- Glyph name: uni1EE2	Contours detected: 7	Expected: 3 or 4
 
+	- Glyph name: uni1EE3	Contours detected: 4	Expected: 3
+
 	- Glyph name: uni1EE8	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EE9	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1EEA	Contours detected: 3	Expected: 2
 
+	- Glyph name: uni1EEB	Contours detected: 3	Expected: 2
+
 	- Glyph name: uni1EEC	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EED	Contours detected: 3	Expected: 2
 
 	- Glyph name: uni1EEE	Contours detected: 3	Expected: 2
 
+	- Glyph name: uni1EEF	Contours detected: 3	Expected: 2
+
 	- Glyph name: uni1EF0	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni1EF1	Contours detected: 3	Expected: 2
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
@@ -11820,7 +12154,7 @@ The following glyphs do not have the recommended number of contours:
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
@@ -11829,9 +12163,9 @@ The following glyphs do not have the recommended number of contours:
  * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, math, coptic, cherokee
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, cherokee, math
  * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
- * U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, old-permic, syriac, coptic, tai-le, math, tifinagh, malayalam
+ * U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, math, coptic, syriac, malayalam, canadian-aboriginal, old-permic
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
  * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
@@ -11848,14 +12182,14 @@ The following glyphs do not have the recommended number of contours:
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, caucasian-albanian, gothic, tifinagh, cherokee
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
+ * U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, cherokee, gothic, syriac, caucasian-albanian
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
  * U+0336 COMBINING LONG STROKE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
- * U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math
+ * U+03C0 GREEK SMALL LETTER PI: try adding one of: yi, greek, math
  * U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai
  * U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition
  * U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition
@@ -11909,7 +12243,7 @@ The following glyphs do not have the recommended number of contours:
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25A1 WHITE SQUARE: try adding symbols
- * U+25CC DOTTED CIRCLE: try adding one of: sinhala, newa, telugu, modi, khmer, kayah-li, miao, pahawh-hmong, osage, myanmar, ahom, bassa-vah, symbols, limbu, syloti-nagri, dogra, tifinagh, meetei-mayek, marchen, mandaic, mahajani, tamil, hebrew, wancho, tai-le, gurmukhi, yi, rejang, gujarati, adlam, lepcha, javanese, khudawadi, cham, chakma, brahmi, masaram-gondi, hanunoo, grantha, thai, sharada, khojki, takri, tagbanwa, duployan, buginese, kannada, gunjala-gondi, bengali, hanifi-rohingya, old-permic, oriya, tagalog, devanagari, psalter-pahlavi, coptic, kharoshthi, soyombo, manichaean, tai-viet, sundanese, sogdian, syriac, new-tai-lue, batak, malayalam, mende-kikakui, zanabazar-square, phags-pa, bhaiksuki, siddham, kaithi, mongolian, buhid, math, nko, tibetan, thaana, balinese, elbasan, caucasian-albanian, lao, music, tirhuta
+ * U+25CC DOTTED CIRCLE: try adding one of: hanifi-rohingya, thai, wancho, mandaic, khojki, buginese, yi, elbasan, psalter-pahlavi, khudawadi, phags-pa, lao, nko, rejang, mahajani, marchen, modi, sundanese, tibetan, duployan, tagbanwa, takri, sinhala, chakma, batak, pahawh-hmong, kharoshthi, sogdian, mongolian, tifinagh, gurmukhi, tirhuta, miao, javanese, adlam, bassa-vah, telugu, limbu, bengali, buhid, siddham, mende-kikakui, myanmar, manichaean, hebrew, tai-viet, old-permic, sharada, brahmi, bhaiksuki, coptic, balinese, syloti-nagri, symbols, cham, oriya, tamil, gujarati, devanagari, music, gunjala-gondi, kannada, tagalog, lepcha, masaram-gondi, syriac, caucasian-albanian, zanabazar-square, thaana, ahom, newa, osage, tai-le, khmer, new-tai-lue, soyombo, hanunoo, kayah-li, dogra, math, meetei-mayek, malayalam, kaithi, grantha
  * U+27E8 MATHEMATICAL LEFT ANGLE BRACKET: try adding math
  * U+27E9 MATHEMATICAL RIGHT ANGLE BRACKET: try adding math
  * U+AB53 LATIN SMALL LETTER CHI: not included in any glyphset definition
@@ -12458,6 +12792,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- gdotaccent.BRACKET.varAlt02
 
+	- hbar.BRACKET.varAlt01
+
+	- hbar.BRACKET.varAlt02
+
 	- i.loclTRK
 
 	- i.loclTRK.BRACKET.varAlt01
@@ -12601,6 +12939,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 	- ograve.BRACKET.varAlt01
 
 	- ograve.BRACKET.varAlt02
+
+	- ohorn.BRACKET.varAlt01
+
+	- ohorn.BRACKET.varAlt02
 
 	- ohungarumlaut.BRACKET.varAlt01
 
@@ -12779,6 +13121,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 	- ugrave.BRACKET.varAlt01
 
 	- ugrave.BRACKET.varAlt02
+
+	- uhorn.BRACKET.varAlt01
+
+	- uhorn.BRACKET.varAlt02
 
 	- uhungarumlaut.BRACKET.varAlt01
 
@@ -14160,21 +14506,41 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- uni1EDA.BRACKET.varAlt02
 
+	- uni1EDB.BRACKET.varAlt01
+
+	- uni1EDB.BRACKET.varAlt02
+
 	- uni1EDC.BRACKET.varAlt01
 
 	- uni1EDC.BRACKET.varAlt02
+
+	- uni1EDD.BRACKET.varAlt01
+
+	- uni1EDD.BRACKET.varAlt02
 
 	- uni1EDE.BRACKET.varAlt01
 
 	- uni1EDE.BRACKET.varAlt02
 
+	- uni1EDF.BRACKET.varAlt01
+
+	- uni1EDF.BRACKET.varAlt02
+
 	- uni1EE0.BRACKET.varAlt01
 
 	- uni1EE0.BRACKET.varAlt02
 
+	- uni1EE1.BRACKET.varAlt01
+
+	- uni1EE1.BRACKET.varAlt02
+
 	- uni1EE2.BRACKET.varAlt01
 
 	- uni1EE2.BRACKET.varAlt02
+
+	- uni1EE3.BRACKET.varAlt01
+
+	- uni1EE3.BRACKET.varAlt02
 
 	- uni1EE4.BRACKET.varAlt01
 
@@ -14196,21 +14562,41 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- uni1EE8.BRACKET.varAlt02
 
+	- uni1EE9.BRACKET.varAlt01
+
+	- uni1EE9.BRACKET.varAlt02
+
 	- uni1EEA.BRACKET.varAlt01
 
 	- uni1EEA.BRACKET.varAlt02
+
+	- uni1EEB.BRACKET.varAlt01
+
+	- uni1EEB.BRACKET.varAlt02
 
 	- uni1EEC.BRACKET.varAlt01
 
 	- uni1EEC.BRACKET.varAlt02
 
+	- uni1EED.BRACKET.varAlt01
+
+	- uni1EED.BRACKET.varAlt02
+
 	- uni1EEE.BRACKET.varAlt01
 
 	- uni1EEE.BRACKET.varAlt02
 
+	- uni1EEF.BRACKET.varAlt01
+
+	- uni1EEF.BRACKET.varAlt02
+
 	- uni1EF0.BRACKET.varAlt01
 
 	- uni1EF0.BRACKET.varAlt02
+
+	- uni1EF1.BRACKET.varAlt01
+
+	- uni1EF1.BRACKET.varAlt02
 
 	- uni1EF4.BRACKET.varAlt01
 
@@ -14448,10 +14834,6 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 	- zmacronbelow.BRACKET.varAlt02
  [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Checking Vertical Metric Linegaps. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/linegaps">com.google.fonts/check/linegaps</a>)</summary><div>
-
-
-* ⚠ **WARN** OS/2 sTypoLineGap is not equal to 0. [code: OS/2]
 </div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
 
 
@@ -14703,15 +15085,15 @@ The dot of soft dotted characters _should_ disappear in other cases, for example
 
 Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: Basaa (Latn, 332,940 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Navajo (Latn, 166,319 speakers), Koonzime (Latn, 40,000 speakers), Ejagham (Latn, 120,000 speakers), Lugbara (Latn, 2,200,000 speakers), Dutch (Latn, 31,709,104 speakers), Kom (Latn, 360,685 speakers), Aghem (Latn, 38,843 speakers), Ebira (Latn, 2,200,000 speakers), Ma’di (Latn, 584,000 speakers), Igbo (Latn, 27,823,640 speakers), Nateni (Latn, 100,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Dan (Latn, 1,099,244 speakers), Avokaya (Latn, 100,000 speakers). [code: soft-dotted]
+Your font does *not* cover the following languages that require the soft-dotted feature: Kom (Latn, 360,685 speakers), Belarusian (Cyrl, 10,064,517 speakers), Avokaya (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Lugbara (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Dutch (Latn, 31,709,104 speakers), Ma’di (Latn, 584,000 speakers), Aghem (Latn, 38,843 speakers), Nateni (Latn, 100,000 speakers), Navajo (Latn, 166,319 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Dan (Latn, 1,099,244 speakers). [code: soft-dotted]
 </div></details><br></div></details>
 
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 3 | 27 | 27 | 386 | 19 | 267 | 0 |
-| 0% | 4% | 4% | 53% | 3% | 37% | 0% |
+| 3 | 27 | 24 | 386 | 19 | 270 | 0 |
+| 0% | 4% | 3% | 53% | 3% | 37% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
