@@ -18,13 +18,11 @@ vwx
 HAMBURGEFONTSIV
 hamburgefontsiv
 ADHESION adhesion",
-"ȺꞴƁƇȻÐƊƉƎɆƑƓǤḪꜦꞪꞍƗꞲɈƘꝀȽⱠⱢŁƜƝȠƟƆØŒƤⱣɊɌⱤꞨȾƬƮɄṲƲɅⱲƳɎⱥæɓƀƈȼđɗɖɇǝəɠǥḫɦɥʝɉƙꝁƛƚⱡɫłɯɲƞɵɔøœƥþᵽɋɾɍɽꞩⱦƭʈʉṳʋʌⱳƴɏǂǀǁ|̶",
-OPQSVWYZdekyhna27TMNoRs,
-"AẦȀAĄBḂḄɃČÇḈ",
 "0123456789/zero.zero/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr",
 ".,:;…!¡?¿·•*‖#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'|",
 "ƒ฿꞉ˮ˗꞊@&¶§©®™°′″|¦†ℓ‡℮№₿₵¢₡¤$₫€₲₴₭₾₺₼₦₱₽₨₹₪£₸₮₩¥+−×÷=≠><≥≤±≈~¬^∅∞∫Ω∆∏∑√∂µ%‰↑↗→↘↓↙←↖↔↕□◌",
-"ʼⱭǢꞳƩoeƏƷǮƸɁƖꞭȢꞶꞋƱƔɪɑꞵʘꭓɛʃʒǯƹɣ?ʔʕɂꜧɩɬꞷȣꞌʊʰⁿʷ!ǃᵘᵛᶻƒ꞉ˮ˗꞊₭᷊̩̍̐͘ˊˋˀ"
+"ʼⱭǢꞳƩoeƏƷǮƸɁƖꞭȢꞶꞋƱƔɪɑꞵʘꭓɛʃʒǯƹɣ?ʔʕɂꜧɩɬꞷȣꞌʊʰⁿʷ!ǃᵘᵛᶻƒ꞉ˮ˗꞊₭᷊̩̍̐͘ˊˋˀ",
+"Ⱦǥ"
 );
 axes = (
 {
@@ -31347,7 +31345,7 @@ unicode = 11363;
 {
 color = 5;
 glyphname = Q;
-lastChange = "2024-03-04 10:19:37 +0000";
+lastChange = "2024-03-28 10:17:27 +0000";
 layers = (
 {
 anchors = (
@@ -71265,7 +71263,7 @@ unicode = 236;
 {
 color = 5;
 glyphname = ihookabove;
-lastChange = "2024-03-25 13:19:03 +0000";
+lastChange = "2024-03-29 15:44:35 +0000";
 layers = (
 {
 layerId = m01;
@@ -71287,6 +71285,7 @@ shapes = (
 ref = idotless;
 },
 {
+pos = (-28,0);
 ref = hookabovecomb;
 }
 );
