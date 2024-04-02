@@ -13,7 +13,6 @@ OJUJU",
 
 abcdefghijklmnopqrstuvwxyz
 1234567890 .,:;!?\"“”
-vwx
 
 HAMBURGEFONTSIV
 hamburgefontsiv
@@ -2819,7 +2818,7 @@ unicode = 482;
 {
 color = 5;
 glyphname = B;
-lastChange = "2024-03-04 10:03:33 +0000";
+lastChange = "2024-04-02 08:42:01 +0000";
 layers = (
 {
 anchors = (
@@ -3162,7 +3161,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -3311,7 +3310,7 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-max = 39.99;
+max = 39.5;
 min = 20;
 }
 );
@@ -3428,7 +3427,7 @@ associatedMasterId = m002;
 attr = {
 axisRules = (
 {
-max = 39.99;
+max = 39.5;
 min = 20;
 }
 );
@@ -3546,7 +3545,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -3695,7 +3694,7 @@ associatedMasterId = m003;
 attr = {
 axisRules = (
 {
-max = 39.99;
+max = 39.5;
 min = 20;
 }
 );
@@ -3819,7 +3818,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -4314,7 +4313,7 @@ unicode = 579;
 {
 color = 5;
 glyphname = C;
-lastChange = "2024-04-01 12:15:26 +0000";
+lastChange = "2024-04-02 08:42:30 +0000";
 layers = (
 {
 anchors = (
@@ -4949,7 +4948,7 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-max = 39.99;
+max = 39.5;
 min = 20;
 }
 );
@@ -5097,7 +5096,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -5249,7 +5248,7 @@ associatedMasterId = m002;
 attr = {
 axisRules = (
 {
-max = 39.99;
+max = 39.5;
 min = 20;
 }
 );
@@ -5391,7 +5390,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -5537,7 +5536,7 @@ associatedMasterId = m003;
 attr = {
 axisRules = (
 {
-max = 39.99;
+max = 39.5;
 min = 20;
 }
 );
@@ -5685,7 +5684,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -6251,7 +6250,7 @@ unicode = 571;
 {
 color = 5;
 glyphname = D;
-lastChange = "2024-03-04 10:03:57 +0000";
+lastChange = "2024-04-02 08:42:39 +0000";
 layers = (
 {
 anchors = (
@@ -6591,7 +6590,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -6786,7 +6785,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -6981,7 +6980,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -7601,7 +7600,7 @@ unicode = 393;
 {
 color = 5;
 glyphname = E;
-lastChange = "2024-03-04 10:04:36 +0000";
+lastChange = "2024-04-02 08:44:06 +0000";
 layers = (
 {
 anchors = (
@@ -8095,7 +8094,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -8351,7 +8350,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -8613,7 +8612,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -10440,7 +10439,7 @@ unicode = 440;
 {
 color = 5;
 glyphname = F;
-lastChange = "2024-03-04 10:06:28 +0000";
+lastChange = "2024-04-02 08:44:31 +0000";
 layers = (
 {
 anchors = (
@@ -10884,7 +10883,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -11094,7 +11093,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -11317,7 +11316,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -11576,7 +11575,7 @@ unicode = 401;
 {
 color = 5;
 glyphname = G;
-lastChange = "2024-03-04 10:07:00 +0000";
+lastChange = "2024-04-02 08:44:39 +0000";
 layers = (
 {
 anchors = (
@@ -12403,7 +12402,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -12711,7 +12710,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -13019,7 +13018,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -13772,7 +13771,7 @@ unicode = 484;
 {
 color = 5;
 glyphname = H;
-lastChange = "2024-03-04 10:07:32 +0000";
+lastChange = "2024-04-02 08:44:49 +0000";
 layers = (
 {
 anchors = (
@@ -14407,7 +14406,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -14715,7 +14714,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -15022,7 +15021,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -16020,7 +16019,7 @@ unicode = 42893;
 {
 color = 5;
 glyphname = I;
-lastChange = "2024-03-04 10:11:26 +0000";
+lastChange = "2024-04-02 08:44:58 +0000";
 layers = (
 {
 anchors = (
@@ -16396,7 +16395,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -16601,7 +16600,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -16806,7 +16805,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -17731,7 +17730,7 @@ unicode = 7724;
 {
 color = 5;
 glyphname = J;
-lastChange = "2024-03-12 09:37:02 +0000";
+lastChange = "2024-04-02 08:45:06 +0000";
 layers = (
 {
 anchors = (
@@ -18091,7 +18090,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -18262,7 +18261,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -18433,7 +18432,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -18858,7 +18857,7 @@ unicode = 584;
 {
 color = 5;
 glyphname = K;
-lastChange = "2024-03-04 10:14:37 +0000";
+lastChange = "2024-04-02 08:45:13 +0000";
 layers = (
 {
 anchors = (
@@ -19298,7 +19297,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -19484,7 +19483,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -19670,7 +19669,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -20338,7 +20337,7 @@ unicode = 42816;
 {
 color = 5;
 glyphname = L;
-lastChange = "2024-03-04 10:15:29 +0000";
+lastChange = "2024-04-02 08:45:21 +0000";
 layers = (
 {
 anchors = (
@@ -20828,7 +20827,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -21022,7 +21021,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -21216,7 +21215,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -21901,7 +21900,7 @@ unicode = 321;
 {
 color = 5;
 glyphname = M;
-lastChange = "2024-03-04 10:16:05 +0000";
+lastChange = "2024-04-02 08:45:34 +0000";
 layers = (
 {
 anchors = (
@@ -23315,7 +23314,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -23628,7 +23627,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -23941,7 +23940,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -24218,7 +24217,7 @@ unicode = 412;
 {
 color = 5;
 glyphname = N;
-lastChange = "2024-03-04 10:16:38 +0000";
+lastChange = "2024-04-02 08:45:43 +0000";
 layers = (
 {
 anchors = (
@@ -25017,7 +25016,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -25257,7 +25256,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -25622,7 +25621,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -26728,7 +26727,7 @@ unicode = 330;
 {
 color = 5;
 glyphname = O;
-lastChange = "2024-03-17 13:39:48 +0000";
+lastChange = "2024-04-02 08:45:51 +0000";
 layers = (
 {
 anchors = (
@@ -27548,7 +27547,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -27757,7 +27756,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -27966,7 +27965,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -30233,7 +30232,7 @@ unicode = 338;
 {
 color = 5;
 glyphname = P;
-lastChange = "2024-03-04 12:44:39 +0000";
+lastChange = "2024-04-02 08:45:58 +0000";
 layers = (
 {
 anchors = (
@@ -30607,7 +30606,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -30772,7 +30771,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -30943,7 +30942,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -31344,7 +31343,7 @@ unicode = 11363;
 {
 color = 5;
 glyphname = Q;
-lastChange = "2024-04-01 10:51:48 +0000";
+lastChange = "2024-04-02 08:46:07 +0000";
 layers = (
 {
 anchors = (
@@ -32177,7 +32176,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -32396,7 +32395,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -32609,7 +32608,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -33085,7 +33084,7 @@ unicode = 586;
 {
 color = 5;
 glyphname = R;
-lastChange = "2024-03-04 10:20:04 +0000";
+lastChange = "2024-04-02 08:46:19 +0000";
 layers = (
 {
 anchors = (
@@ -33522,7 +33521,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -33729,7 +33728,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -33936,7 +33935,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -34670,7 +34669,7 @@ unicode = 11364;
 {
 color = 5;
 glyphname = S;
-lastChange = "2024-03-04 10:22:40 +0000";
+lastChange = "2024-04-02 08:46:45 +0000";
 layers = (
 {
 anchors = (
@@ -35275,7 +35274,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -35455,7 +35454,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -35709,7 +35708,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -36463,7 +36462,7 @@ unicode = 42920;
 {
 color = 5;
 glyphname = T;
-lastChange = "2024-03-04 10:27:10 +0000";
+lastChange = "2024-04-02 08:46:53 +0000";
 layers = (
 {
 anchors = (
@@ -37027,7 +37026,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -37187,7 +37186,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -37347,7 +37346,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -38156,7 +38155,7 @@ unicode = 430;
 {
 color = 5;
 glyphname = U;
-lastChange = "2024-03-17 13:23:12 +0000";
+lastChange = "2024-04-02 08:47:00 +0000";
 layers = (
 {
 anchors = (
@@ -38891,7 +38890,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -39047,7 +39046,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -39316,7 +39315,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -41099,7 +41098,7 @@ unicode = 7796;
 {
 color = 5;
 glyphname = V;
-lastChange = "2024-03-04 10:28:23 +0000";
+lastChange = "2024-04-02 08:47:07 +0000";
 layers = (
 {
 anchors = (
@@ -41447,7 +41446,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -41604,7 +41603,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -41761,7 +41760,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -42206,7 +42205,7 @@ unicode = 581;
 {
 color = 5;
 glyphname = W;
-lastChange = "2024-03-04 10:29:40 +0000";
+lastChange = "2024-04-02 08:47:15 +0000";
 layers = (
 {
 anchors = (
@@ -42825,7 +42824,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -43078,7 +43077,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -43331,7 +43330,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -44142,7 +44141,7 @@ unicode = 11378;
 {
 color = 5;
 glyphname = X;
-lastChange = "2024-03-04 10:30:01 +0000";
+lastChange = "2024-04-02 08:47:22 +0000";
 layers = (
 {
 anchors = (
@@ -45213,7 +45212,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -45447,7 +45446,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -45692,7 +45691,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -45924,7 +45923,7 @@ unicode = 7818;
 {
 color = 5;
 glyphname = Y;
-lastChange = "2024-03-04 10:30:35 +0000";
+lastChange = "2024-04-02 08:47:30 +0000";
 layers = (
 {
 anchors = (
@@ -46614,7 +46613,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -46809,7 +46808,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -47004,7 +47003,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -47925,7 +47924,7 @@ unicode = 7928;
 {
 color = 5;
 glyphname = Z;
-lastChange = "2024-03-04 10:31:18 +0000";
+lastChange = "2024-04-02 08:47:39 +0000";
 layers = (
 {
 anchors = (
@@ -48586,7 +48585,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -48893,7 +48892,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -49200,7 +49199,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -49704,7 +49703,7 @@ unicode = 618;
 {
 color = 5;
 glyphname = a;
-lastChange = "2024-03-04 10:32:12 +0000";
+lastChange = "2024-04-02 09:27:30 +0000";
 layers = (
 {
 anchors = (
@@ -50671,7 +50670,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -51059,7 +51058,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -51415,7 +51414,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -53636,7 +53635,7 @@ unicode = 483;
 {
 color = 5;
 glyphname = b;
-lastChange = "2024-03-04 10:34:09 +0000";
+lastChange = "2024-04-02 09:27:37 +0000";
 layers = (
 {
 anchors = (
@@ -54762,7 +54761,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -55172,7 +55171,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -55576,7 +55575,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -56302,7 +56301,7 @@ unicode = 384;
 {
 color = 5;
 glyphname = c;
-lastChange = "2024-03-04 10:34:45 +0000";
+lastChange = "2024-04-02 09:27:44 +0000";
 layers = (
 {
 anchors = (
@@ -56781,7 +56780,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -56955,7 +56954,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -57129,7 +57128,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -57699,7 +57698,7 @@ unicode = 572;
 {
 color = 5;
 glyphname = d;
-lastChange = "2024-03-04 10:35:10 +0000";
+lastChange = "2024-04-02 09:27:52 +0000";
 layers = (
 {
 anchors = (
@@ -58513,7 +58512,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -58765,7 +58764,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -59017,7 +59016,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -59897,7 +59896,7 @@ unicode = 598;
 {
 color = 5;
 glyphname = e;
-lastChange = "2024-03-04 10:35:33 +0000";
+lastChange = "2024-04-02 09:28:05 +0000";
 layers = (
 {
 anchors = (
@@ -60282,7 +60281,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -60492,7 +60491,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -60702,7 +60701,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -62264,7 +62263,7 @@ unicode = 441;
 {
 color = 5;
 glyphname = f;
-lastChange = "2024-03-04 10:35:57 +0000";
+lastChange = "2024-04-02 09:28:16 +0000";
 layers = (
 {
 anchors = (
@@ -62804,7 +62803,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -62983,7 +62982,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -63162,7 +63161,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -63291,7 +63290,7 @@ unicode = 7711;
 {
 color = 5;
 glyphname = g;
-lastChange = "2024-03-04 10:36:22 +0000";
+lastChange = "2024-04-02 09:28:34 +0000";
 layers = (
 {
 anchors = (
@@ -64137,7 +64136,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -64409,7 +64408,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -64681,7 +64680,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -65993,7 +65992,7 @@ unicode = 485;
 {
 color = 5;
 glyphname = h;
-lastChange = "2024-03-04 10:37:15 +0000";
+lastChange = "2024-04-02 09:28:41 +0000";
 layers = (
 {
 anchors = (
@@ -67208,7 +67207,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -67663,7 +67662,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -68125,7 +68124,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -69054,7 +69053,7 @@ unicode = 613;
 {
 color = 5;
 glyphname = i;
-lastChange = "2024-03-04 10:37:40 +0000";
+lastChange = "2024-04-02 09:28:48 +0000";
 layers = (
 {
 anchors = (
@@ -69468,7 +69467,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -69709,7 +69708,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -69950,7 +69949,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -71691,7 +71690,7 @@ unicode = 7725;
 {
 color = 5;
 glyphname = j;
-lastChange = "2024-03-04 10:38:22 +0000";
+lastChange = "2024-04-02 09:29:06 +0000";
 layers = (
 {
 layerId = m01;
@@ -72089,7 +72088,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -72304,7 +72303,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -72519,7 +72518,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -73275,7 +73274,7 @@ unicode = 585;
 {
 color = 5;
 glyphname = k;
-lastChange = "2024-03-04 10:38:45 +0000";
+lastChange = "2024-04-02 09:29:15 +0000";
 layers = (
 {
 anchors = (
@@ -73842,7 +73841,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -74089,7 +74088,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -74336,7 +74335,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -75022,7 +75021,7 @@ unicode = 42817;
 {
 color = 5;
 glyphname = l;
-lastChange = "2024-03-04 10:39:18 +0000";
+lastChange = "2024-04-02 09:29:21 +0000";
 layers = (
 {
 anchors = (
@@ -75386,7 +75385,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -75575,7 +75574,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -75764,7 +75763,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -76748,7 +76747,7 @@ unicode = 322;
 {
 color = 5;
 glyphname = m;
-lastChange = "2024-03-04 10:40:04 +0000";
+lastChange = "2024-04-02 09:29:28 +0000";
 layers = (
 {
 anchors = (
@@ -77785,7 +77784,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -78134,7 +78133,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -78476,7 +78475,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -78823,7 +78822,7 @@ unicode = 623;
 {
 color = 5;
 glyphname = n;
-lastChange = "2024-03-04 10:40:36 +0000";
+lastChange = "2024-04-02 09:29:34 +0000";
 layers = (
 {
 anchors = (
@@ -79679,7 +79678,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -79940,7 +79939,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -80195,7 +80194,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -81183,7 +81182,7 @@ unicode = 331;
 {
 color = 5;
 glyphname = o;
-lastChange = "2024-03-21 11:56:11 +0000";
+lastChange = "2024-04-02 09:29:43 +0000";
 layers = (
 {
 anchors = (
@@ -81850,7 +81849,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -82093,7 +82092,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -82336,7 +82335,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -84529,7 +84528,7 @@ unicode = 339;
 {
 color = 5;
 glyphname = p;
-lastChange = "2024-03-04 10:44:09 +0000";
+lastChange = "2024-04-02 09:30:01 +0000";
 layers = (
 {
 anchors = (
@@ -85319,7 +85318,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -85563,7 +85562,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -85807,7 +85806,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -86627,7 +86626,7 @@ unicode = 7549;
 {
 color = 5;
 glyphname = q;
-lastChange = "2024-03-04 10:44:35 +0000";
+lastChange = "2024-04-02 09:30:10 +0000";
 layers = (
 {
 anchors = (
@@ -87417,7 +87416,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -87661,7 +87660,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -87905,7 +87904,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -88399,7 +88398,7 @@ unicode = 587;
 {
 color = 5;
 glyphname = r;
-lastChange = "2024-03-04 10:45:09 +0000";
+lastChange = "2024-04-02 09:30:18 +0000";
 layers = (
 {
 anchors = (
@@ -89049,7 +89048,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -89269,7 +89268,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -89477,7 +89476,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -90342,7 +90341,7 @@ unicode = 637;
 {
 color = 5;
 glyphname = s;
-lastChange = "2024-03-04 10:49:37 +0000";
+lastChange = "2024-04-02 09:30:25 +0000";
 layers = (
 {
 anchors = (
@@ -90889,7 +90888,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -91155,7 +91154,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -91347,7 +91346,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -92039,7 +92038,7 @@ unicode = 42921;
 {
 color = 5;
 glyphname = t;
-lastChange = "2024-03-04 13:20:37 +0000";
+lastChange = "2024-04-02 09:30:36 +0000";
 layers = (
 {
 anchors = (
@@ -92521,7 +92520,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -92713,7 +92712,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -92905,7 +92904,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -93987,7 +93986,7 @@ unicode = 648;
 {
 color = 5;
 glyphname = u;
-lastChange = "2024-03-21 12:00:00 +0000";
+lastChange = "2024-04-02 09:30:52 +0000";
 layers = (
 {
 anchors = (
@@ -94874,7 +94873,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -95145,7 +95144,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -95416,7 +95415,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -97143,7 +97142,7 @@ unicode = 7797;
 {
 color = 5;
 glyphname = v;
-lastChange = "2024-03-04 11:11:57 +0000";
+lastChange = "2024-04-02 09:31:03 +0000";
 layers = (
 {
 anchors = (
@@ -97716,7 +97715,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -97879,7 +97878,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -98036,7 +98035,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -98479,7 +98478,7 @@ unicode = 652;
 {
 color = 5;
 glyphname = w;
-lastChange = "2024-03-04 11:12:24 +0000";
+lastChange = "2024-04-02 09:31:17 +0000";
 layers = (
 {
 anchors = (
@@ -99517,7 +99516,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -99764,7 +99763,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -100011,7 +100010,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -100825,7 +100824,7 @@ unicode = 11379;
 {
 color = 5;
 glyphname = x;
-lastChange = "2024-03-04 11:12:51 +0000";
+lastChange = "2024-04-02 09:31:25 +0000";
 layers = (
 {
 anchors = (
@@ -101621,7 +101620,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -101821,7 +101820,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -102021,7 +102020,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -102214,7 +102213,7 @@ unicode = 7819;
 {
 color = 5;
 glyphname = y;
-lastChange = "2024-03-04 11:13:18 +0000";
+lastChange = "2024-04-02 09:31:32 +0000";
 layers = (
 {
 anchors = (
@@ -103209,7 +103208,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -103470,7 +103469,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -103714,7 +103713,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -104701,7 +104700,7 @@ unicode = 7929;
 {
 color = 5;
 glyphname = z;
-lastChange = "2024-03-04 11:13:41 +0000";
+lastChange = "2024-04-02 09:32:07 +0000";
 layers = (
 {
 anchors = (
@@ -105225,7 +105224,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -105414,7 +105413,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -105603,7 +105602,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -106624,7 +106623,7 @@ unicode = 7611;
 {
 color = 5;
 glyphname = zero;
-lastChange = "2024-03-04 11:19:11 +0000";
+lastChange = "2024-04-02 09:33:47 +0000";
 layers = (
 {
 layerId = m01;
@@ -106943,7 +106942,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -107081,7 +107080,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -107219,7 +107218,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -107292,7 +107291,7 @@ unicode = 48;
 {
 color = 5;
 glyphname = one;
-lastChange = "2024-03-04 11:14:10 +0000";
+lastChange = "2024-04-02 09:32:19 +0000";
 layers = (
 {
 layerId = m01;
@@ -107778,7 +107777,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -107929,7 +107928,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -108080,7 +108079,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -108158,7 +108157,7 @@ unicode = 49;
 {
 color = 5;
 glyphname = two;
-lastChange = "2024-03-04 11:14:52 +0000";
+lastChange = "2024-04-02 09:32:26 +0000";
 layers = (
 {
 layerId = m01;
@@ -108643,7 +108642,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -108831,7 +108830,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -109019,7 +109018,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -109120,7 +109119,7 @@ unicode = 50;
 {
 color = 5;
 glyphname = three;
-lastChange = "2024-03-04 11:15:29 +0000";
+lastChange = "2024-04-02 09:32:33 +0000";
 layers = (
 {
 layerId = m01;
@@ -109685,7 +109684,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -109906,7 +109905,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -110127,7 +110126,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -110241,7 +110240,7 @@ unicode = 51;
 {
 color = 5;
 glyphname = four;
-lastChange = "2024-03-04 11:15:53 +0000";
+lastChange = "2024-04-02 09:32:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -110587,7 +110586,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -110774,7 +110773,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -110961,7 +110960,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -111056,7 +111055,7 @@ unicode = 52;
 {
 color = 5;
 glyphname = five;
-lastChange = "2024-03-04 11:16:41 +0000";
+lastChange = "2024-04-02 09:32:53 +0000";
 layers = (
 {
 layerId = m01;
@@ -111621,7 +111620,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -111840,7 +111839,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -112059,7 +112058,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -112171,7 +112170,7 @@ unicode = 53;
 {
 color = 5;
 glyphname = six;
-lastChange = "2024-03-04 11:17:15 +0000";
+lastChange = "2024-04-02 09:33:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -112791,7 +112790,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -112951,7 +112950,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -113111,7 +113110,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -113193,7 +113192,7 @@ unicode = 54;
 {
 color = 5;
 glyphname = seven;
-lastChange = "2024-03-04 11:17:37 +0000";
+lastChange = "2024-04-02 09:33:24 +0000";
 layers = (
 {
 layerId = m01;
@@ -113561,7 +113560,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -113699,7 +113698,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -113837,7 +113836,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -113906,7 +113905,7 @@ unicode = 55;
 {
 color = 5;
 glyphname = eight;
-lastChange = "2024-03-04 11:18:13 +0000";
+lastChange = "2024-04-02 09:33:33 +0000";
 layers = (
 {
 layerId = m01;
@@ -114874,7 +114873,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -115056,7 +115055,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -115238,7 +115237,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -115333,7 +115332,7 @@ unicode = 56;
 {
 color = 5;
 glyphname = nine;
-lastChange = "2024-03-04 11:18:38 +0000";
+lastChange = "2024-04-02 09:33:40 +0000";
 layers = (
 {
 layerId = m01;
@@ -115953,7 +115952,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -116113,7 +116112,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -116273,7 +116272,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
