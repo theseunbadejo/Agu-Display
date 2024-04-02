@@ -4314,7 +4314,7 @@ unicode = 579;
 {
 color = 5;
 glyphname = C;
-lastChange = "2024-03-04 12:44:01 +0000";
+lastChange = "2024-04-01 12:15:26 +0000";
 layers = (
 {
 anchors = (
@@ -4949,7 +4949,7 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-max = 39;
+max = 39.99;
 min = 20;
 }
 );
@@ -5249,7 +5249,7 @@ associatedMasterId = m002;
 attr = {
 axisRules = (
 {
-max = 39;
+max = 39.99;
 min = 20;
 }
 );
@@ -5537,7 +5537,7 @@ associatedMasterId = m003;
 attr = {
 axisRules = (
 {
-max = 39;
+max = 39.99;
 min = 20;
 }
 );
