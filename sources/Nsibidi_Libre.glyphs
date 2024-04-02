@@ -212,7 +212,7 @@ glyphs = (
 {
 color = 5;
 glyphname = A;
-lastChange = "2024-03-09 15:25:37 +0000";
+lastChange = "2024-04-02 07:34:01 +0000";
 layers = (
 {
 anchors = (
@@ -336,7 +336,7 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-max = 39.99;
+max = 39.5;
 min = 20;
 }
 );
@@ -450,7 +450,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -669,7 +669,7 @@ associatedMasterId = m002;
 attr = {
 axisRules = (
 {
-max = 39.99;
+max = 39.5;
 min = 20;
 }
 );
@@ -783,7 +783,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
@@ -1002,7 +1002,7 @@ associatedMasterId = m003;
 attr = {
 axisRules = (
 {
-max = 39.99;
+max = 39.5;
 min = 20;
 }
 );
@@ -1116,7 +1116,7 @@ attr = {
 axisRules = (
 {
 max = 60;
-min = 40;
+min = 39.6;
 }
 );
 };
