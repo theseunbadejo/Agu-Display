@@ -19,8 +19,8 @@ hamburgefontsiv
 ADHESION adhesion",
 ".,:;…!¡?¿·•*‖#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'|",
 "ƒ฿꞉ˮ˗꞊@&¶§©®™°′″|¦†ℓ‡℮№₿₵¢₡¤$₫€₲₴₭₾₺₼₦₱₽₨₹₪£₸₮₩¥+−×÷=≠><≥≤±≈~¬^∅∞∫Ω∆∏∑√∂µ%‰↑↗→↘↓↙←↖↔↕□◌",
-"ʼⱭǢꞳƩoeƏƷǮƸɁƖꞭȢꞶꞋƱƔɪɑꞵʘꭓɛʃʒǯƹɣ?ʔʕɂꜧɩɬꞷȣꞌʊʰⁿʷ!ǃᵘᵛᶻƒ꞉ˮ˗꞊₭᷊̩̍̐͘ˊˋˀ",
-"/_part.chevron/_part.longbones/_part.longbristles/_part.longkebab/_part.longladder/_part.shortbones/_part.shortbristles/_part.shortkebab/_part.shortladder"
+"ⱭǢꞳƩoeƏƷǮƸɁƖꞭȢꞶꞋƱƔɪɑꞵʘꭓɛʃʒǯƹɣʔʕɂꜧɩɬꞷȣꞌʊʰⁿ
+ʷᵘᵛᶻƒ꞉ʼˮ˗꞊₭᷊̩̍̐͘ˊˋˀ"
 );
 axes = (
 {
@@ -211,7 +211,7 @@ glyphs = (
 {
 color = 5;
 glyphname = A;
-lastChange = "2024-04-02 07:34:01 +0000";
+lastChange = "2024-04-02 09:44:29 +0000";
 layers = (
 {
 anchors = (
@@ -335,7 +335,7 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-max = 39.5;
+max = 39.99;
 min = 20;
 }
 );
@@ -668,7 +668,7 @@ associatedMasterId = m002;
 attr = {
 axisRules = (
 {
-max = 39.5;
+max = 39.99;
 min = 20;
 }
 );
@@ -1001,7 +1001,7 @@ associatedMasterId = m003;
 attr = {
 axisRules = (
 {
-max = 39.5;
+max = 39.99;
 min = 20;
 }
 );
@@ -2818,7 +2818,7 @@ unicode = 482;
 {
 color = 5;
 glyphname = B;
-lastChange = "2024-04-02 08:42:01 +0000";
+lastChange = "2024-04-02 09:44:57 +0000";
 layers = (
 {
 anchors = (
@@ -3310,7 +3310,7 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-max = 39.5;
+max = 39.99;
 min = 20;
 }
 );
@@ -3427,7 +3427,7 @@ associatedMasterId = m002;
 attr = {
 axisRules = (
 {
-max = 39.5;
+max = 39.99;
 min = 20;
 }
 );
@@ -3694,7 +3694,7 @@ associatedMasterId = m003;
 attr = {
 axisRules = (
 {
-max = 39.5;
+max = 39.99;
 min = 20;
 }
 );
@@ -4313,7 +4313,7 @@ unicode = 579;
 {
 color = 5;
 glyphname = C;
-lastChange = "2024-04-02 08:42:30 +0000";
+lastChange = "2024-04-02 09:45:13 +0000";
 layers = (
 {
 anchors = (
@@ -4948,7 +4948,7 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-max = 39.5;
+max = 39.99;
 min = 20;
 }
 );
@@ -5248,7 +5248,7 @@ associatedMasterId = m002;
 attr = {
 axisRules = (
 {
-max = 39.5;
+max = 39.99;
 min = 20;
 }
 );
@@ -5536,7 +5536,7 @@ associatedMasterId = m003;
 attr = {
 axisRules = (
 {
-max = 39.5;
+max = 39.99;
 min = 20;
 }
 );
@@ -106097,7 +106097,7 @@ unicode = 8319;
 {
 color = 1;
 glyphname = wmod;
-lastChange = "2024-02-12 18:29:58 +0000";
+lastChange = "2024-04-03 13:33:32 +0000";
 layers = (
 {
 layerId = m01;
