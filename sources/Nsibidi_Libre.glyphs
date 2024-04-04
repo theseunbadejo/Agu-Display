@@ -134699,7 +134699,7 @@ unicode = 702;
 color = 5;
 export = 0;
 glyphname = _part.chevron;
-lastChange = "2024-04-04 09:35:45 +0000";
+lastChange = "2024-04-04 09:55:13 +0000";
 layers = (
 {
 layerId = m003;
@@ -134928,6 +134928,7 @@ associatedMasterId = m003;
 attr = {
 axisRules = (
 {
+max = 60;
 min = 40;
 }
 );
@@ -135005,6 +135006,7 @@ associatedMasterId = m002;
 attr = {
 axisRules = (
 {
+max = 60;
 min = 40;
 }
 );
@@ -135100,6 +135102,7 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
+max = 60;
 min = 40;
 }
 );
