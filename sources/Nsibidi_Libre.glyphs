@@ -25,15 +25,21 @@ NIGERIA",
 "ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz
 0123456789",
-"@&¶ ₹₪£₸₮₩¥↑↗→↘↓↙←↖><≥≤±≈~^∅∞∫Ω∆∏∑√∂µ′″↔↕
+"@&¶ ₹₪£₸₮₩¥↑↗→↘↓↙←↖><≥≤±≈~^∅∞∫Ω∆∏∑√∂µ′″↔↕*
 
 🌀 🌐 🌴 🌼 🌿 🍆 🏠 🐢 👀 👄 👑 👹 👻 💀 💎 
 O💖🤍 💥 🔥 🕓 😲 🚫 O 🤑 🦐",
-"",
 "eḛ",
 "💖",
 "🤍",
-"℮"
+"℮",
+"*",
+"🌀🌐🌴🌼🌿🍆🏠🐢👀👄👑👹👻💀💎
+💖💥💩💸🔥🕓😲🚫🤍🤑🦐꞉ˮ˗꞊☺♈♉♊♋♌♍♎♏♐♑♒♓⚠⚡⛎✨",
+".,:;…!¡?¿·•*‖#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'",
+"₂",
+"₁₂₃₄₅₆₇₈₉¹²³⁴⁵⁶⁷⁸⁹",
+"∗"
 );
 axes = (
 {
@@ -138914,7 +138920,7 @@ unicode = 8321;
 {
 color = 5;
 glyphname = twoinferior;
-lastChange = "2024-02-12 18:29:58 +0000";
+lastChange = "2024-06-09 14:58:23 +0000";
 layers = (
 {
 layerId = m01;
@@ -149527,7 +149533,7 @@ unicode = 10024;
 {
 color = 5;
 glyphname = at;
-lastChange = "2024-05-26 21:39:42 +0000";
+lastChange = "2024-06-04 19:22:17 +0000";
 layers = (
 {
 background = {
@@ -151007,9 +151013,51 @@ unicode = 64;
 {
 color = 5;
 glyphname = ampersand;
-lastChange = "2024-05-26 21:39:42 +0000";
+lastChange = "2024-06-04 19:28:11 +0000";
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(565,3,l),
+(574,11,o),
+(572,21,o),
+(565,28,cs),
+(557,35,o),
+(549,36,o),
+(540,27,cs),
+(465,-49,ls),
+(456,-59,o),
+(460,-68,o),
+(465,-73,cs),
+(473,-81,o),
+(482,-82,o),
+(490,-73,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(481,-51,o),
+(481,-41,o),
+(474,-34,cs),
+(263,223,ls),
+(256,231,o),
+(248,231,o),
+(239,224,cs),
+(231,217,o),
+(230,208,o),
+(237,200,cs),
+(448,-57,ls),
+(454,-64,o),
+(463,-66,o),
+(472,-59,cs)
+);
+}
+);
+};
 layerId = m01;
 shapes = (
 {
@@ -174321,6 +174369,27 @@ width = 547;
 }
 );
 unicode = 165;
+},
+{
+category = Symbol;
+glyphname = AsteriskOperator;
+lastChange = "2024-05-30 17:22:59 +0000";
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+subCategory = Math;
+unicode = 8727;
 },
 {
 color = 5;
