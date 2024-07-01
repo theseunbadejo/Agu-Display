@@ -4,4 +4,3 @@ axisOrder:
   - morf
 familyName: Nsibidi Libre
 autohintOTF: False
-extraFontmakeArgs: --overlaps-backend pathops
