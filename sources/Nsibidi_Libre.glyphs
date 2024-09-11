@@ -112941,7 +112941,7 @@ unicode = 105;
 {
 color = 5;
 glyphname = idotless;
-lastChange = "2024-09-10 20:06:52 +0000";
+lastChange = "2024-09-11 14:26:21 +0000";
 layers = (
 {
 anchors = (
@@ -113196,8 +113196,8 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-max = 1.99;
-min = 1;
+max = 39.99;
+min = 20;
 }
 );
 };
@@ -113284,7 +113284,8 @@ associatedMasterId = m01;
 attr = {
 axisRules = (
 {
-min = 2;
+max = 60;
+min = 39.6;
 }
 );
 };
@@ -113376,8 +113377,8 @@ associatedMasterId = m002;
 attr = {
 axisRules = (
 {
-max = 1.99;
-min = 1;
+max = 39.99;
+min = 20;
 }
 );
 };
@@ -113464,7 +113465,8 @@ associatedMasterId = m002;
 attr = {
 axisRules = (
 {
-min = 2;
+max = 60;
+min = 39.6;
 }
 );
 };
@@ -113556,8 +113558,8 @@ associatedMasterId = m003;
 attr = {
 axisRules = (
 {
-max = 1.99;
-min = 1;
+max = 39.99;
+min = 20;
 }
 );
 };
@@ -113590,6 +113592,9 @@ ref = _part.chevron;
 {
 closed = 1;
 nodes = (
+(45,454,o),
+(51,452,o),
+(59,452,cs),
 (110,452,ls),
 (125,452,o),
 (132,454,o),
@@ -113612,10 +113617,7 @@ nodes = (
 (34,476,cs),
 (34,468,o),
 (36,463,o),
-(40,459,cs),
-(45,454,o),
-(51,452,o),
-(59,452,cs)
+(40,459,cs)
 );
 },
 {
@@ -113644,7 +113646,8 @@ associatedMasterId = m003;
 attr = {
 axisRules = (
 {
-min = 2;
+max = 60;
+min = 39.6;
 }
 );
 };
@@ -235748,5 +235751,5 @@ m002 = {
 };
 };
 versionMajor = 1;
-versionMinor = 42;
+versionMinor = 43;
 }
