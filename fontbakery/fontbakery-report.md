@@ -35,7 +35,7 @@ fontbakery version: 0.10.3
 * 🔥 **FAIL** GF_Latin_Core/ro_Latn (Romanian): [FAIL: in Romanian, S-cedilla should become S-comma-accent; both buffers returned Scedilla=0+602] [code: failed-language-shaping]
 * 🔥 **FAIL** GF_Latin_Core/teo_Latn (Teso): [FAIL: Some base glyphs were missing: ᵃ, ᵉ, ᵋ, ᵒ, ᵓ, ᶤ, ᶶ, ⁱ, FAIL: Shaper produced a .notdef] [code: failed-language-shaping]
 * 🔥 **FAIL** GF_Latin_Core/wo_Latn (Wolof): [FAIL: The locl feature did not affect Eng] [code: failed-language-shaping]
-</div></details><br></div></details><details><summary><b>[14] NsibidiLibre-Uzo.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[12] NsibidiLibre-Uzo.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
 
 
 * 🔥 **FAIL** Font names are incorrect:
@@ -49,15 +49,10 @@ fontbakery version: 0.10.3
 | Typographic Family Name | **Nsibidi Libre** | **N/A** |
 | Typographic Subfamily Name | **Uzo** | **N/A** | [code: bad-names]
 * ⚠ **WARN** Regular missing from full name [code: lacks-regular]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1026 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1186, but got 726 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 309, but got 300 instead [code: descent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1186, but got 1182 instead [code: ascent]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
@@ -337,6 +332,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: h	Contours detected: 7	Expected: 1
 
+	- Glyph name: i	Contours detected: 4	Expected: 2
+
 	- Glyph name: j	Contours detected: 5	Expected: 2
 
 	- Glyph name: k	Contours detected: 5	Expected: 1 or 2
@@ -477,6 +474,14 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: edieresis	Contours detected: 7	Expected: 4
 
+	- Glyph name: igrave	Contours detected: 4	Expected: 2
+
+	- Glyph name: iacute	Contours detected: 4	Expected: 2
+
+	- Glyph name: icircumflex	Contours detected: 4	Expected: 2
+
+	- Glyph name: idieresis	Contours detected: 5	Expected: 3
+
 	- Glyph name: eth	Contours detected: 6	Expected: 2
 
 	- Glyph name: ntilde	Contours detected: 8	Expected: 2
@@ -573,15 +578,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Itilde	Contours detected: 5	Expected: 2
 
+	- Glyph name: itilde	Contours detected: 4	Expected: 2
+
 	- Glyph name: Imacron	Contours detected: 5	Expected: 2
+
+	- Glyph name: imacron	Contours detected: 4	Expected: 2
 
 	- Glyph name: Iogonek	Contours detected: 5	Expected: 1 or 2
 
+	- Glyph name: iogonek	Contours detected: 5	Expected: 2 or 3
+
 	- Glyph name: Idotaccent	Contours detected: 5	Expected: 2
+
+	- Glyph name: dotlessi	Contours detected: 3	Expected: 1
 
 	- Glyph name: IJ	Contours detected: 8	Expected: 1 or 2
 
-	- Glyph name: ij	Contours detected: 7	Expected: 3 or 4
+	- Glyph name: ij	Contours detected: 9	Expected: 3 or 4
 
 	- Glyph name: uni0136	Contours detected: 6	Expected: 2 or 3
 
@@ -795,6 +808,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni01CF	Contours detected: 5	Expected: 2
 
+	- Glyph name: uni01D0	Contours detected: 4	Expected: 2
+
 	- Glyph name: uni01D1	Contours detected: 11	Expected: 3
 
 	- Glyph name: uni01D2	Contours detected: 9	Expected: 3
@@ -887,7 +902,11 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0208	Contours detected: 6	Expected: 3
 
+	- Glyph name: uni0209	Contours detected: 5	Expected: 3
+
 	- Glyph name: uni020A	Contours detected: 5	Expected: 2
+
+	- Glyph name: uni020B	Contours detected: 4	Expected: 2
 
 	- Glyph name: uni020C	Contours detected: 12	Expected: 4
 
@@ -1074,6 +1093,8 @@ The following glyphs do not have the recommended number of contours:
 	- Glyph name: uni1E2B	Contours detected: 8	Expected: 2
 
 	- Glyph name: uni1E2E	Contours detected: 7	Expected: 4
+
+	- Glyph name: uni1E2F	Contours detected: 6	Expected: 4
 
 	- Glyph name: uni1E36	Contours detected: 5	Expected: 2
 
@@ -1281,7 +1302,11 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EC8	Contours detected: 5	Expected: 2
 
+	- Glyph name: uni1EC9	Contours detected: 4	Expected: 2
+
 	- Glyph name: uni1ECA	Contours detected: 5	Expected: 2
+
+	- Glyph name: uni1ECB	Contours detected: 5	Expected: 3
 
 	- Glyph name: uni1ECC	Contours detected: 11	Expected: 3
 
@@ -1725,6 +1750,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: dong	Contours detected: 9	Expected: 3 or 4
 
+	- Glyph name: dotlessi	Contours detected: 3	Expected: 1
+
 	- Glyph name: e	Contours detected: 5	Expected: 2
 
 	- Glyph name: eacute	Contours detected: 6	Expected: 3
@@ -1775,7 +1802,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: hbar	Contours detected: 8	Expected: 1
 
-	- Glyph name: ij	Contours detected: 7	Expected: 3 or 4
+	- Glyph name: i	Contours detected: 4	Expected: 2
+
+	- Glyph name: iacute	Contours detected: 4	Expected: 2
+
+	- Glyph name: icircumflex	Contours detected: 4	Expected: 2
+
+	- Glyph name: idieresis	Contours detected: 5	Expected: 3
+
+	- Glyph name: igrave	Contours detected: 4	Expected: 2
+
+	- Glyph name: ij	Contours detected: 9	Expected: 3 or 4
+
+	- Glyph name: imacron	Contours detected: 4	Expected: 2
+
+	- Glyph name: iogonek	Contours detected: 5	Expected: 2 or 3
+
+	- Glyph name: itilde	Contours detected: 4	Expected: 2
 
 	- Glyph name: j	Contours detected: 5	Expected: 2
 
@@ -1987,6 +2030,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni01CF	Contours detected: 5	Expected: 2
 
+	- Glyph name: uni01D0	Contours detected: 4	Expected: 2
+
 	- Glyph name: uni01D1	Contours detected: 11	Expected: 3
 
 	- Glyph name: uni01D2	Contours detected: 9	Expected: 3
@@ -2191,6 +2236,8 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1E2E	Contours detected: 7	Expected: 4
 
+	- Glyph name: uni1E2F	Contours detected: 6	Expected: 4
+
 	- Glyph name: uni1E36	Contours detected: 5	Expected: 2
 
 	- Glyph name: uni1E38	Contours detected: 6	Expected: 3
@@ -2371,7 +2418,11 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1EC8	Contours detected: 5	Expected: 2
 
+	- Glyph name: uni1EC9	Contours detected: 4	Expected: 2
+
 	- Glyph name: uni1ECA	Contours detected: 5	Expected: 2
+
+	- Glyph name: uni1ECB	Contours detected: 5	Expected: 3
 
 	- Glyph name: uni1ECC	Contours detected: 11	Expected: 3
 
@@ -2546,21 +2597,21 @@ The following glyphs do not have the recommended number of contours:
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
+ * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
- * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
- * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+ * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
+ * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+ * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, malayalam, old-permic, math, tifinagh, coptic, canadian-aboriginal, syriac
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, cherokee, math
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, malayalam, tai-le, canadian-aboriginal, tifinagh, math, old-permic, coptic
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -2574,13 +2625,13 @@ The following glyphs do not have the recommended number of contours:
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, cherokee, syriac, caucasian-albanian
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
+ * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, gothic, cherokee, caucasian-albanian, tifinagh
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
- * U+03C0 GREEK SMALL LETTER PI: try adding one of: math, greek, yi
+ * U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi
  * U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai
  * U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition
  * U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition
@@ -2635,7 +2686,7 @@ The following glyphs do not have the recommended number of contours:
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25A1 WHITE SQUARE: try adding symbols
- * U+25CC DOTTED CIRCLE: try adding one of: khojki, balinese, rejang, brahmi, soyombo, music, thaana, gunjala-gondi, phags-pa, lao, tamil, sinhala, bassa-vah, lepcha, symbols, mende-kikakui, sharada, gujarati, mandaic, cham, oriya, ahom, thai, gurmukhi, siddham, osage, kharoshthi, miao, tagbanwa, bengali, duployan, tagalog, syriac, caucasian-albanian, meetei-mayek, tai-le, malayalam, telugu, manichaean, hebrew, elbasan, yi, grantha, masaram-gondi, newa, coptic, buhid, modi, batak, mahajani, bhaiksuki, sundanese, javanese, psalter-pahlavi, sogdian, marchen, tai-viet, tifinagh, buginese, wancho, limbu, khudawadi, syloti-nagri, kayah-li, takri, hanunoo, mongolian, hanifi-rohingya, myanmar, kaithi, dogra, math, tirhuta, khmer, pahawh-hmong, nko, adlam, kannada, old-permic, chakma, tibetan, devanagari, zanabazar-square, new-tai-lue
+ * U+25CC DOTTED CIRCLE: try adding one of: mende-kikakui, new-tai-lue, buhid, caucasian-albanian, sinhala, mahajani, balinese, cham, pahawh-hmong, mandaic, sharada, marchen, syloti-nagri, kannada, mongolian, yi, osage, math, coptic, syriac, tai-le, sundanese, bassa-vah, tai-viet, tamil, manichaean, gujarati, hanifi-rohingya, newa, ahom, devanagari, sogdian, kayah-li, soyombo, khmer, tifinagh, oriya, tagbanwa, hanunoo, kaithi, modi, masaram-gondi, takri, gunjala-gondi, dogra, brahmi, phags-pa, buginese, telugu, gurmukhi, old-permic, wancho, grantha, nko, javanese, batak, bhaiksuki, music, psalter-pahlavi, thaana, bengali, siddham, thai, rejang, symbols, tagalog, tirhuta, khojki, malayalam, adlam, tibetan, zanabazar-square, meetei-mayek, khudawadi, chakma, myanmar, lao, miao, limbu, duployan, lepcha, elbasan, hebrew, kharoshthi
  * U+263A WHITE SMILING FACE: try adding symbols
  * U+2648 ARIES: try adding symbols
  * U+2649 TAURUS: try adding symbols
@@ -5672,7 +5723,7 @@ Width = 526:
 less, greater
 
 Width = 600:
-lessequal, approxequal, logicalnot, greaterequal, plusminus
+greaterequal, approxequal, plusminus, logicalnot, lessequal
 
 Width = 468:
 multiply
@@ -5887,17 +5938,7 @@ multiply
 	* uni02C0 (U+02C0): L<<77.0,441.0>--<76.0,567.0>>
 
 	* uni1E1F (U+1E1F): L<<165.0,192.0>--<164.0,35.0>> [code: found-semi-vertical]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure soft_dotted characters lose their dot when combined with marks that replace the dot. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Shaping Checks>.html#com.google.fonts/check/soft_dotted">com.google.fonts/check/soft_dotted</a>)</summary><div>
-
-
-* ⚠ **WARN** The dot of soft dotted characters used in orthographies _must_ disappear in the following strings: i̊ i̋ i̍ i̐ i̓ i᷆ i᷇ j̀ j́ j̃ j̄ j̈ j̑ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ ḭ̀ ḭ́ ḭ̄ ị̀ ị́ ị̂ ị̃ ị̄
-
-The dot of soft dotted characters _should_ disappear in other cases, for example: ĭ i̇ i̒ i᷄ i᷅ ĭ̛ i̛̇ i̛̊ i̛̋ i̛̍ i̛̐ i̛̒ i̛̓ i̛᷄ i̛᷅ i̛᷆ i̛᷇ ĭ̥ i̥̇ i̥̊
-
-Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers), Navajo (Latn, 166,319 speakers). 
-
-Your font does *not* cover the following languages that require the soft-dotted feature: Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Kom (Latn, 360,685 speakers), Dan (Latn, 1,099,244 speakers), Ma’di (Latn, 584,000 speakers), Dutch (Latn, 31,709,104 speakers), Aghem (Latn, 38,843 speakers), Belarusian (Cyrl, 10,064,517 speakers), Basaa (Latn, 332,940 speakers), Nateni (Latn, 100,000 speakers), Lugbara (Latn, 2,200,000 speakers), Ebira (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Avokaya (Latn, 100,000 speakers). [code: soft-dotted]
-</div></details><br></div></details><details><summary><b>[14] NsibidiLibre-Ala.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[13] NsibidiLibre-Ala.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
 
 
 * 🔥 **FAIL** Font names are incorrect:
@@ -5911,15 +5952,10 @@ Your font does *not* cover the following languages that require the soft-dotted 
 | Typographic Family Name | **Nsibidi Libre** | **N/A** |
 | Typographic Subfamily Name | **Ala** | **N/A** | [code: bad-names]
 * ⚠ **WARN** Regular missing from full name [code: lacks-regular]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1026 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1186, but got 726 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 309, but got 300 instead [code: descent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1186, but got 1182 instead [code: ascent]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
@@ -7260,21 +7296,21 @@ The following glyphs do not have the recommended number of contours:
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
+ * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
- * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
- * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+ * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
+ * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+ * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, malayalam, old-permic, math, tifinagh, coptic, canadian-aboriginal, syriac
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, cherokee, math
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, malayalam, tai-le, canadian-aboriginal, tifinagh, math, old-permic, coptic
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -7288,13 +7324,13 @@ The following glyphs do not have the recommended number of contours:
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, cherokee, syriac, caucasian-albanian
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
+ * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, gothic, cherokee, caucasian-albanian, tifinagh
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
- * U+03C0 GREEK SMALL LETTER PI: try adding one of: math, greek, yi
+ * U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi
  * U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai
  * U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition
  * U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition
@@ -7349,7 +7385,7 @@ The following glyphs do not have the recommended number of contours:
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25A1 WHITE SQUARE: try adding symbols
- * U+25CC DOTTED CIRCLE: try adding one of: khojki, balinese, rejang, brahmi, soyombo, music, thaana, gunjala-gondi, phags-pa, lao, tamil, sinhala, bassa-vah, lepcha, symbols, mende-kikakui, sharada, gujarati, mandaic, cham, oriya, ahom, thai, gurmukhi, siddham, osage, kharoshthi, miao, tagbanwa, bengali, duployan, tagalog, syriac, caucasian-albanian, meetei-mayek, tai-le, malayalam, telugu, manichaean, hebrew, elbasan, yi, grantha, masaram-gondi, newa, coptic, buhid, modi, batak, mahajani, bhaiksuki, sundanese, javanese, psalter-pahlavi, sogdian, marchen, tai-viet, tifinagh, buginese, wancho, limbu, khudawadi, syloti-nagri, kayah-li, takri, hanunoo, mongolian, hanifi-rohingya, myanmar, kaithi, dogra, math, tirhuta, khmer, pahawh-hmong, nko, adlam, kannada, old-permic, chakma, tibetan, devanagari, zanabazar-square, new-tai-lue
+ * U+25CC DOTTED CIRCLE: try adding one of: mende-kikakui, new-tai-lue, buhid, caucasian-albanian, sinhala, mahajani, balinese, cham, pahawh-hmong, mandaic, sharada, marchen, syloti-nagri, kannada, mongolian, yi, osage, math, coptic, syriac, tai-le, sundanese, bassa-vah, tai-viet, tamil, manichaean, gujarati, hanifi-rohingya, newa, ahom, devanagari, sogdian, kayah-li, soyombo, khmer, tifinagh, oriya, tagbanwa, hanunoo, kaithi, modi, masaram-gondi, takri, gunjala-gondi, dogra, brahmi, phags-pa, buginese, telugu, gurmukhi, old-permic, wancho, grantha, nko, javanese, batak, bhaiksuki, music, psalter-pahlavi, thaana, bengali, siddham, thai, rejang, symbols, tagalog, tirhuta, khojki, malayalam, adlam, tibetan, zanabazar-square, meetei-mayek, khudawadi, chakma, myanmar, lao, miao, limbu, duployan, lepcha, elbasan, hebrew, kharoshthi
  * U+263A WHITE SMILING FACE: try adding symbols
  * U+2648 ARIES: try adding symbols
  * U+2649 TAURUS: try adding symbols
@@ -10386,7 +10422,7 @@ Width = 526:
 less, greater
 
 Width = 600:
-lessequal, approxequal, logicalnot, greaterequal, plusminus
+greaterequal, approxequal, plusminus, logicalnot, lessequal
 
 Width = 468:
 multiply
@@ -10516,8 +10552,8 @@ The dot of soft dotted characters _should_ disappear in other cases, for example
 
 Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Kom (Latn, 360,685 speakers), Dan (Latn, 1,099,244 speakers), Ma’di (Latn, 584,000 speakers), Dutch (Latn, 31,709,104 speakers), Navajo (Latn, 166,319 speakers), Aghem (Latn, 38,843 speakers), Belarusian (Cyrl, 10,064,517 speakers), Basaa (Latn, 332,940 speakers), Nateni (Latn, 100,000 speakers), Lugbara (Latn, 2,200,000 speakers), Ebira (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Avokaya (Latn, 100,000 speakers). [code: soft-dotted]
-</div></details><br></div></details><details><summary><b>[13] NsibidiLibre-Osisi.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
+Your font does *not* cover the following languages that require the soft-dotted feature: Kom (Latn, 360,685 speakers), Lugbara (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Koonzime (Latn, 40,000 speakers), Aghem (Latn, 38,843 speakers), Navajo (Latn, 166,319 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Nateni (Latn, 100,000 speakers), Igbo (Latn, 27,823,640 speakers), Dutch (Latn, 31,709,104 speakers), Ejagham (Latn, 120,000 speakers), Dan (Latn, 1,099,244 speakers), Ma’di (Latn, 584,000 speakers), Avokaya (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Belarusian (Cyrl, 10,064,517 speakers). [code: soft-dotted]
+</div></details><br></div></details><details><summary><b>[12] NsibidiLibre-Osisi.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
 
 
 * 🔥 **FAIL** Font names are incorrect:
@@ -10531,15 +10567,10 @@ Your font does *not* cover the following languages that require the soft-dotted 
 | Typographic Family Name | **Nsibidi Libre** | **N/A** |
 | Typographic Subfamily Name | **Osisi** | **N/A** | [code: bad-names]
 * ⚠ **WARN** Regular missing from full name [code: lacks-regular]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** The sum of hhea.ascender + abs(hhea.descender) + hhea.lineGap is 1026 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1186, but got 726 instead [code: ascent]
-* 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 309, but got 300 instead [code: descent]
+* 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1186, but got 1182 instead [code: ascent]
 </div></details><details><summary>🔥 <b>FAIL:</b> Do we have the latest version of FontBakery installed? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version">com.google.fonts/check/fontbakery_version</a>)</summary><div>
 
 
@@ -11198,21 +11229,21 @@ The following glyphs do not have the recommended number of contours:
  * U+02BE MODIFIER LETTER RIGHT HALF RING: not included in any glyphset definition
  * U+02BF MODIFIER LETTER LEFT HALF RING: not included in any glyphset definition
  * U+02C0 MODIFIER LETTER GLOTTAL STOP: not included in any glyphset definition
- * U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh
+ * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
  * U+02CA MODIFIER LETTER ACUTE ACCENT: not included in any glyphset definition
  * U+02CB MODIFIER LETTER GRAVE ACCENT: not included in any glyphset definition
  * U+02D7 MODIFIER LETTER MINUS SIGN: not included in any glyphset definition
- * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
- * U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
- * U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+ * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
+ * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+ * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
  * U+02EE MODIFIER LETTER DOUBLE APOSTROPHE: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee
- * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, malayalam, old-permic, math, tifinagh, coptic, canadian-aboriginal, syriac
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, cherokee, math
+ * U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+ * U+0307 COMBINING DOT ABOVE: try adding one of: syriac, malayalam, tai-le, canadian-aboriginal, tifinagh, math, old-permic, coptic
  * U+030A COMBINING RING ABOVE: try adding syriac
- * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
- * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+ * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+ * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
  * U+030D COMBINING VERTICAL LINE ABOVE: not included in any glyphset definition
  * U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition
  * U+0310 COMBINING CANDRABINDU: not included in any glyphset definition
@@ -11226,13 +11257,13 @@ The following glyphs do not have the recommended number of contours:
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
  * U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding syriac
  * U+032F COMBINING INVERTED BREVE BELOW: not included in any glyphset definition
- * U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
- * U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, cherokee, syriac, caucasian-albanian
+ * U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
+ * U+0331 COMBINING MACRON BELOW: try adding one of: syriac, gothic, cherokee, caucasian-albanian, tifinagh
  * U+0332 COMBINING LOW LINE: not included in any glyphset definition
  * U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition
  * U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition
  * U+0358 COMBINING DOT ABOVE RIGHT: try adding osage
- * U+03C0 GREEK SMALL LETTER PI: try adding one of: math, greek, yi
+ * U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi
  * U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai
  * U+1D58 MODIFIER LETTER SMALL U: not included in any glyphset definition
  * U+1D5B MODIFIER LETTER SMALL V: not included in any glyphset definition
@@ -11287,7 +11318,7 @@ The following glyphs do not have the recommended number of contours:
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
  * U+25A1 WHITE SQUARE: try adding symbols
- * U+25CC DOTTED CIRCLE: try adding one of: khojki, balinese, rejang, brahmi, soyombo, music, thaana, gunjala-gondi, phags-pa, lao, tamil, sinhala, bassa-vah, lepcha, symbols, mende-kikakui, sharada, gujarati, mandaic, cham, oriya, ahom, thai, gurmukhi, siddham, osage, kharoshthi, miao, tagbanwa, bengali, duployan, tagalog, syriac, caucasian-albanian, meetei-mayek, tai-le, malayalam, telugu, manichaean, hebrew, elbasan, yi, grantha, masaram-gondi, newa, coptic, buhid, modi, batak, mahajani, bhaiksuki, sundanese, javanese, psalter-pahlavi, sogdian, marchen, tai-viet, tifinagh, buginese, wancho, limbu, khudawadi, syloti-nagri, kayah-li, takri, hanunoo, mongolian, hanifi-rohingya, myanmar, kaithi, dogra, math, tirhuta, khmer, pahawh-hmong, nko, adlam, kannada, old-permic, chakma, tibetan, devanagari, zanabazar-square, new-tai-lue
+ * U+25CC DOTTED CIRCLE: try adding one of: mende-kikakui, new-tai-lue, buhid, caucasian-albanian, sinhala, mahajani, balinese, cham, pahawh-hmong, mandaic, sharada, marchen, syloti-nagri, kannada, mongolian, yi, osage, math, coptic, syriac, tai-le, sundanese, bassa-vah, tai-viet, tamil, manichaean, gujarati, hanifi-rohingya, newa, ahom, devanagari, sogdian, kayah-li, soyombo, khmer, tifinagh, oriya, tagbanwa, hanunoo, kaithi, modi, masaram-gondi, takri, gunjala-gondi, dogra, brahmi, phags-pa, buginese, telugu, gurmukhi, old-permic, wancho, grantha, nko, javanese, batak, bhaiksuki, music, psalter-pahlavi, thaana, bengali, siddham, thai, rejang, symbols, tagalog, tirhuta, khojki, malayalam, adlam, tibetan, zanabazar-square, meetei-mayek, khudawadi, chakma, myanmar, lao, miao, limbu, duployan, lepcha, elbasan, hebrew, kharoshthi
  * U+263A WHITE SMILING FACE: try adding symbols
  * U+2648 ARIES: try adding symbols
  * U+2649 TAURUS: try adding symbols
@@ -14324,7 +14355,7 @@ Width = 526:
 less, greater
 
 Width = 600:
-lessequal, approxequal, logicalnot, greaterequal, plusminus
+greaterequal, approxequal, plusminus, logicalnot, lessequal
 
 Width = 468:
 multiply
@@ -14358,15 +14389,15 @@ The dot of soft dotted characters _should_ disappear in other cases, for example
 
 Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: Igbo (Latn, 27,823,640 speakers), Ejagham (Latn, 120,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Kom (Latn, 360,685 speakers), Dan (Latn, 1,099,244 speakers), Ma’di (Latn, 584,000 speakers), Dutch (Latn, 31,709,104 speakers), Navajo (Latn, 166,319 speakers), Aghem (Latn, 38,843 speakers), Belarusian (Cyrl, 10,064,517 speakers), Basaa (Latn, 332,940 speakers), Nateni (Latn, 100,000 speakers), Lugbara (Latn, 2,200,000 speakers), Ebira (Latn, 2,200,000 speakers), Koonzime (Latn, 40,000 speakers), Avokaya (Latn, 100,000 speakers). [code: soft-dotted]
+Your font does *not* cover the following languages that require the soft-dotted feature: Kom (Latn, 360,685 speakers), Lugbara (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Koonzime (Latn, 40,000 speakers), Aghem (Latn, 38,843 speakers), Navajo (Latn, 166,319 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Nateni (Latn, 100,000 speakers), Igbo (Latn, 27,823,640 speakers), Dutch (Latn, 31,709,104 speakers), Ejagham (Latn, 120,000 speakers), Dan (Latn, 1,099,244 speakers), Ma’di (Latn, 584,000 speakers), Avokaya (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Belarusian (Cyrl, 10,064,517 speakers). [code: soft-dotted]
 </div></details><br></div></details>
 
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 3 | 15 | 26 | 383 | 19 | 283 | 0 |
-| 0% | 2% | 4% | 53% | 3% | 39% | 0% |
+| 3 | 12 | 25 | 384 | 19 | 286 | 0 |
+| 0% | 2% | 3% | 53% | 3% | 39% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
