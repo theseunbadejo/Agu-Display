@@ -131,7 +131,8 @@ BP
 AGU DISPLAY
 A/_part.longbones ÆWⱲmwⱳ7
 Wete CashApp
-www"
+www",
+"🤍"
 );
 axes = (
 {
@@ -127729,11 +127730,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (226,0);
+pos = (208,0);
 ref = j;
 }
 );
-width = 514;
+width = 496;
 },
 {
 layerId = m002;
@@ -127755,11 +127756,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (226,0);
+pos = (205,0);
 ref = j;
 }
 );
-width = 514;
+width = 493;
 }
 );
 unicode = 307;
@@ -216885,9 +216886,9 @@ width = 600;
 unicode = 128142;
 },
 {
-color = 5;
+color = 6;
 glyphname = sparklingHeart;
-lastChange = "2024-07-01 12:37:24 +0000";
+lastChange = "2024-10-09 10:32:28 +0000";
 layers = (
 {
 background = {
@@ -217590,9 +217591,9 @@ width = 1101;
 unicode = 128150;
 },
 {
-color = 1;
+color = 6;
 glyphname = collisionSymbol;
-lastChange = "2024-05-23 21:00:40 +0000";
+lastChange = "2024-10-09 10:32:35 +0000";
 layers = (
 {
 background = {
@@ -217791,9 +217792,9 @@ width = 600;
 unicode = 128683;
 },
 {
-color = 5;
+color = 6;
 glyphname = whiteHeart;
-lastChange = "2024-07-01 12:38:20 +0000";
+lastChange = "2024-10-09 10:32:28 +0000";
 layers = (
 {
 background = {
@@ -222255,11 +222256,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (660,0);
+pos = (592,0);
 ref = M;
 }
 );
-width = 1621;
+width = 1553;
 },
 {
 layerId = m002;
@@ -222281,11 +222282,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (660,0);
+pos = (592,0);
 ref = M;
 }
 );
-width = 1621;
+width = 1553;
 }
 );
 unicode = 8482;
@@ -224258,11 +224259,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (830,0);
+pos = (794,0);
 ref = o;
 }
 );
-width = 1450;
+width = 1414;
 },
 {
 layerId = m002;
@@ -224284,11 +224285,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (830,0);
+pos = (794,0);
 ref = o;
 }
 );
-width = 1450;
+width = 1414;
 }
 );
 unicode = 8470;
