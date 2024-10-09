@@ -155,7 +155,7 @@ value = 53VN;
 }
 );
 date = "2023-10-07 20:47:59 +0000";
-familyName = "Nsibidi Libre";
+familyName = "Agu Display";
 fontMaster = (
 {
 axesValues = (
@@ -260147,7 +260147,7 @@ instances = (
 customParameters = (
 {
 name = fileName;
-value = "Nsibidi Libre Morph";
+value = "Agu Display Morph";
 },
 {
 name = hheaLineGap;
@@ -291481,7 +291481,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024 The Nsibidi Libre Project Authors (https://github.com/theseunbadejo/nsibidi-libre/blob/main/AUTHORS.txt)";
+value = "Copyright 2024 The Agu Display Project Authors (https://github.com/theseunbadejo/nsibidi-libre/blob/main/AUTHORS.txt)";
 }
 );
 },
