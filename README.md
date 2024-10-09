@@ -15,14 +15,14 @@ Nsibidi (also known as nsibiri, nchibiddi or nchibiddy) is an ancient system of 
 
 Nsibidi Pictograms  have found their way into so many applications in modern typographic expressions, ranging from digital (Marvel with Black Panther and various logomarks), and print (as pattern on fabric, tattoos, logomarks) due to its nature as a pictographic script. 
 
-The Nsibidi Libre typeface is a vehicle for cultural preservation, storytelling, and bridging the gap between ancient symbolic communication and modern typographic expression.
+The Agu Display typeface is a vehicle for cultural preservation, storytelling, and bridging the gap between ancient symbolic communication and modern typographic expression.
 
 ![Nsibidi Libre](documentation/NL1.gif)
 ![image](https://github.com/theseunbadejo/nsibidi-libre/assets/47482372/48aa6778-4bd4-4c2a-be45-9363e00960aa)
 
 ## About
 
-Oluwaseun Badejo is a Graphic and Type Designer from Lagos, Nigeria
+Seun Badejo is a Graphic and Type Designer from Lagos, Nigeria
 
 ## Building
 
