@@ -11,18 +11,16 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2Fnsibidi-libre%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2Fnsibidi-libre%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Nsibidi (also known as nsibiri, nchibiddi or nchibiddy) is an ancient system of graphic communication indigenous to the Ejagham peoples of southeastern Nigeria and southwestern Cameroon in the Cross River region. It is also used by neighboring Ibibio, Efik and Igbo peoples.
+Agu Display is an EGWU axis variable font with three main decorative styles at 0, 20 and 60. With origins in the Ekpe secret society's Nsibidi pictographs, Agu Display brings the ancient mystique of Nsibidi symbols to life with inspiration from a rich West African heritage, extending from Cross River to Cameroon. 
 
-Nsibidi Pictograms  have found their way into so many applications in modern typographic expressions, ranging from digital (Marvel with Black Panther and various logomarks), and print (as pattern on fabric, tattoos, logomarks) due to its nature as a pictographic script. 
-
-The Agu Display typeface is a vehicle for cultural preservation, storytelling, and bridging the gap between ancient symbolic communication and modern typographic expression.
+From the Uzo, Ala to Osisi masters, let Agu Display take you on a winding path through time, merging tradition with contemporary style in a unique typographic adventure as your words dance with history!
 
 ![Nsibidi Libre](documentation/NL1.gif)
 ![image](https://github.com/theseunbadejo/nsibidi-libre/assets/47482372/48aa6778-4bd4-4c2a-be45-9363e00960aa)
 
 ## About
 
-Seun Badejo is a Graphic and Type Designer from Lagos, Nigeria
+Agu Display was designed by Seun Badejo and released in 2024. It features stylistic influences from the popular Kablammo and Jokerman fonts with decorative influences from Nsibidi and Neo-Nsibidi. 
 
 ## Building
 
