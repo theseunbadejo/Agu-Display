@@ -260210,6 +260210,17 @@ value = 0;
 }
 );
 name = Uzo;
+properties = (
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "Agu Display Uzo Regular";
+}
+);
+}
+);
 },
 {
 axesValues = (
@@ -260230,6 +260241,17 @@ value = 0;
 }
 );
 name = Ala;
+properties = (
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "Agu Display Ala Regular";
+}
+);
+}
+);
 },
 {
 axesValues = (
@@ -260250,6 +260272,17 @@ value = 0;
 }
 );
 name = Osisi;
+properties = (
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "Agu Display Osisi Regular";
+}
+);
+}
+);
 }
 );
 kerningLTR = {
