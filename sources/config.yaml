@@ -4,3 +4,14 @@ axisOrder:
   - morf
 familyName: Agu Display
 autohintOTF: False
+stat:
+  - name: Morph
+    tag: MORF
+    values:
+    - name: Uzo
+      value: 0
+    - name: Ala
+      value: 30
+    - name: Osisi
+      value: 60
+      
