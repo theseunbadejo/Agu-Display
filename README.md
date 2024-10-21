@@ -1,22 +1,22 @@
 
-[![][Fontbakery]](https://theseunbadejo.github.io/nsibidi-libre/fontbakery/fontbakery-report.html)
-[![][Universal]](https://theseunbadejo.github.io/nsibidi-libre/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://theseunbadejo.github.io/nsibidi-libre/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://theseunbadejo.github.io/nsibidi-libre/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://theseunbadejo.github.io/nsibidi-libre/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://theseunbadejo.github.io/Agu-Display/fontbakery/fontbakery-report.html)
+[![][Universal]](https://theseunbadejo.github.io/Agu-Display/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://theseunbadejo.github.io/Agu-Display/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://theseunbadejo.github.io/Agu-Display/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://theseunbadejo.github.io/Agu-Display/fontbakery/fontbakery-report.html)
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2Fnsibidi-libre%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2Fnsibidi-libre%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2Fnsibidi-libre%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2Fnsibidi-libre%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2Fnsibidi-libre%2Fgh-pages%2Fbadges%2FUniversal.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2FAgu-Display%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2FAgu-Display%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2FAgu-Display%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2FAgu-Display%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftheseunbadejo%2FAgu-Display%2Fgh-pages%2Fbadges%2FUniversal.json
 
 Agu Display is an EGWU axis variable font with three main decorative styles at 0, 20 and 60. With origins in the Ekpe secret society's Nsibidi pictographs, Agu Display brings the ancient mystique of Nsibidi symbols to life with inspiration from a rich West African heritage, extending from Cross River to Cameroon. 
 
 From the Uzo, Ala to Osisi masters, let Agu Display take you on a winding path through time, merging tradition with contemporary style in a unique typographic adventure as your words dance with history!
 
 ![Nsibidi Libre](documentation/NL1.gif)
-![image](https://github.com/theseunbadejo/nsibidi-libre/assets/47482372/48aa6778-4bd4-4c2a-be45-9363e00960aa)
+![image](https://github.com/theseunbadejo/Agu-Display/assets/47482372/48aa6778-4bd4-4c2a-be45-9363e00960aa)
 
 ## About
 
@@ -32,7 +32,7 @@ If you want to build fonts manually on your own computer:
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at https://theseunbadejo.github.io/nsibidi-libre.
+The proof files and QA tests are also available automatically via GitHub Actions - look at https://theseunbadejo.github.io/Agu-Display.
 
 ## Changelog
 
