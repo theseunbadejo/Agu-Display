@@ -260218,9 +260218,22 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "";
+value = "Agu Display Uzo Regular";
 }
 );
+},
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = "Agu Display";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = Uzo;
 }
 );
 },
@@ -260253,9 +260266,22 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "";
+value = "Agu Display Ala Regular";
 }
 );
+},
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = "Agu Display";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = Ala;
 }
 );
 },
@@ -260288,9 +260314,22 @@ key = postscriptFullNames;
 values = (
 {
 language = dflt;
-value = "";
+value = "Agu Display Osisi Regular";
 }
 );
+},
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = "Agu Display";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = Osisi;
 }
 );
 }
