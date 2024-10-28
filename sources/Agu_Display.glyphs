@@ -260185,7 +260185,6 @@ name = vheaVertLineGap;
 value = 0;
 }
 );
-exports = 0;
 name = Regular;
 type = variable;
 },
@@ -260208,7 +260207,15 @@ value = 0;
 },
 {
 name = "Name Table Entry";
-value = "4; Agu Display Osisi Regular";
+value = "4; Agu Display Uzo Regular";
+},
+{
+name = "Name Table Entry";
+value = "16; Agu Display";
+},
+{
+name = "Name Table Entry";
+value = "17; Uzo";
 }
 );
 name = Uzo;
@@ -260261,6 +260268,14 @@ value = 0;
 {
 name = "Name Table Entry";
 value = "4; Agu Display Ala Regular";
+},
+{
+name = "Name Table Entry";
+value = "16; Agu Display";
+},
+{
+name = "Name Table Entry";
+value = "17; Ala";
 }
 );
 name = Ala;
@@ -260313,6 +260328,14 @@ value = 0;
 {
 name = "Name Table Entry";
 value = "4; Agu Display Osisi Regular";
+},
+{
+name = "Name Table Entry";
+value = "16; Agu Display";
+},
+{
+name = "Name Table Entry";
+value = "17; Osisi";
 }
 );
 name = Osisi;
