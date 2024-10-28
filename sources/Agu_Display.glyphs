@@ -147,8 +147,7 @@ AW
 AV
 Vö
 ",
-"VALVE
-"
+VALVE
 );
 axes = (
 {
@@ -260186,6 +260185,7 @@ name = vheaVertLineGap;
 value = 0;
 }
 );
+exports = 0;
 name = Regular;
 type = variable;
 },
@@ -260205,6 +260205,10 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = "Name Table Entry";
+value = "4; Agu Display Osisi Regular";
 }
 );
 name = Uzo;
@@ -260253,6 +260257,10 @@ value = 0;
 {
 name = vheaVertLineGap;
 value = 0;
+},
+{
+name = "Name Table Entry";
+value = "4; Agu Display Ala Regular";
 }
 );
 name = Ala;
@@ -260301,6 +260309,10 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = "Name Table Entry";
+value = "4; Agu Display Osisi Regular";
 }
 );
 name = Osisi;
