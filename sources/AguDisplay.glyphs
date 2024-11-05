@@ -1,5 +1,5 @@
 {
-.appVersion = "3260";
+.appVersion = "3249";
 .formatVersion = 3;
 DisplayStrings = (
 "ABCDEFGHIJKLM
@@ -131,23 +131,6 @@ oo
 HA
 IV
 a,
-",
-"DB
-MH
-",
-"DB
-MH
-AV
-BP
-Kv
-",
-"DB
-NS
-AW
-AV
-Vö
-",
-"VALVE
 "
 );
 axes = (
@@ -28289,46 +28272,52 @@ color = 5;
 glyphname = IJ;
 kernLeft = KO_I;
 kernRight = KO_J;
-lastChange = "2024-10-21 08:56:16 +0000";
+lastChange = "2024-10-31 14:35:35 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = I;
 },
 {
-pos = (299,0);
+alignment = -1;
+pos = (315,0);
 ref = J;
 }
 );
-width = 776;
+width = 792;
 },
 {
 layerId = m002;
 shapes = (
 {
+alignment = -1;
 ref = I;
 },
 {
-pos = (299,0);
+alignment = -1;
+pos = (315,0);
 ref = J;
 }
 );
-width = 776;
+width = 792;
 },
 {
 layerId = m003;
 shapes = (
 {
+alignment = -1;
 ref = I;
 },
 {
-pos = (299,0);
+alignment = -1;
+pos = (315,0);
 ref = J;
 }
 );
-width = 776;
+width = 792;
 }
 );
 unicode = 306;
@@ -127743,46 +127732,52 @@ color = 5;
 glyphname = ij;
 kernLeft = KO_i;
 kernRight = KO_j;
-lastChange = "2024-10-21 11:53:34 +0000";
+lastChange = "2024-10-31 14:35:35 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = i;
 },
 {
-pos = (204,0);
+alignment = -1;
+pos = (226,0);
 ref = j;
 }
 );
-width = 492;
+width = 514;
 },
 {
 layerId = m002;
 shapes = (
 {
+alignment = -1;
 ref = i;
 },
 {
-pos = (204,0);
+alignment = -1;
+pos = (226,0);
 ref = j;
 }
 );
-width = 492;
+width = 514;
 },
 {
 layerId = m003;
 shapes = (
 {
+alignment = -1;
 ref = i;
 },
 {
-pos = (204,0);
+alignment = -1;
+pos = (226,0);
 ref = j;
 }
 );
-width = 492;
+width = 514;
 }
 );
 unicode = 307;
@@ -222270,46 +222265,52 @@ L = superiors;
 color = 5;
 glyphname = trademark;
 kernLeft = KO_trademark;
-lastChange = "2024-10-21 11:53:34 +0000";
+lastChange = "2024-10-31 14:35:35 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = T;
 },
 {
-pos = (599,0);
+alignment = -1;
+pos = (660,0);
 ref = M;
 }
 );
-width = 1560;
+width = 1621;
 },
 {
 layerId = m002;
 shapes = (
 {
+alignment = -1;
 ref = T;
 },
 {
-pos = (599,0);
+alignment = -1;
+pos = (660,0);
 ref = M;
 }
 );
-width = 1560;
+width = 1621;
 },
 {
 layerId = m003;
 shapes = (
 {
+alignment = -1;
 ref = T;
 },
 {
-pos = (599,0);
+alignment = -1;
+pos = (660,0);
 ref = M;
 }
 );
-width = 1560;
+width = 1621;
 }
 );
 unicode = 8482;
@@ -224273,46 +224274,52 @@ unicode = 8494;
 {
 color = 5;
 glyphname = numero;
-lastChange = "2024-10-21 08:56:16 +0000";
+lastChange = "2024-10-31 14:35:35 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = N;
 },
 {
-pos = (794,0);
+alignment = -1;
+pos = (830,0);
 ref = o;
 }
 );
-width = 1414;
+width = 1450;
 },
 {
 layerId = m002;
 shapes = (
 {
+alignment = -1;
 ref = N;
 },
 {
-pos = (794,0);
+alignment = -1;
+pos = (830,0);
 ref = o;
 }
 );
-width = 1414;
+width = 1450;
 },
 {
 layerId = m003;
 shapes = (
 {
+alignment = -1;
 ref = N;
 },
 {
-pos = (794,0);
+alignment = -1;
+pos = (830,0);
 ref = o;
 }
 );
-width = 1414;
+width = 1450;
 }
 );
 unicode = 8470;
@@ -260186,6 +260193,7 @@ name = vheaVertLineGap;
 value = 0;
 }
 );
+exports = 0;
 name = Regular;
 type = variable;
 },
@@ -260205,26 +260213,10 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
-},
-{
-name = "Name Table Entry";
-value = "4; Agu Display Uzo Regular";
-},
-{
-name = "Name Table Entry";
-value = "16; ";
-},
-{
-name = "Name Table Entry";
-value = "17; ";
 }
 );
 name = Uzo;
 properties = (
-{
-key = postscriptFontName;
-value = "AguDisplayUzo-Regular";
-},
 {
 key = postscriptFullNames;
 values = (
@@ -260233,19 +260225,6 @@ language = dflt;
 value = "Agu Display Uzo Regular";
 }
 );
-},
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = "Agu Display";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = Uzo;
 }
 );
 },
@@ -260265,26 +260244,10 @@ value = 0;
 {
 name = vheaVertLineGap;
 value = 0;
-},
-{
-name = "Name Table Entry";
-value = "4; Agu Display Ala Regular";
-},
-{
-name = "Name Table Entry";
-value = "16; ";
-},
-{
-name = "Name Table Entry";
-value = "17; ";
 }
 );
 name = Ala;
 properties = (
-{
-key = postscriptFontName;
-value = "AguDisplayAla-Regular";
-},
 {
 key = postscriptFullNames;
 values = (
@@ -260293,19 +260256,6 @@ language = dflt;
 value = "Agu Display Ala Regular";
 }
 );
-},
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = "Agu Display";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = Ala;
 }
 );
 },
@@ -260325,26 +260275,10 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
-},
-{
-name = "Name Table Entry";
-value = "4; Agu Display Osisi Regular";
-},
-{
-name = "Name Table Entry";
-value = "16; ";
-},
-{
-name = "Name Table Entry";
-value = "17; ";
 }
 );
 name = Osisi;
 properties = (
-{
-key = postscriptFontName;
-value = "AguDisplayOsisi-Regular";
-},
 {
 key = postscriptFullNames;
 values = (
@@ -260353,19 +260287,6 @@ language = dflt;
 value = "Agu Display Osisi Regular";
 }
 );
-},
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = "Agu Display";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = Osisi;
 }
 );
 }
