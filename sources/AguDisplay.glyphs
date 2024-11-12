@@ -136,7 +136,11 @@ IV
 a,
 ",
 "◌̨",
-"+−×÷=≠><%"
+"+−×÷=≠><%",
+"̵",
+"◌",
+"˛",
+"᷅"
 );
 axes = (
 {
@@ -248566,7 +248570,7 @@ unicode = 9633;
 category = Symbol;
 color = 5;
 glyphname = DottedCircle;
-lastChange = "2024-11-11 11:24:38 +0000";
+lastChange = "2024-11-12 14:08:46 +0000";
 layers = (
 {
 anchors = (
@@ -249095,15 +249099,15 @@ width = 1000;
 {
 anchors = (
 {
-name = _center;
+name = bottom;
+},
+{
+name = center;
 pos = (141,324);
 },
 {
-name = _ogonek;
+name = ogonek;
 pos = (239,-14);
-},
-{
-name = bottom;
 },
 {
 name = top;
