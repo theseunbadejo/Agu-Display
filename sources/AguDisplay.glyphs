@@ -43,7 +43,12 @@ yƴɏꞌǃ012356789,;!
 *#-–—_{[]”’«»‹›'฿
 ˗@&¶©®′″†‡℮₿₵¢₡
 ¤₫€₲₴₭₾₺₼₦₱₽£
-¥∗+−×÷=≠>^%◌̀́̋/caroncomb.alt ̵̧̨̦̩̭̂̌̍̏̓᷇᷅᷄᷆/_part.longstrokecomb ʼˀ/_part.chevron/_part.longbones/_part.longkebab/_part.shortbones/_part.shortbristles/_part.shortkebab/_part.shortladder",
+¥∗+−×÷=≠>^%◌̀́̋/caroncomb.alt ̵̧̨̦̩̭̂̌̍̏̓᷇᷅᷄᷆/_part.longstrokecomb ʼˀ/_part.chevron/_part.longbones/_part.longkebab/_part.shortbones/_part.shortbristles/_part.shortkebab/_part.shortladder 
+
+
+¥∗¥
+
+utdcough",
 "ȺɃȻɆǤƗɈꝀⱣɌꞨȾɄYɎƵ
 ⱥƀȼeɇgǥiɪı̇ıɨjɉꝁƛ
 ıɨjɉꝁᵽɍsꞩtⱦɏzƶ
@@ -80,12 +85,7 @@ DB NT MH EF SP",
 "DB
 MH
 ",
-"DB
-MH
-AV
-BP
-Kv
-",
+"¥∗¥∗¥∗¥∗¥∗¥∗¥∗¥∗¥∗¥",
 "AW
 VA
 BD
@@ -136,11 +136,7 @@ IV
 a,
 ",
 "◌̨",
-"+−×÷=≠><%",
-"̵",
-"◌",
-"˛",
-"᷅"
+"+−×÷=≠><%"
 );
 axes = (
 {
@@ -248570,20 +248566,20 @@ unicode = 9633;
 category = Symbol;
 color = 5;
 glyphname = DottedCircle;
-lastChange = "2024-11-12 14:15:26 +0000";
+lastChange = "2024-11-11 11:24:38 +0000";
 layers = (
 {
 anchors = (
 {
-name = bottom;
-},
-{
-name = center;
+name = _center;
 pos = (141,324);
 },
 {
-name = ogonek;
+name = _ogonek;
 pos = (239,-14);
+},
+{
+name = bottom;
 },
 {
 name = top;
@@ -249099,15 +249095,15 @@ width = 1000;
 {
 anchors = (
 {
-name = bottom;
-},
-{
-name = center;
+name = _center;
 pos = (141,324);
 },
 {
-name = ogonek;
+name = _ogonek;
 pos = (239,-14);
+},
+{
+name = bottom;
 },
 {
 name = top;
@@ -249623,15 +249619,15 @@ width = 1000;
 {
 anchors = (
 {
-name = bottom;
-},
-{
-name = center;
+name = _center;
 pos = (141,324);
 },
 {
-name = ogonek;
+name = _ogonek;
 pos = (239,-14);
+},
+{
+name = bottom;
 },
 {
 name = top;
@@ -270656,7 +270652,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2024 The Agu Display Project Authors (https://github.com/theseunbadejo/nsibidi-libre/blob/main/AUTHORS.txt)";
+value = "Copyright 2024 The Agu Display Project Authors (https://github.com/theseunbadejo/Agu-Display)";
 }
 );
 },
@@ -270706,5 +270702,5 @@ KernOnRegenerateGroups = 1;
 KernOnVersion = "1.32";
 };
 versionMajor = 1;
-versionMinor = 99;
+versionMinor = 100;
 }
