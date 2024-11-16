@@ -135,8 +135,9 @@ HA
 IV
 a,
 ",
-"◌̨",
-"+−×÷=≠><%"
+"◌̵̨",
+"+−×÷=≠><%",
+"̵"
 );
 axes = (
 {
@@ -248573,20 +248574,20 @@ unicode = 9633;
 category = Symbol;
 color = 5;
 glyphname = DottedCircle;
-lastChange = "2024-11-11 11:24:38 +0000";
+lastChange = "2024-11-16 22:45:49 +0000";
 layers = (
 {
 anchors = (
 {
-name = _center;
+name = bottom;
+},
+{
+name = center;
 pos = (141,324);
 },
 {
-name = _ogonek;
+name = ogonek;
 pos = (239,-14);
-},
-{
-name = bottom;
 },
 {
 name = top;
@@ -249102,15 +249103,15 @@ width = 1000;
 {
 anchors = (
 {
-name = _center;
+name = bottom;
+},
+{
+name = center;
 pos = (141,324);
 },
 {
-name = _ogonek;
+name = ogonek;
 pos = (239,-14);
-},
-{
-name = bottom;
 },
 {
 name = top;
@@ -249626,15 +249627,15 @@ width = 1000;
 {
 anchors = (
 {
-name = _center;
+name = bottom;
+},
+{
+name = center;
 pos = (141,324);
 },
 {
-name = _ogonek;
+name = ogonek;
 pos = (239,-14);
-},
-{
-name = bottom;
 },
 {
 name = top;
@@ -254156,12 +254157,12 @@ R = NoKerning;
 {
 color = 5;
 glyphname = ogonekcomb;
-lastChange = "2024-10-05 22:29:17 +0000";
+lastChange = "2024-11-16 22:46:20 +0000";
 layers = (
 {
 anchors = (
 {
-name = _ogonek;
+name = ogonek;
 pos = (239,-14);
 }
 );
@@ -254203,7 +254204,7 @@ width = 280;
 {
 anchors = (
 {
-name = _ogonek;
+name = ogonek;
 pos = (239,-14);
 }
 );
@@ -254245,7 +254246,7 @@ width = 280;
 {
 anchors = (
 {
-name = _ogonek;
+name = ogonek;
 pos = (239,-14);
 }
 );
@@ -255243,12 +255244,12 @@ unicode = 820;
 {
 color = 5;
 glyphname = strokeshortcomb;
-lastChange = "2024-10-05 22:29:17 +0000";
+lastChange = "2024-11-16 22:45:05 +0000";
 layers = (
 {
 anchors = (
 {
-name = _center;
+name = center;
 pos = (141,324);
 }
 );
@@ -255281,7 +255282,7 @@ width = 280;
 {
 anchors = (
 {
-name = _center;
+name = center;
 pos = (141,324);
 }
 );
@@ -255314,7 +255315,7 @@ width = 280;
 {
 anchors = (
 {
-name = _center;
+name = center;
 pos = (141,324);
 }
 );
