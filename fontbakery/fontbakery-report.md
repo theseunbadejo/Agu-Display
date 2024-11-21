@@ -2998,30 +2998,6 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">tcd_Latn (Tafi)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni1DC6 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni028A</td>
 </tr>
 <tr>
@@ -3057,30 +3033,6 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">byv_Latn (Medumba)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -3347,14 +3299,6 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">sld_Latn (Sissala)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -3994,10 +3938,6 @@ fontbakery version: 0.12.10
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4196,10 +4136,6 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">aks_Latn (Akeselem)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni028A</td>
 </tr>
 <tr>
@@ -4262,25 +4198,6 @@ fontbakery version: 0.12.10
 <tr>
 <td align="left">cme_Latn (Cerma)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfo_Latn (Malba Birifor)</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -4585,25 +4502,6 @@ fontbakery version: 0.12.10
 <tr>
 <td align="left">kyq_Latn (Kenga)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lob_Latn (Lobi)</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -5105,38 +5003,6 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">fmp_Latn (Fe’fe’)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -5233,37 +5099,6 @@ fontbakery version: 0.12.10
 <tr>
 <td align="left">kye_Latn (Krache)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">goa_Latn (Guro)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -5622,29 +5457,6 @@ fontbakery version: 0.12.10
 <tr>
 <td align="left">bfd_Latn (Bafut)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kst_Latn (Winyé)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -6271,15 +6083,15 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">Shaper didn't attach tildecomb to uni026A</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uni026A</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6846,18 +6658,6 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">neb_Latn (Toura)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -6991,18 +6791,6 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">pug_Latn (Phuie)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -7427,10 +7215,6 @@ fontbakery version: 0.12.10
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper produced a .notdef</td>
 </tr>
 </tbody>
@@ -7470,25 +7254,6 @@ fontbakery version: 0.12.10
 <tr>
 <td align="left">mua_Latn (Mundang)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xsm_Latn_BF (Burkinabè Kasem)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -7583,23 +7348,11 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">blo_Latn (Anii)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni028A</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to uni028A</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -7706,22 +7459,6 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">gna_Latn (Kaansa)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -11582,15 +11319,15 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, coptic, math</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, duployan, hebrew, tifinagh, syriac, tai-le, math, old-permic, canadian-aboriginal, todhri</li>
-<li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, canadian-aboriginal, hebrew, tifinagh, malayalam, syriac, math, duployan, tai-le, old-permic, todhri</li>
+<li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
-<li>U+0310 COMBINING CANDRABINDU: try adding one of: sunuwar, math</li>
+<li>U+0310 COMBINING CANDRABINDU: try adding one of: math, sunuwar</li>
 <li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0313 COMBINING COMMA ABOVE: try adding one of: todhri, old-permic</li>
@@ -11599,15 +11336,15 @@ definitions.</p>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
-<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
+<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: sunuwar, cherokee, tifinagh, syriac, gothic, caucasian-albanian, thai</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, thai, cherokee, sunuwar, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -11659,7 +11396,7 @@ definitions.</p>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: armenian, mahajani, lepcha, saurashtra, syriac, siddham, soyombo, duployan, nko, tirhuta, symbols, lao, psalter-pahlavi, bhaiksuki, kayah-li, ahom, syloti-nagri, balinese, tai-viet, gujarati, zanabazar-square, tamil, rejang, miao, phags-pa, bengali, malayalam, manichaean, brahmi, osage, tai-tham, caucasian-albanian, newa, canadian-aboriginal, mandaic, coptic, tifinagh, gurmukhi, old-permic, javanese, hanunoo, warang-citi, thaana, kannada, myanmar, yi, khudawadi, modi, limbu, khojki, tagbanwa, new-tai-lue, khmer, pahawh-hmong, sogdian, gunjala-gondi, dogra, chakma, mongolian, buhid, thai, tagalog, mende-kikakui, devanagari, batak, marchen, kharoshthi, cham, takri, grantha, oriya, tai-le, kaithi, elbasan, meetei-mayek, adlam, sinhala, music, tibetan, masaram-gondi, sundanese, buginese, math, sharada, bassa-vah, hanifi-rohingya, wancho, hebrew, telugu</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: hebrew, zanabazar-square, duployan, phags-pa, gurmukhi, gujarati, mende-kikakui, tagbanwa, marchen, warang-citi, syriac, yi, kharoshthi, pahawh-hmong, khudawadi, symbols, tai-viet, mahajani, saurashtra, nko, math, sundanese, balinese, khmer, newa, thaana, kannada, tagalog, ahom, tamil, sogdian, batak, elbasan, new-tai-lue, meetei-mayek, masaram-gondi, oriya, hanunoo, rejang, limbu, bassa-vah, modi, devanagari, old-permic, sharada, hanifi-rohingya, caucasian-albanian, coptic, kayah-li, cham, adlam, tifinagh, kaithi, tai-le, tirhuta, takri, khojki, miao, dogra, myanmar, malayalam, bhaiksuki, mandaic, gunjala-gondi, lao, tibetan, bengali, chakma, lepcha, osage, psalter-pahlavi, manichaean, sinhala, wancho, music, grantha, javanese, telugu, canadian-aboriginal, brahmi, buginese, mongolian, syloti-nagri, tai-tham, thai, armenian, buhid, soyombo, siddham</li>
 <li>U+263A WHITE SMILING FACE: try adding symbols</li>
 <li>U+2648 ARIES: try adding symbols</li>
 <li>U+2649 TAURUS: try adding symbols</li>
@@ -13077,11 +12814,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">bkm_Latn (Kom)</td>
-<td align="left">Shaper didn't attach gravecomb to AE</td>
+<td align="left">Shaper didn't attach uni0302 to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to AE</td>
+<td align="left">Shaper didn't attach gravecomb to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -13420,30 +13157,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">tcd_Latn (Tafi)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni1DC6 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni028A</td>
 </tr>
 <tr>
@@ -13479,30 +13192,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">byv_Latn (Medumba)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -13769,14 +13458,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">sld_Latn (Sissala)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -14416,10 +14097,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -14618,10 +14295,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">aks_Latn (Akeselem)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni028A</td>
 </tr>
 <tr>
@@ -14684,25 +14357,6 @@ definitions.</p>
 <tr>
 <td align="left">cme_Latn (Cerma)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfo_Latn (Malba Birifor)</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -15007,25 +14661,6 @@ definitions.</p>
 <tr>
 <td align="left">kyq_Latn (Kenga)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lob_Latn (Lobi)</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -15527,38 +15162,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">fmp_Latn (Fe’fe’)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -15655,37 +15258,6 @@ definitions.</p>
 <tr>
 <td align="left">kye_Latn (Krache)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">goa_Latn (Guro)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -16044,29 +15616,6 @@ definitions.</p>
 <tr>
 <td align="left">bfd_Latn (Bafut)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kst_Latn (Winyé)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -16693,15 +16242,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">Shaper didn't attach tildecomb to uni026A</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uni026A</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -17268,18 +16817,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">neb_Latn (Toura)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -17413,18 +16950,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">pug_Latn (Phuie)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -17865,10 +17390,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper produced a .notdef</td>
 </tr>
 </tbody>
@@ -17908,25 +17429,6 @@ definitions.</p>
 <tr>
 <td align="left">mua_Latn (Mundang)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xsm_Latn_BF (Burkinabè Kasem)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -18021,23 +17523,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">blo_Latn (Anii)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni028A</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to uni028A</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -18144,22 +17634,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">gna_Latn (Kaansa)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -18297,11 +17771,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to AE</td>
+<td align="left">Shaper didn't attach uni0302 to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to AE</td>
+<td align="left">Shaper didn't attach gravecomb to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -22032,15 +21506,15 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, coptic, math</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, duployan, hebrew, tifinagh, syriac, tai-le, math, old-permic, canadian-aboriginal, todhri</li>
-<li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, canadian-aboriginal, hebrew, tifinagh, malayalam, syriac, math, duployan, tai-le, old-permic, todhri</li>
+<li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
-<li>U+0310 COMBINING CANDRABINDU: try adding one of: sunuwar, math</li>
+<li>U+0310 COMBINING CANDRABINDU: try adding one of: math, sunuwar</li>
 <li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0313 COMBINING COMMA ABOVE: try adding one of: todhri, old-permic</li>
@@ -22049,15 +21523,15 @@ definitions.</p>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
-<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
+<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: sunuwar, cherokee, tifinagh, syriac, gothic, caucasian-albanian, thai</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, thai, cherokee, sunuwar, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -22109,7 +21583,7 @@ definitions.</p>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: armenian, mahajani, lepcha, saurashtra, syriac, siddham, soyombo, duployan, nko, tirhuta, symbols, lao, psalter-pahlavi, bhaiksuki, kayah-li, ahom, syloti-nagri, balinese, tai-viet, gujarati, zanabazar-square, tamil, rejang, miao, phags-pa, bengali, malayalam, manichaean, brahmi, osage, tai-tham, caucasian-albanian, newa, canadian-aboriginal, mandaic, coptic, tifinagh, gurmukhi, old-permic, javanese, hanunoo, warang-citi, thaana, kannada, myanmar, yi, khudawadi, modi, limbu, khojki, tagbanwa, new-tai-lue, khmer, pahawh-hmong, sogdian, gunjala-gondi, dogra, chakma, mongolian, buhid, thai, tagalog, mende-kikakui, devanagari, batak, marchen, kharoshthi, cham, takri, grantha, oriya, tai-le, kaithi, elbasan, meetei-mayek, adlam, sinhala, music, tibetan, masaram-gondi, sundanese, buginese, math, sharada, bassa-vah, hanifi-rohingya, wancho, hebrew, telugu</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: hebrew, zanabazar-square, duployan, phags-pa, gurmukhi, gujarati, mende-kikakui, tagbanwa, marchen, warang-citi, syriac, yi, kharoshthi, pahawh-hmong, khudawadi, symbols, tai-viet, mahajani, saurashtra, nko, math, sundanese, balinese, khmer, newa, thaana, kannada, tagalog, ahom, tamil, sogdian, batak, elbasan, new-tai-lue, meetei-mayek, masaram-gondi, oriya, hanunoo, rejang, limbu, bassa-vah, modi, devanagari, old-permic, sharada, hanifi-rohingya, caucasian-albanian, coptic, kayah-li, cham, adlam, tifinagh, kaithi, tai-le, tirhuta, takri, khojki, miao, dogra, myanmar, malayalam, bhaiksuki, mandaic, gunjala-gondi, lao, tibetan, bengali, chakma, lepcha, osage, psalter-pahlavi, manichaean, sinhala, wancho, music, grantha, javanese, telugu, canadian-aboriginal, brahmi, buginese, mongolian, syloti-nagri, tai-tham, thai, armenian, buhid, soyombo, siddham</li>
 <li>U+263A WHITE SMILING FACE: try adding symbols</li>
 <li>U+2648 ARIES: try adding symbols</li>
 <li>U+2649 TAURUS: try adding symbols</li>
@@ -22178,8 +21652,8 @@ definitions.</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i̊ i̋ i̍ i̐ i̓ i᷆ i᷇ j̀ j́ j̃ j̄ j̈ j̑ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ ḭ̀ ḭ́ ḭ̄ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: ĭ i̇ i̒ i᷄ i᷅ ĭ̛ i̛̇ i̛̊ i̛̋ i̛̍ i̛̐ i̛̒ i̛̓ i̛᷄ i̛᷅ i̛᷆ i̛᷇ ĭ̥ i̥̇ i̥̊</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Han (Latn, 6 speakers), Lithuanian (Latn, 2,357,094 speakers), South Central Banda (Latn, 244,000 speakers), Mango (Latn, 77,000 speakers), Gulay (Latn, 250,478 speakers), Ngbaka (Latn, 1,020,000 speakers), Yala (Latn, 200,000 speakers), Ma’di (Latn, 584,000 speakers), Dutch (Latn, 31,709,104 speakers), Bete-Bendi (Latn, 100,000 speakers), Ekpeye (Latn, 226,000 speakers), Sar (Latn, 500,000 speakers), Zapotec (Latn, 490,000 speakers), Ebira (Latn, 2,200,000 speakers), Cicipu (Latn, 44,000 speakers), Nzakara (Latn, 50,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Kaska (Latn, 125 speakers), Navajo (Latn, 166,319 speakers), Nateni (Latn, 100,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Koonzime (Latn, 40,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Kom (Latn, 360,685 speakers), Fur (Latn, 1,230,163 speakers), Ejagham (Latn, 120,000 speakers), Vute (Latn, 21,000 speakers), Mfumte (Latn, 79,000 speakers), Bafut (Latn, 158,146 speakers), Lugbara (Latn, 2,200,000 speakers), Dan (Latn, 1,099,244 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Dii (Latn, 71,000 speakers), Heiltsuk (Latn, 300 speakers), Southern Kisi (Latn, 360,000 speakers), Basaa (Latn, 332,940 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Teke-Ebo (Latn, 260,000 speakers), Mundani (Latn, 34,000 speakers), Avokaya (Latn, 100,000 speakers), Makaa (Latn, 221,000 speakers), Igbo (Latn, 27,823,640 speakers), Aghem (Latn, 38,843 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Sar (Latn, 500,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Yala (Latn, 200,000 speakers), Nzakara (Latn, 50,000 speakers), Ma’di (Latn, 584,000 speakers), Ekpeye (Latn, 226,000 speakers), Navajo (Latn, 166,319 speakers), Nateni (Latn, 100,000 speakers), Zapotec (Latn, 490,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Cicipu (Latn, 44,000 speakers), Mango (Latn, 77,000 speakers), Ebira (Latn, 2,200,000 speakers), Kaska (Latn, 125 speakers), Han (Latn, 6 speakers), South Central Banda (Latn, 244,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Gulay (Latn, 250,478 speakers), Lithuanian (Latn, 2,357,094 speakers), Dutch (Latn, 31,709,104 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Vute (Latn, 21,000 speakers), Heiltsuk (Latn, 300 speakers), Basaa (Latn, 332,940 speakers), Bafut (Latn, 158,146 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ejagham (Latn, 120,000 speakers), Mundani (Latn, 34,000 speakers), Teke-Ebo (Latn, 260,000 speakers), Kom (Latn, 360,685 speakers), Igbo (Latn, 27,823,640 speakers), Fur (Latn, 1,230,163 speakers), Aghem (Latn, 38,843 speakers), Lugbara (Latn, 2,200,000 speakers), Dan (Latn, 1,099,244 speakers), Dii (Latn, 71,000 speakers), Makaa (Latn, 221,000 speakers), Avokaya (Latn, 100,000 speakers), Southern Kisi (Latn, 360,000 speakers), Mfumte (Latn, 79,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Koonzime (Latn, 40,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers).</p>
  [code: soft-dotted]
 
 
@@ -22202,29 +21676,29 @@ definitions.</p>
 
 * C.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* Cacute.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Cacute.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Cacute.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* Cacute.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* Ccaron.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Ccaron.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Ccaron.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* Ccaron.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* Ccedilla.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Ccedilla.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Ccedilla.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* Ccedilla.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* Cdotaccent.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Cdotaccent.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Cdotaccent.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* Cdotaccent.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
 * G.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Gbreve.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Gbreve.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Gcaron.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Gcaron.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Gdotaccent.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Gdotaccent.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
 * Q.BRACKET.varAlt01: B&lt;&lt;63.0,383.0&gt;-&lt;63.0,385.0&gt;-&lt;63.0,384.0&gt;&gt;/B&lt;&lt;63.0,384.0&gt;-&lt;69.0,470.0&gt;-&lt;101.5,532.0&gt;&gt; = 3.9909130984297856
 
@@ -22232,13 +21706,13 @@ definitions.</p>
 
 * Y.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* Yacute.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* Yacute.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* Ycircumflex.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* Ycircumflex.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* Ydieresis.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* Ydieresis.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* Ygrave.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* Ygrave.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
 * ampersand.BRACKET.varAlt02: L&lt;&lt;122.0,468.0&gt;--&lt;156.0,444.0&gt;&gt;/B&lt;&lt;156.0,444.0&gt;-&lt;130.0,474.0&gt;-&lt;118.5,508.0&gt;&gt; = 13.86802381178213
 
@@ -22248,11 +21722,11 @@ definitions.</p>
 
 * h.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* hbar.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* hbar.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* hbar.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* hbar.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* less.BRACKET.varAlt01: B&lt;&lt;536.5,416.0&gt;-&lt;537.0,415.0&gt;-&lt;535.0,418.0&gt;&gt;/L&lt;&lt;535.0,418.0&gt;--&lt;536.0,416.0&gt;&gt; = 7.125016348901757
+* less.BRACKET.varAlt02: B&lt;&lt;536.5,416.0&gt;-&lt;537.0,415.0&gt;-&lt;535.0,418.0&gt;&gt;/L&lt;&lt;535.0,418.0&gt;--&lt;536.0,416.0&gt;&gt; = 7.125016348901757
 
 * question.BRACKET.varAlt02: B&lt;&lt;318.5,139.5&gt;-&lt;317.0,139.0&gt;-&lt;319.0,140.0&gt;&gt;/B&lt;&lt;319.0,140.0&gt;-&lt;316.0,139.0&gt;-&lt;313.0,139.0&gt;&gt; = 8.13010235415587
 
@@ -22260,155 +21734,155 @@ definitions.</p>
 
 * six.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
-* six.dnom.BRACKET.varAlt02: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
+* six.dnom.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
-* six.numr.BRACKET.varAlt02: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
+* six.numr.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
-* six.tf.BRACKET.varAlt02: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
+* six.tf.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
 * three.BRACKET.varAlt02: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
 
 * three.BRACKET.varAlt02: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
 
-* three.dnom.BRACKET.varAlt01: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
+* three.dnom.BRACKET.varAlt02: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
 
-* three.dnom.BRACKET.varAlt01: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
+* three.dnom.BRACKET.varAlt02: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
 
-* three.numr.BRACKET.varAlt01: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
+* three.numr.BRACKET.varAlt02: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
 
-* three.numr.BRACKET.varAlt01: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
+* three.numr.BRACKET.varAlt02: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
 
-* three.tf.BRACKET.varAlt01: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
+* three.tf.BRACKET.varAlt02: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
 
-* three.tf.BRACKET.varAlt01: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
+* three.tf.BRACKET.varAlt02: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
 
-* uni00B3.BRACKET.varAlt01: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
+* uni00B3.BRACKET.varAlt02: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
 
-* uni00B3.BRACKET.varAlt01: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
+* uni00B3.BRACKET.varAlt02: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
 
-* uni0122.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni0122.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
 * uni0186.BRACKET.varAlt02: B&lt;&lt;332.5,637.5&gt;-&lt;300.0,658.0&gt;-&lt;278.0,657.0&gt;&gt;/L&lt;&lt;278.0,657.0&gt;--&lt;278.0,657.0&gt;&gt; = 2.6025622024996635
 
 * uni0186.BRACKET.varAlt02: L&lt;&lt;278.0,657.0&gt;--&lt;278.0,657.0&gt;&gt;/B&lt;&lt;278.0,657.0&gt;-&lt;235.0,651.0&gt;-&lt;194.0,634.5&gt;&gt; = 7.943471810590413
 
-* uni0187.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni0187.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* uni0187.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* uni0187.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
 * uni0190.BRACKET.varAlt02: B&lt;&lt;380.0,361.0&gt;-&lt;353.0,361.0&gt;-&lt;329.0,358.0&gt;&gt;/L&lt;&lt;329.0,358.0&gt;--&lt;329.0,358.0&gt;&gt; = 7.125016348901757
 
-* uni0193.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni0193.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
 * uni01B7.BRACKET.varAlt02: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
 
 * uni01B7.BRACKET.varAlt02: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;252.0,392.0&gt;-&lt;227.0,392.0&gt;&gt; = 9.865806943084365
 
-* uni01B8.BRACKET.varAlt01: B&lt;&lt;343.0,392.0&gt;-&lt;318.0,392.0&gt;-&lt;295.0,388.0&gt;&gt;/L&lt;&lt;295.0,388.0&gt;--&lt;295.0,388.0&gt;&gt; = 9.865806943084365
+* uni01B8.BRACKET.varAlt02: B&lt;&lt;343.0,392.0&gt;-&lt;318.0,392.0&gt;-&lt;295.0,388.0&gt;&gt;/L&lt;&lt;295.0,388.0&gt;--&lt;295.0,388.0&gt;&gt; = 9.865806943084365
 
-* uni01B8.BRACKET.varAlt01: L&lt;&lt;295.0,388.0&gt;--&lt;295.0,388.0&gt;&gt;/B&lt;&lt;295.0,388.0&gt;-&lt;249.0,378.0&gt;-&lt;230.5,345.0&gt;&gt; = 12.2647737278924
+* uni01B8.BRACKET.varAlt02: L&lt;&lt;295.0,388.0&gt;--&lt;295.0,388.0&gt;&gt;/B&lt;&lt;295.0,388.0&gt;-&lt;249.0,378.0&gt;-&lt;230.5,345.0&gt;&gt; = 12.2647737278924
 
-* uni01B9.BRACKET.varAlt01: B&lt;&lt;343.0,218.0&gt;-&lt;318.0,218.0&gt;-&lt;295.0,214.0&gt;&gt;/L&lt;&lt;295.0,214.0&gt;--&lt;295.0,214.0&gt;&gt; = 9.865806943084365
+* uni01B9.BRACKET.varAlt02: B&lt;&lt;343.0,218.0&gt;-&lt;318.0,218.0&gt;-&lt;295.0,214.0&gt;&gt;/L&lt;&lt;295.0,214.0&gt;--&lt;295.0,214.0&gt;&gt; = 9.865806943084365
 
-* uni01B9.BRACKET.varAlt01: L&lt;&lt;295.0,214.0&gt;--&lt;295.0,214.0&gt;&gt;/B&lt;&lt;295.0,214.0&gt;-&lt;249.0,204.0&gt;-&lt;230.5,171.0&gt;&gt; = 12.2647737278924
+* uni01B9.BRACKET.varAlt02: L&lt;&lt;295.0,214.0&gt;--&lt;295.0,214.0&gt;&gt;/B&lt;&lt;295.0,214.0&gt;-&lt;249.0,204.0&gt;-&lt;230.5,171.0&gt;&gt; = 12.2647737278924
 
-* uni01E4.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni01E4.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* uni01EE.BRACKET.varAlt01: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
+* uni01EE.BRACKET.varAlt02: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
 
-* uni01EE.BRACKET.varAlt01: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;252.0,392.0&gt;-&lt;227.0,392.0&gt;&gt; = 9.865806943084365
+* uni01EE.BRACKET.varAlt02: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;252.0,392.0&gt;-&lt;227.0,392.0&gt;&gt; = 9.865806943084365
 
-* uni01EF.BRACKET.varAlt01: B&lt;&lt;339.5,171.0&gt;-&lt;321.0,204.0&gt;-&lt;275.0,214.0&gt;&gt;/L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt; = 12.2647737278924
+* uni01EF.BRACKET.varAlt02: B&lt;&lt;339.5,171.0&gt;-&lt;321.0,204.0&gt;-&lt;275.0,214.0&gt;&gt;/L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt; = 12.2647737278924
 
-* uni01EF.BRACKET.varAlt01: L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt;/B&lt;&lt;275.0,214.0&gt;-&lt;252.0,218.0&gt;-&lt;227.0,218.0&gt;&gt; = 9.865806943084365
+* uni01EF.BRACKET.varAlt02: L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt;/B&lt;&lt;275.0,214.0&gt;-&lt;252.0,218.0&gt;-&lt;227.0,218.0&gt;&gt; = 9.865806943084365
 
-* uni01F4.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni01F4.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* uni021F.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni021F.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* uni021F.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni021F.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni0232.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* uni0232.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
 * uni024E.BRACKET.varAlt02: B&lt;&lt;78.0,700.0&gt;-&lt;79.0,700.0&gt;-&lt;77.0,699.0&gt;&gt;/B&lt;&lt;77.0,699.0&gt;-&lt;80.0,700.0&gt;-&lt;82.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni0265.BRACKET.varAlt02: B&lt;&lt;313.0,-5.0&gt;-&lt;312.0,-5.0&gt;-&lt;315.0,-4.0&gt;&gt;/B&lt;&lt;315.0,-4.0&gt;-&lt;293.0,-10.0&gt;-&lt;270.0,-10.0&gt;&gt; = 3.1798301198640497
+* uni0265.BRACKET.varAlt01: B&lt;&lt;313.0,-5.0&gt;-&lt;312.0,-5.0&gt;-&lt;315.0,-4.0&gt;&gt;/B&lt;&lt;315.0,-4.0&gt;-&lt;293.0,-10.0&gt;-&lt;270.0,-10.0&gt;&gt; = 3.1798301198640497
 
 * uni0266.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* uni0292.BRACKET.varAlt01: B&lt;&lt;339.5,171.0&gt;-&lt;321.0,204.0&gt;-&lt;275.0,214.0&gt;&gt;/L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt; = 12.2647737278924
+* uni0292.BRACKET.varAlt02: B&lt;&lt;339.5,171.0&gt;-&lt;321.0,204.0&gt;-&lt;275.0,214.0&gt;&gt;/L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt; = 12.2647737278924
 
-* uni0292.BRACKET.varAlt01: L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt;/B&lt;&lt;275.0,214.0&gt;-&lt;252.0,218.0&gt;-&lt;227.0,218.0&gt;&gt; = 9.865806943084365
+* uni0292.BRACKET.varAlt02: L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt;/B&lt;&lt;275.0,214.0&gt;-&lt;252.0,218.0&gt;-&lt;227.0,218.0&gt;&gt; = 9.865806943084365
 
-* uni02B0.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni02B0.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* uni02B0.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni02B0.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni02B7.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni02B7.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1D5B.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni1D5B.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1E08.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni1E08.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* uni1E08.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* uni1E08.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* uni1E20.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni1E20.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* uni1E23.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni1E23.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* uni1E23.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni1E23.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E25.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni1E25.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* uni1E25.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni1E25.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E27.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni1E27.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* uni1E27.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni1E27.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E29.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni1E29.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* uni1E29.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni1E29.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E2B.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni1E2B.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* uni1E2B.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni1E2B.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E7D.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni1E7D.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1E7F.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni1E7F.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1E87.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni1E87.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1E89.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni1E89.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1E8A.BRACKET.varAlt01: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
+* uni1E8A.BRACKET.varAlt02: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni1E8B.BRACKET.varAlt01: B&lt;&lt;79.0,500.5&gt;-&lt;80.0,501.0&gt;-&lt;78.0,500.0&gt;&gt;/B&lt;&lt;78.0,500.0&gt;-&lt;81.0,501.0&gt;-&lt;83.0,501.0&gt;&gt; = 8.13010235415587
+* uni1E8B.BRACKET.varAlt02: B&lt;&lt;79.0,500.5&gt;-&lt;80.0,501.0&gt;-&lt;78.0,500.0&gt;&gt;/B&lt;&lt;78.0,500.0&gt;-&lt;81.0,501.0&gt;-&lt;83.0,501.0&gt;&gt; = 8.13010235415587
 
-* uni1E8C.BRACKET.varAlt01: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
+* uni1E8C.BRACKET.varAlt02: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni1E8D.BRACKET.varAlt01: B&lt;&lt;79.0,500.5&gt;-&lt;80.0,501.0&gt;-&lt;78.0,500.0&gt;&gt;/B&lt;&lt;78.0,500.0&gt;-&lt;81.0,501.0&gt;-&lt;83.0,501.0&gt;&gt; = 8.13010235415587
+* uni1E8D.BRACKET.varAlt02: B&lt;&lt;79.0,500.5&gt;-&lt;80.0,501.0&gt;-&lt;78.0,500.0&gt;&gt;/B&lt;&lt;78.0,500.0&gt;-&lt;81.0,501.0&gt;-&lt;83.0,501.0&gt;&gt; = 8.13010235415587
 
-* uni1E8E.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* uni1E8E.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
 * uni1E9E.BRACKET.varAlt02: B&lt;&lt;425.5,340.0&gt;-&lt;407.0,373.0&gt;-&lt;361.0,383.0&gt;&gt;/L&lt;&lt;361.0,383.0&gt;--&lt;361.0,383.0&gt;&gt; = 12.2647737278924
 
 * uni1E9E.BRACKET.varAlt02: L&lt;&lt;361.0,383.0&gt;--&lt;361.0,383.0&gt;&gt;/B&lt;&lt;361.0,383.0&gt;-&lt;338.0,387.0&gt;-&lt;317.0,387.0&gt;&gt; = 9.865806943084365
 
-* uni1EF4.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* uni1EF4.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni1EF6.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* uni1EF6.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni1EF8.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* uni1EF8.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni2076.BRACKET.varAlt02: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
+* uni2076.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
-* uni2083.BRACKET.varAlt01: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
+* uni2083.BRACKET.varAlt02: B&lt;&lt;339.5,340.0&gt;-&lt;321.0,373.0&gt;-&lt;275.0,383.0&gt;&gt;/L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt; = 12.2647737278924
 
-* uni2083.BRACKET.varAlt01: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
+* uni2083.BRACKET.varAlt02: L&lt;&lt;275.0,383.0&gt;--&lt;275.0,383.0&gt;&gt;/B&lt;&lt;275.0,383.0&gt;-&lt;256.0,386.0&gt;-&lt;236.0,387.0&gt;&gt; = 8.972626614896358
 
-* uni2086.BRACKET.varAlt02: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
+* uni2086.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
 * uni20B2.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
@@ -22416,23 +21890,23 @@ definitions.</p>
 
 * uni20B5.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;422.0,655.0&gt;-&lt;401.0,650.0&gt;&gt; = 2.862405226111651
 
-* uniA727.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uniA727.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* uniA727.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uniA727.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uniA7B3.BRACKET.varAlt01: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
+* uniA7B3.BRACKET.varAlt02: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
 
 * v.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
 * w.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* wacute.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* wacute.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* wcircumflex.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* wcircumflex.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* wdieresis.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* wdieresis.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* wgrave.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* wgrave.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
 * x.BRACKET.varAlt02: B&lt;&lt;79.0,500.5&gt;-&lt;80.0,501.0&gt;-&lt;78.0,500.0&gt;&gt;/B&lt;&lt;78.0,500.0&gt;-&lt;81.0,501.0&gt;-&lt;83.0,501.0&gt;&gt; = 8.13010235415587
 
@@ -22460,17 +21934,17 @@ definitions.</p>
 
 * ij (U+0133): L&lt;&lt;374.0,-142.0&gt;--&lt;375.0,95.0&gt;&gt;
 
-* ij.BRACKET.varAlt02: L&lt;&lt;374.0,-142.0&gt;--&lt;375.0,150.0&gt;&gt;
+* ij.BRACKET.varAlt01: L&lt;&lt;374.0,-142.0&gt;--&lt;375.0,150.0&gt;&gt;
 
 * j (U+006A): L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,95.0&gt;&gt;
 
-* j.BRACKET.varAlt02: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,150.0&gt;&gt;
+* j.BRACKET.varAlt01: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,150.0&gt;&gt;
 
 * sterling (U+00A3): L&lt;&lt;450.0,326.0&gt;--&lt;232.0,327.0&gt;&gt;
 
 * sterling.BRACKET.varAlt01: L&lt;&lt;450.0,326.0&gt;--&lt;232.0,327.0&gt;&gt;
 
-* uni006A0301.BRACKET.varAlt02: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,150.0&gt;&gt;
+* uni006A0301.BRACKET.varAlt01: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,150.0&gt;&gt;
 
 * uni006A0301: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,95.0&gt;&gt;
 
@@ -22486,7 +21960,7 @@ definitions.</p>
 
 * uni02C0 (U+02C0): L&lt;&lt;77.0,441.0&gt;--&lt;76.0,567.0&gt;&gt;
 
-* uni1E1F.BRACKET.varAlt01: L&lt;&lt;165.0,192.0&gt;--&lt;164.0,35.0&gt;&gt;
+* uni1E1F.BRACKET.varAlt02: L&lt;&lt;165.0,192.0&gt;--&lt;164.0,35.0&gt;&gt;
 </code></pre>
  [code: found-semi-vertical]
 
@@ -23968,11 +23442,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">bkm_Latn (Kom)</td>
-<td align="left">Shaper didn't attach gravecomb to AE</td>
+<td align="left">Shaper didn't attach uni0302 to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to AE</td>
+<td align="left">Shaper didn't attach gravecomb to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -24311,30 +23785,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">tcd_Latn (Tafi)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni1DC6 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni028A</td>
 </tr>
 <tr>
@@ -24370,30 +23820,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">byv_Latn (Medumba)</td>
-<td align="left">Shaper didn't attach gravecomb to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -24660,14 +24086,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">sld_Latn (Sissala)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -25307,10 +24725,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -25509,10 +24923,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">aks_Latn (Akeselem)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni028A</td>
 </tr>
 <tr>
@@ -25575,25 +24985,6 @@ definitions.</p>
 <tr>
 <td align="left">cme_Latn (Cerma)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">bfo_Latn (Malba Birifor)</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -25898,25 +25289,6 @@ definitions.</p>
 <tr>
 <td align="left">kyq_Latn (Kenga)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">lob_Latn (Lobi)</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -26418,38 +25790,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">fmp_Latn (Fe’fe’)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0304 to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni2C6D</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0251</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -26546,37 +25886,6 @@ definitions.</p>
 <tr>
 <td align="left">kye_Latn (Krache)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">goa_Latn (Guro)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -26935,29 +26244,6 @@ definitions.</p>
 <tr>
 <td align="left">bfd_Latn (Bafut)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">kst_Latn (Winyé)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -27584,15 +26870,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">Shaper didn't attach tildecomb to uni026A</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uni026A</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -28159,18 +27445,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">neb_Latn (Toura)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -28304,18 +27578,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">pug_Latn (Phuie)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -28756,10 +28018,6 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper produced a .notdef</td>
 </tr>
 </tbody>
@@ -28799,25 +28057,6 @@ definitions.</p>
 <tr>
 <td align="left">mua_Latn (Mundang)</td>
 <td align="left">The locl feature did not affect Eng</td>
-</tr>
-</tbody>
-</table>
- [code: failed-language-shaping]
-
-
-
-* 🔥 **FAIL** <p>GF_Latin_African glyphset:</p>
-<table>
-<thead>
-<tr>
-<th align="left">Language</th>
-<th align="left">FAIL messages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">xsm_Latn_BF (Burkinabè Kasem)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
 </tr>
 </tbody>
 </table>
@@ -28912,23 +28151,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">blo_Latn (Anii)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach acutecomb to uni028A</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to uni028A</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -29035,22 +28262,6 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">gna_Latn (Kaansa)</td>
-<td align="left">Shaper didn't attach acutecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030C to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to uni0269</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -29188,11 +28399,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to AE</td>
+<td align="left">Shaper didn't attach uni0302 to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to AE</td>
+<td align="left">Shaper didn't attach gravecomb to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -32923,15 +32134,15 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, cherokee, coptic, math</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, math, tifinagh, cherokee</li>
 <li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, duployan, hebrew, tifinagh, syriac, tai-le, math, old-permic, canadian-aboriginal, todhri</li>
-<li>U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, canadian-aboriginal, hebrew, tifinagh, malayalam, syriac, math, duployan, tai-le, old-permic, todhri</li>
+<li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
-<li>U+0310 COMBINING CANDRABINDU: try adding one of: sunuwar, math</li>
+<li>U+0310 COMBINING CANDRABINDU: try adding one of: math, sunuwar</li>
 <li>U+0311 COMBINING INVERTED BREVE: try adding one of: coptic, todhri</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: try adding math</li>
 <li>U+0313 COMBINING COMMA ABOVE: try adding one of: todhri, old-permic</li>
@@ -32940,15 +32151,15 @@ definitions.</p>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
-<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
+<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: sunuwar, cherokee, tifinagh, syriac, gothic, caucasian-albanian, thai</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, math, cherokee</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, tifinagh, syriac, thai, cherokee, sunuwar, caucasian-albanian</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -33000,7 +32211,7 @@ definitions.</p>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: armenian, mahajani, lepcha, saurashtra, syriac, siddham, soyombo, duployan, nko, tirhuta, symbols, lao, psalter-pahlavi, bhaiksuki, kayah-li, ahom, syloti-nagri, balinese, tai-viet, gujarati, zanabazar-square, tamil, rejang, miao, phags-pa, bengali, malayalam, manichaean, brahmi, osage, tai-tham, caucasian-albanian, newa, canadian-aboriginal, mandaic, coptic, tifinagh, gurmukhi, old-permic, javanese, hanunoo, warang-citi, thaana, kannada, myanmar, yi, khudawadi, modi, limbu, khojki, tagbanwa, new-tai-lue, khmer, pahawh-hmong, sogdian, gunjala-gondi, dogra, chakma, mongolian, buhid, thai, tagalog, mende-kikakui, devanagari, batak, marchen, kharoshthi, cham, takri, grantha, oriya, tai-le, kaithi, elbasan, meetei-mayek, adlam, sinhala, music, tibetan, masaram-gondi, sundanese, buginese, math, sharada, bassa-vah, hanifi-rohingya, wancho, hebrew, telugu</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: hebrew, zanabazar-square, duployan, phags-pa, gurmukhi, gujarati, mende-kikakui, tagbanwa, marchen, warang-citi, syriac, yi, kharoshthi, pahawh-hmong, khudawadi, symbols, tai-viet, mahajani, saurashtra, nko, math, sundanese, balinese, khmer, newa, thaana, kannada, tagalog, ahom, tamil, sogdian, batak, elbasan, new-tai-lue, meetei-mayek, masaram-gondi, oriya, hanunoo, rejang, limbu, bassa-vah, modi, devanagari, old-permic, sharada, hanifi-rohingya, caucasian-albanian, coptic, kayah-li, cham, adlam, tifinagh, kaithi, tai-le, tirhuta, takri, khojki, miao, dogra, myanmar, malayalam, bhaiksuki, mandaic, gunjala-gondi, lao, tibetan, bengali, chakma, lepcha, osage, psalter-pahlavi, manichaean, sinhala, wancho, music, grantha, javanese, telugu, canadian-aboriginal, brahmi, buginese, mongolian, syloti-nagri, tai-tham, thai, armenian, buhid, soyombo, siddham</li>
 <li>U+263A WHITE SMILING FACE: try adding symbols</li>
 <li>U+2648 ARIES: try adding symbols</li>
 <li>U+2649 TAURUS: try adding symbols</li>
@@ -33069,8 +32280,8 @@ definitions.</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i̊ i̋ i̍ i̐ i̓ i᷆ i᷇ j̀ j́ j̃ j̄ j̈ j̑ į̀ į́ į̂ į̃ į̄ į̌ ɨ̀ ɨ́ ɨ̂ ɨ̃ ɨ̄ ɨ̈ ɨ̋ ɨ̌ ɨ̏ ɨ̧̀ ɨ̧́ ɨ̧̂ ɨ̧̌ ɨ̱̀ ɨ̱́ ɨ̱̈ ḭ̀ ḭ́ ḭ̄ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: ĭ i̇ i̒ i᷄ i᷅ ĭ̛ i̛̇ i̛̊ i̛̋ i̛̍ i̛̐ i̛̒ i̛̓ i̛᷄ i̛᷅ i̛᷆ i̛᷇ ĭ̥ i̥̇ i̥̊</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Han (Latn, 6 speakers), Lithuanian (Latn, 2,357,094 speakers), South Central Banda (Latn, 244,000 speakers), Mango (Latn, 77,000 speakers), Gulay (Latn, 250,478 speakers), Ngbaka (Latn, 1,020,000 speakers), Yala (Latn, 200,000 speakers), Ma’di (Latn, 584,000 speakers), Dutch (Latn, 31,709,104 speakers), Bete-Bendi (Latn, 100,000 speakers), Ekpeye (Latn, 226,000 speakers), Sar (Latn, 500,000 speakers), Zapotec (Latn, 490,000 speakers), Ebira (Latn, 2,200,000 speakers), Cicipu (Latn, 44,000 speakers), Nzakara (Latn, 50,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Kaska (Latn, 125 speakers), Navajo (Latn, 166,319 speakers), Nateni (Latn, 100,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Koonzime (Latn, 40,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Kom (Latn, 360,685 speakers), Fur (Latn, 1,230,163 speakers), Ejagham (Latn, 120,000 speakers), Vute (Latn, 21,000 speakers), Mfumte (Latn, 79,000 speakers), Bafut (Latn, 158,146 speakers), Lugbara (Latn, 2,200,000 speakers), Dan (Latn, 1,099,244 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Dii (Latn, 71,000 speakers), Heiltsuk (Latn, 300 speakers), Southern Kisi (Latn, 360,000 speakers), Basaa (Latn, 332,940 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Teke-Ebo (Latn, 260,000 speakers), Mundani (Latn, 34,000 speakers), Avokaya (Latn, 100,000 speakers), Makaa (Latn, 221,000 speakers), Igbo (Latn, 27,823,640 speakers), Aghem (Latn, 38,843 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Sar (Latn, 500,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Yala (Latn, 200,000 speakers), Nzakara (Latn, 50,000 speakers), Ma’di (Latn, 584,000 speakers), Ekpeye (Latn, 226,000 speakers), Navajo (Latn, 166,319 speakers), Nateni (Latn, 100,000 speakers), Zapotec (Latn, 490,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Cicipu (Latn, 44,000 speakers), Mango (Latn, 77,000 speakers), Ebira (Latn, 2,200,000 speakers), Kaska (Latn, 125 speakers), Han (Latn, 6 speakers), South Central Banda (Latn, 244,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Gulay (Latn, 250,478 speakers), Lithuanian (Latn, 2,357,094 speakers), Dutch (Latn, 31,709,104 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Vute (Latn, 21,000 speakers), Heiltsuk (Latn, 300 speakers), Basaa (Latn, 332,940 speakers), Bafut (Latn, 158,146 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ejagham (Latn, 120,000 speakers), Mundani (Latn, 34,000 speakers), Teke-Ebo (Latn, 260,000 speakers), Kom (Latn, 360,685 speakers), Igbo (Latn, 27,823,640 speakers), Fur (Latn, 1,230,163 speakers), Aghem (Latn, 38,843 speakers), Lugbara (Latn, 2,200,000 speakers), Dan (Latn, 1,099,244 speakers), Dii (Latn, 71,000 speakers), Makaa (Latn, 221,000 speakers), Avokaya (Latn, 100,000 speakers), Southern Kisi (Latn, 360,000 speakers), Mfumte (Latn, 79,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Koonzime (Latn, 40,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers).</p>
  [code: soft-dotted]
 
 
