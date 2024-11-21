@@ -2813,7 +2813,7 @@ unicode = 514;
 {
 color = 5;
 glyphname = "Alpha-latin";
-lastChange = "2024-11-21 12:33:56 +0000";
+lastChange = "2024-11-21 12:54:41 +0000";
 layers = (
 {
 anchors = (
@@ -3511,7 +3511,7 @@ scale = (1,-1);
 },
 {
 angle = 90;
-pos = (724,336);
+pos = (704,336);
 ref = _part.longbristles;
 }
 );
@@ -173578,9 +173578,19 @@ unicode = 371;
 {
 color = 5;
 glyphname = "upsilon-latin";
-lastChange = "2024-07-31 22:05:26 +0000";
+lastChange = "2024-11-21 12:56:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,500);
+}
+);
 background = {
 shapes = (
 {
@@ -173722,6 +173732,16 @@ ref = _part.singlebristle;
 width = 620;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,500);
+}
+);
 layerId = m002;
 shapes = (
 {
@@ -173839,6 +173859,16 @@ ref = _part.singlebristle;
 width = 620;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,500);
+}
+);
 layerId = m003;
 shapes = (
 {
@@ -173960,6 +173990,16 @@ ref = _part.singlebristle;
 width = 620;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,500);
+}
+);
 associatedMasterId = m002;
 attr = {
 axisRules = (
@@ -174042,6 +174082,16 @@ ref = _part.shortbones;
 width = 620;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,500);
+}
+);
 associatedMasterId = m002;
 attr = {
 axisRules = (
@@ -174123,6 +174173,16 @@ ref = _part.shortbristles;
 width = 620;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,500);
+}
+);
 associatedMasterId = m01;
 attr = {
 axisRules = (
@@ -174229,6 +174289,16 @@ ref = _part.shortbones;
 width = 620;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,500);
+}
+);
 associatedMasterId = m01;
 attr = {
 axisRules = (
@@ -174334,6 +174404,16 @@ ref = _part.shortbristles;
 width = 620;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,500);
+}
+);
 associatedMasterId = m003;
 attr = {
 axisRules = (
@@ -174416,6 +174496,16 @@ ref = _part.shortbones;
 width = 620;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (310,500);
+}
+);
 associatedMasterId = m003;
 attr = {
 axisRules = (
