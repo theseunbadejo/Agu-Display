@@ -163,7 +163,8 @@ j,
 "ȷ/jacute",
 "ɉ",
 "/jacute",
-"ʝ"
+"ʝ",
+"í"
 );
 axes = (
 {
@@ -128122,7 +128123,7 @@ unicode = 106;
 {
 color = 5;
 glyphname = jdotless;
-lastChange = "2024-11-22 13:33:14 +0000";
+lastChange = "2024-11-22 13:47:52 +0000";
 layers = (
 {
 anchors = (
@@ -128264,6 +128265,20 @@ nodes = (
 width = 288;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 layerId = m002;
 shapes = (
 {
@@ -128389,6 +128404,20 @@ nodes = (
 width = 288;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 layerId = m003;
 shapes = (
 {
@@ -128514,6 +128543,20 @@ nodes = (
 width = 288;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m01;
 attr = {
 axisRules = (
@@ -128602,6 +128645,20 @@ ref = _part.longbristles;
 width = 288;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m01;
 attr = {
 axisRules = (
@@ -128695,6 +128752,20 @@ scale = (-1,1);
 width = 288;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m002;
 attr = {
 axisRules = (
@@ -128783,6 +128854,20 @@ ref = _part.longbristles;
 width = 288;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m002;
 attr = {
 axisRules = (
@@ -128876,6 +128961,20 @@ scale = (-1,1);
 width = 288;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m003;
 attr = {
 axisRules = (
@@ -128964,6 +129063,20 @@ ref = _part.longbristles;
 width = 288;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m003;
 attr = {
 axisRules = (
@@ -129084,6 +129197,7 @@ shapes = (
 ref = jdotless;
 },
 {
+pos = (55,0);
 ref = acutecomb;
 }
 );
@@ -129096,6 +129210,7 @@ shapes = (
 ref = jdotless;
 },
 {
+pos = (55,0);
 ref = acutecomb;
 }
 );
@@ -189394,7 +189509,7 @@ unicode = 42892;
 },
 {
 glyphname = istroke.dotless;
-lastChange = "2024-11-22 13:28:13 +0000";
+lastChange = "2024-11-22 13:45:59 +0000";
 layers = (
 {
 layerId = m01;
@@ -189415,10 +189530,6 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-28,-49);
-ref = dotaccentcomb;
-},
-{
 ref = strokeshortcomb;
 }
 );
@@ -189431,10 +189542,6 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-28,-49);
-ref = dotaccentcomb;
-},
-{
 ref = strokeshortcomb;
 }
 );
@@ -189445,7 +189552,7 @@ width = 226;
 {
 color = 5;
 glyphname = jstroke.dotless;
-lastChange = "2024-11-22 13:34:32 +0000";
+lastChange = "2024-11-22 13:46:41 +0000";
 layers = (
 {
 anchors = (
@@ -189693,23 +189800,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(201,588,o),
-(218,605,o),
-(218,626,cs),
-(218,646,o),
-(201,663,o),
-(180,663,cs),
-(159,663,o),
-(143,646,o),
-(143,626,cs),
-(143,605,o),
-(159,588,o),
-(180,588,cs)
-);
-},
-{
-closed = 1;
-nodes = (
 (206,252,l),
 (206,477,l),
 (206,490,o),
@@ -189854,23 +189944,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(201,588,o),
-(218,605,o),
-(218,626,cs),
-(218,646,o),
-(201,663,o),
-(180,663,cs),
-(159,663,o),
-(143,646,o),
-(143,626,cs),
-(143,605,o),
-(159,588,o),
-(180,588,cs)
-);
-},
-{
-closed = 1;
-nodes = (
 (206,252,l),
 (206,477,l),
 (206,490,o),
@@ -190010,23 +190083,6 @@ layerId = "637D70C9-87EC-4001-9950-784C61D000F9";
 name = "30 Sep 24 at 3:31 PM";
 shapes = (
 {
-closed = 1;
-nodes = (
-(201,588,o),
-(218,605,o),
-(218,626,cs),
-(218,646,o),
-(201,663,o),
-(180,663,cs),
-(159,663,o),
-(143,646,o),
-(143,626,cs),
-(143,605,o),
-(159,588,o),
-(180,588,cs)
-);
-},
-{
 alignment = -1;
 pos = (46,-59);
 ref = strokeshortcomb;
@@ -190133,23 +190189,6 @@ min = 39.6;
 layerId = "0ED66480-FF34-424B-9078-F0E62AA37197";
 name = "30 Sep 24 at 3:31 PM";
 shapes = (
-{
-closed = 1;
-nodes = (
-(201,588,o),
-(218,605,o),
-(218,626,cs),
-(218,646,o),
-(201,663,o),
-(180,663,cs),
-(159,663,o),
-(143,646,o),
-(143,626,cs),
-(143,605,o),
-(159,588,o),
-(180,588,cs)
-);
-},
 {
 alignment = -1;
 pos = (46,-59);
@@ -190353,23 +190392,6 @@ layerId = "3052590D-D96C-440C-A76B-576512E93CCF";
 name = "30 Sep 24 at 3:31 PM";
 shapes = (
 {
-closed = 1;
-nodes = (
-(201,588,o),
-(218,605,o),
-(218,626,cs),
-(218,646,o),
-(201,663,o),
-(180,663,cs),
-(159,663,o),
-(143,646,o),
-(143,626,cs),
-(143,605,o),
-(159,588,o),
-(180,588,cs)
-);
-},
-{
 alignment = -1;
 pos = (46,-59);
 ref = strokeshortcomb;
@@ -190572,23 +190594,6 @@ layerId = "13292627-D1CD-4B5C-8E32-3C93DEA5C4BA";
 name = "30 Sep 24 at 3:31 PM";
 shapes = (
 {
-closed = 1;
-nodes = (
-(201,588,o),
-(218,605,o),
-(218,626,cs),
-(218,646,o),
-(201,663,o),
-(180,663,cs),
-(159,663,o),
-(143,646,o),
-(143,626,cs),
-(143,605,o),
-(159,588,o),
-(180,588,cs)
-);
-},
-{
 alignment = -1;
 pos = (46,-59);
 ref = strokeshortcomb;
@@ -190709,23 +190714,6 @@ layerId = "C9054362-EBD1-439B-86F9-CB20FF179761";
 name = "30 Sep 24 at 3:31 PM";
 shapes = (
 {
-closed = 1;
-nodes = (
-(201,588,o),
-(218,605,o),
-(218,626,cs),
-(218,646,o),
-(201,663,o),
-(180,663,cs),
-(159,663,o),
-(143,646,o),
-(143,626,cs),
-(143,605,o),
-(159,588,o),
-(180,588,cs)
-);
-},
-{
 alignment = -1;
 pos = (46,-59);
 ref = strokeshortcomb;
@@ -190845,23 +190833,6 @@ scale = (-1,1);
 layerId = "8B181839-9C94-43BE-A6D9-C50E63FC2BF5";
 name = "30 Sep 24 at 3:31 PM";
 shapes = (
-{
-closed = 1;
-nodes = (
-(201,588,o),
-(218,605,o),
-(218,626,cs),
-(218,646,o),
-(201,663,o),
-(180,663,cs),
-(159,663,o),
-(143,646,o),
-(143,626,cs),
-(143,605,o),
-(159,588,o),
-(180,588,cs)
-);
-},
 {
 alignment = -1;
 pos = (46,-59);
