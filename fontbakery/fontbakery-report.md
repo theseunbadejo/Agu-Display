@@ -6059,15 +6059,15 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uni026A</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -8119,6 +8119,10 @@ fontbakery version: 0.12.10
 
 - Eng.BRACKET.varAlt02
 
+- Eng.loclNSM.BRACKET.varAlt01
+
+- Eng.loclNSM.BRACKET.varAlt02
+
 - Eogonek.BRACKET.varAlt01
 
 - Eogonek.BRACKET.varAlt02
@@ -8619,19 +8623,13 @@ fontbakery version: 0.12.10
 
 - eight.BRACKET.varAlt02
 
-- eight.dnom
-
 - eight.dnom.BRACKET.varAlt01
 
 - eight.dnom.BRACKET.varAlt02
 
-- eight.numr
-
 - eight.numr.BRACKET.varAlt01
 
 - eight.numr.BRACKET.varAlt02
-
-- eight.tf
 
 - eight.tf.BRACKET.varAlt01
 
@@ -8669,19 +8667,13 @@ fontbakery version: 0.12.10
 
 - five.BRACKET.varAlt02
 
-- five.dnom
-
 - five.dnom.BRACKET.varAlt01
 
 - five.dnom.BRACKET.varAlt02
 
-- five.numr
-
 - five.numr.BRACKET.varAlt01
 
 - five.numr.BRACKET.varAlt02
-
-- five.tf
 
 - five.tf.BRACKET.varAlt01
 
@@ -8691,19 +8683,13 @@ fontbakery version: 0.12.10
 
 - four.BRACKET.varAlt02
 
-- four.dnom
-
 - four.dnom.BRACKET.varAlt01
 
 - four.dnom.BRACKET.varAlt02
 
-- four.numr
-
 - four.numr.BRACKET.varAlt01
 
 - four.numr.BRACKET.varAlt02
-
-- four.tf
 
 - four.tf.BRACKET.varAlt01
 
@@ -8744,8 +8730,6 @@ fontbakery version: 0.12.10
 - i.BRACKET.varAlt01
 
 - i.BRACKET.varAlt02
-
-- i.loclTRK
 
 - i.loclTRK.BRACKET.varAlt01
 
@@ -8831,19 +8815,13 @@ fontbakery version: 0.12.10
 
 - nine.BRACKET.varAlt02
 
-- nine.dnom
-
 - nine.dnom.BRACKET.varAlt01
 
 - nine.dnom.BRACKET.varAlt02
 
-- nine.numr
-
 - nine.numr.BRACKET.varAlt01
 
 - nine.numr.BRACKET.varAlt02
-
-- nine.tf
 
 - nine.tf.BRACKET.varAlt01
 
@@ -8897,19 +8875,13 @@ fontbakery version: 0.12.10
 
 - one.BRACKET.varAlt02
 
-- one.dnom
-
 - one.dnom.BRACKET.varAlt01
 
 - one.dnom.BRACKET.varAlt02
 
-- one.numr
-
 - one.numr.BRACKET.varAlt01
 
 - one.numr.BRACKET.varAlt02
-
-- one.tf
 
 - one.tf.BRACKET.varAlt01
 
@@ -8999,19 +8971,13 @@ fontbakery version: 0.12.10
 
 - seven.BRACKET.varAlt02
 
-- seven.dnom
-
 - seven.dnom.BRACKET.varAlt01
 
 - seven.dnom.BRACKET.varAlt02
 
-- seven.numr
-
 - seven.numr.BRACKET.varAlt01
 
 - seven.numr.BRACKET.varAlt02
-
-- seven.tf
 
 - seven.tf.BRACKET.varAlt01
 
@@ -9021,19 +8987,13 @@ fontbakery version: 0.12.10
 
 - six.BRACKET.varAlt02
 
-- six.dnom
-
 - six.dnom.BRACKET.varAlt01
 
 - six.dnom.BRACKET.varAlt02
 
-- six.numr
-
 - six.numr.BRACKET.varAlt01
 
 - six.numr.BRACKET.varAlt02
-
-- six.tf
 
 - six.tf.BRACKET.varAlt01
 
@@ -9059,19 +9019,13 @@ fontbakery version: 0.12.10
 
 - three.BRACKET.varAlt02
 
-- three.dnom
-
 - three.dnom.BRACKET.varAlt01
 
 - three.dnom.BRACKET.varAlt02
 
-- three.numr
-
 - three.numr.BRACKET.varAlt01
 
 - three.numr.BRACKET.varAlt02
-
-- three.tf
 
 - three.tf.BRACKET.varAlt01
 
@@ -9085,19 +9039,13 @@ fontbakery version: 0.12.10
 
 - two.BRACKET.varAlt02
 
-- two.dnom
-
 - two.dnom.BRACKET.varAlt01
 
 - two.dnom.BRACKET.varAlt02
 
-- two.numr
-
 - two.numr.BRACKET.varAlt01
 
 - two.numr.BRACKET.varAlt02
-
-- two.tf
 
 - two.tf.BRACKET.varAlt01
 
@@ -9139,13 +9087,9 @@ fontbakery version: 0.12.10
 
 - umacron.BRACKET.varAlt02
 
-- uni004A0301
-
 - uni004A0301.BRACKET.varAlt01
 
 - uni004A0301.BRACKET.varAlt02
-
-- uni006A0301
 
 - uni006A0301.BRACKET.varAlt01
 
@@ -11211,25 +11155,17 @@ fontbakery version: 0.12.10
 
 - zero.BRACKET.varAlt02
 
-- zero.dnom
-
 - zero.dnom.BRACKET.varAlt01
 
 - zero.dnom.BRACKET.varAlt02
-
-- zero.numr
 
 - zero.numr.BRACKET.varAlt01
 
 - zero.numr.BRACKET.varAlt02
 
-- zero.tf
-
 - zero.tf.BRACKET.varAlt01
 
 - zero.tf.BRACKET.varAlt02
-
-- zero.zero
 
 - zero.zero.BRACKET.varAlt01
 
@@ -11298,9 +11234,9 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, malayalam, tifinagh, hebrew, syriac, math, duployan, tai-le, old-permic, coptic, todhri</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, tifinagh, malayalam, todhri, coptic, old-permic, syriac, math, hebrew, tai-le, duployan</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -11317,13 +11253,13 @@ definitions.</p>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, sunuwar, cherokee, tifinagh, syriac, caucasian-albanian, thai</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: thai, tifinagh, sunuwar, cherokee, gothic, caucasian-albanian, syriac</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -11353,14 +11289,14 @@ definitions.</p>
 <li>U+212E ESTIMATED SYMBOL: try adding math</li>
 <li>U+2153 VULGAR FRACTION ONE THIRD: try adding symbols</li>
 <li>U+2154 VULGAR FRACTION TWO THIRDS: try adding symbols</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -11375,7 +11311,7 @@ definitions.</p>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: hanunoo, modi, buhid, saurashtra, sundanese, hanifi-rohingya, coptic, marchen, new-tai-lue, lao, bassa-vah, oriya, tai-le, wancho, manichaean, meetei-mayek, balinese, lepcha, symbols, miao, limbu, ahom, mende-kikakui, cham, sogdian, kayah-li, yi, gunjala-gondi, pahawh-hmong, tagbanwa, devanagari, sinhala, caucasian-albanian, myanmar, math, javanese, tai-viet, buginese, hebrew, nko, khmer, malayalam, grantha, zanabazar-square, armenian, tibetan, telugu, bengali, mahajani, masaram-gondi, warang-citi, syloti-nagri, phags-pa, music, old-permic, gujarati, mongolian, canadian-aboriginal, tagalog, kharoshthi, tirhuta, sharada, thai, soyombo, khojki, chakma, siddham, newa, duployan, gurmukhi, psalter-pahlavi, kaithi, mandaic, takri, bhaiksuki, batak, tai-tham, tifinagh, syriac, adlam, rejang, tamil, khudawadi, kannada, thaana, brahmi, osage, dogra, elbasan</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: newa, buginese, syriac, math, sundanese, buhid, chakma, mende-kikakui, tagbanwa, saurashtra, oriya, armenian, cham, music, tibetan, sinhala, thai, tifinagh, lao, myanmar, kayah-li, khmer, miao, mahajani, masaram-gondi, tirhuta, batak, hanunoo, phags-pa, yi, sogdian, brahmi, gurmukhi, pahawh-hmong, limbu, warang-citi, osage, javanese, rejang, tai-le, tamil, psalter-pahlavi, ahom, old-permic, dogra, nko, tagalog, siddham, coptic, modi, zanabazar-square, meetei-mayek, hebrew, takri, kaithi, caucasian-albanian, wancho, manichaean, devanagari, symbols, gunjala-gondi, balinese, gujarati, mandaic, lepcha, new-tai-lue, duployan, telugu, mongolian, malayalam, tai-tham, hanifi-rohingya, kharoshthi, tai-viet, marchen, canadian-aboriginal, bassa-vah, bhaiksuki, khudawadi, thaana, elbasan, khojki, grantha, sharada, bengali, syloti-nagri, soyombo, kannada, adlam</li>
 <li>U+263A WHITE SMILING FACE: try adding symbols</li>
 <li>U+2648 ARIES: try adding symbols</li>
 <li>U+2649 TAURUS: try adding symbols</li>
@@ -11451,77 +11387,77 @@ definitions.</p>
 
 * A.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* Aacute.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* Aacute.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* Aacute.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* Aacute.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* Aacute.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* Aacute.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* Aacute.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* Aacute.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* Abreve.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* Abreve.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* Abreve.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* Abreve.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* Abreve.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* Abreve.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* Abreve.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* Abreve.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* Acircumflex.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* Acircumflex.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* Acircumflex.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* Acircumflex.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* Acircumflex.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* Acircumflex.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* Acircumflex.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* Acircumflex.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* Adieresis.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* Adieresis.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* Adieresis.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* Adieresis.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* Adieresis.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* Adieresis.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* Adieresis.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* Adieresis.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* Agrave.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* Agrave.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* Agrave.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* Agrave.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* Agrave.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* Agrave.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* Agrave.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* Agrave.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* Amacron.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* Amacron.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* Amacron.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* Amacron.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* Amacron.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* Amacron.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* Amacron.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* Amacron.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* Aogonek.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* Aogonek.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* Aogonek.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* Aogonek.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* Aogonek.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* Aogonek.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* Aogonek.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* Aogonek.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* Aring.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* Aring.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* Aring.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* Aring.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* Aring.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* Aring.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* Aring.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* Aring.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* Atilde.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* Atilde.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* Atilde.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* Atilde.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* Atilde.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* Atilde.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* Atilde.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* Atilde.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
 * C (U+0043): B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
@@ -11542,6 +11478,8 @@ definitions.</p>
 * Cdotaccent (U+010A): B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
 * Cdotaccent (U+010A): L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+
+* Eng.loclNSM.BRACKET.varAlt01: B&lt;&lt;322.0,707.0&gt;-&lt;323.0,707.0&gt;-&lt;322.0,707.0&gt;&gt;/B&lt;&lt;322.0,707.0&gt;-&lt;344.0,710.0&gt;-&lt;364.0,710.0&gt;&gt; = 7.765166018425308
 
 * G (U+0047): B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
@@ -11569,17 +11507,17 @@ definitions.</p>
 
 * eight.BRACKET.varAlt02: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
 
-* eight.dnom.BRACKET.varAlt02: L&lt;&lt;196.0,423.0&gt;--&lt;173.0,439.0&gt;&gt;/B&lt;&lt;173.0,439.0&gt;-&lt;197.0,412.0&gt;-&lt;237.0,397.0&gt;&gt; = 13.54197150647295
+* eight.dnom.BRACKET.varAlt01: L&lt;&lt;196.0,423.0&gt;--&lt;173.0,439.0&gt;&gt;/B&lt;&lt;173.0,439.0&gt;-&lt;197.0,412.0&gt;-&lt;237.0,397.0&gt;&gt; = 13.54197150647295
 
-* eight.dnom.BRACKET.varAlt02: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
+* eight.dnom.BRACKET.varAlt01: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
 
-* eight.numr.BRACKET.varAlt02: L&lt;&lt;196.0,423.0&gt;--&lt;173.0,439.0&gt;&gt;/B&lt;&lt;173.0,439.0&gt;-&lt;197.0,412.0&gt;-&lt;237.0,397.0&gt;&gt; = 13.54197150647295
+* eight.numr.BRACKET.varAlt01: L&lt;&lt;196.0,423.0&gt;--&lt;173.0,439.0&gt;&gt;/B&lt;&lt;173.0,439.0&gt;-&lt;197.0,412.0&gt;-&lt;237.0,397.0&gt;&gt; = 13.54197150647295
 
-* eight.numr.BRACKET.varAlt02: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
+* eight.numr.BRACKET.varAlt01: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
 
-* eight.tf.BRACKET.varAlt02: L&lt;&lt;196.0,423.0&gt;--&lt;173.0,439.0&gt;&gt;/B&lt;&lt;173.0,439.0&gt;-&lt;197.0,412.0&gt;-&lt;237.0,397.0&gt;&gt; = 13.54197150647295
+* eight.tf.BRACKET.varAlt01: L&lt;&lt;196.0,423.0&gt;--&lt;173.0,439.0&gt;&gt;/B&lt;&lt;173.0,439.0&gt;-&lt;197.0,412.0&gt;-&lt;237.0,397.0&gt;&gt; = 13.54197150647295
 
-* eight.tf.BRACKET.varAlt02: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
+* eight.tf.BRACKET.varAlt01: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
 
 * germandbls.BRACKET.varAlt01: B&lt;&lt;497.0,235.0&gt;-&lt;497.0,234.0&gt;-&lt;496.0,237.0&gt;&gt;/B&lt;&lt;496.0,237.0&gt;-&lt;500.0,217.0&gt;-&lt;500.0,195.0&gt;&gt; = 7.125016348901705
 
@@ -11589,7 +11527,7 @@ definitions.</p>
 
 * hbar (U+0127): B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* hbar.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* hbar.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
 * less (U+003C): B&lt;&lt;536.5,416.0&gt;-&lt;537.0,415.0&gt;-&lt;535.0,418.0&gt;&gt;/L&lt;&lt;535.0,418.0&gt;--&lt;536.0,416.0&gt;&gt; = 7.125016348901757
 
@@ -11601,15 +11539,15 @@ definitions.</p>
 
 * six.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
-* six.dnom.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
+* six.dnom.BRACKET.varAlt02: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
 * six.dnom: B&lt;&lt;68.5,154.5&gt;-&lt;68.0,156.0&gt;-&lt;69.0,154.0&gt;&gt;/B&lt;&lt;69.0,154.0&gt;-&lt;57.0,192.0&gt;-&lt;52.5,233.5&gt;&gt; = 9.039482803355057
 
-* six.numr.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
+* six.numr.BRACKET.varAlt02: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
 * six.numr: B&lt;&lt;68.5,154.5&gt;-&lt;68.0,156.0&gt;-&lt;69.0,154.0&gt;&gt;/B&lt;&lt;69.0,154.0&gt;-&lt;57.0,192.0&gt;-&lt;52.5,233.5&gt;&gt; = 9.039482803355057
 
-* six.tf.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
+* six.tf.BRACKET.varAlt02: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
 * six.tf: B&lt;&lt;68.5,154.5&gt;-&lt;68.0,156.0&gt;-&lt;69.0,154.0&gt;&gt;/B&lt;&lt;69.0,154.0&gt;-&lt;57.0,192.0&gt;-&lt;52.5,233.5&gt;&gt; = 9.039482803355057
 
@@ -11659,29 +11597,29 @@ definitions.</p>
 
 * uni01B9 (U+01B9): L&lt;&lt;295.0,214.0&gt;--&lt;295.0,214.0&gt;&gt;/B&lt;&lt;295.0,214.0&gt;-&lt;249.0,204.0&gt;-&lt;230.5,171.0&gt;&gt; = 12.2647737278924
 
-* uni01CD.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni01CD.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni01CD.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni01CD.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni01CD.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni01CD.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni01CD.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni01CD.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni01DE.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni01DE.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni01DE.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni01DE.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni01DE.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni01DE.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni01DE.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni01DE.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni01E0.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni01E0.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni01E0.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni01E0.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni01E0.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni01E0.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni01E0.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni01E0.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
 * uni01E4 (U+01E4): B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
@@ -11695,33 +11633,33 @@ definitions.</p>
 
 * uni01F4 (U+01F4): B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* uni0200.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni0200.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni0200.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni0200.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni0200.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni0200.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni0200.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni0200.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni0202.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni0202.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni0202.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni0202.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni0202.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni0202.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni0202.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni0202.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
 * uni021F (U+021F): B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni021F.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni021F.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
-* uni0226.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni0226.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni0226.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni0226.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni0226.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni0226.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni0226.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni0226.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
 * uni0232 (U+0232): B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
@@ -11731,7 +11669,7 @@ definitions.</p>
 
 * uni0263.BRACKET.varAlt02: L&lt;&lt;441.0,158.0&gt;--&lt;369.0,144.0&gt;&gt;/L&lt;&lt;369.0,144.0&gt;--&lt;369.0,144.0&gt;&gt; = 11.003540851749507
 
-* uni0265.BRACKET.varAlt01: B&lt;&lt;313.0,-5.0&gt;-&lt;312.0,-5.0&gt;-&lt;315.0,-4.0&gt;&gt;/B&lt;&lt;315.0,-4.0&gt;-&lt;293.0,-10.0&gt;-&lt;270.0,-10.0&gt;&gt; = 3.1798301198640497
+* uni0265.BRACKET.varAlt02: B&lt;&lt;313.0,-5.0&gt;-&lt;312.0,-5.0&gt;-&lt;315.0,-4.0&gt;&gt;/B&lt;&lt;315.0,-4.0&gt;-&lt;293.0,-10.0&gt;-&lt;270.0,-10.0&gt;&gt; = 3.1798301198640497
 
 * uni0266.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
@@ -11745,21 +11683,21 @@ definitions.</p>
 
 * uni02B0 (U+02B0): B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni02B0.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni02B0.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
 * uni02B7 (U+02B7): B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
 * uni1D5B (U+1D5B): B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1DBB.BRACKET.varAlt02: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
+* uni1DBB.BRACKET.varAlt01: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
 
-* uni1E00.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1E00.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1E00.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1E00.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1E00.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1E00.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1E00.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1E00.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
 * uni1E08 (U+1E08): B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
@@ -11769,23 +11707,23 @@ definitions.</p>
 
 * uni1E23 (U+1E23): B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E23.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni1E23.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
 * uni1E25 (U+1E25): B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E25.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni1E25.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
 * uni1E27 (U+1E27): B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E27.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni1E27.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
 * uni1E29 (U+1E29): B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E29.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni1E29.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
 * uni1E2B (U+1E2B): B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E2B.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uni1E2B.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
 * uni1E7D (U+1E7D): B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
@@ -11805,111 +11743,111 @@ definitions.</p>
 
 * uni1E8E (U+1E8E): B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni1E91.BRACKET.varAlt02: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
+* uni1E91.BRACKET.varAlt01: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
 
-* uni1E93.BRACKET.varAlt02: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
+* uni1E93.BRACKET.varAlt01: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
 
-* uni1E95.BRACKET.varAlt02: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
+* uni1E95.BRACKET.varAlt01: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
 
 * uni1E9E (U+1E9E): B&lt;&lt;425.5,340.0&gt;-&lt;407.0,373.0&gt;-&lt;361.0,383.0&gt;&gt;/L&lt;&lt;361.0,383.0&gt;--&lt;361.0,383.0&gt;&gt; = 12.2647737278924
 
 * uni1E9E (U+1E9E): L&lt;&lt;361.0,383.0&gt;--&lt;361.0,383.0&gt;&gt;/B&lt;&lt;361.0,383.0&gt;-&lt;338.0,387.0&gt;-&lt;317.0,387.0&gt;&gt; = 9.865806943084365
 
-* uni1EA0.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EA0.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EA0.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EA0.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EA0.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EA0.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EA0.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EA0.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EA2.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EA2.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EA2.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EA2.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EA2.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EA2.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EA2.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EA2.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EA4.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EA4.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EA4.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EA4.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EA4.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EA4.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EA4.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EA4.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EA6.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EA6.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EA6.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EA6.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EA6.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EA6.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EA6.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EA6.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EA8.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EA8.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EA8.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EA8.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EA8.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EA8.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EA8.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EA8.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EAA.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EAA.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EAA.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EAA.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EAA.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EAA.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EAA.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EAA.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EAC.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EAC.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EAC.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EAC.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EAC.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EAC.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EAC.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EAC.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EAE.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EAE.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EAE.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EAE.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EAE.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EAE.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EAE.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EAE.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EB0.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EB0.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EB0.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EB0.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EB0.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EB0.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EB0.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EB0.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EB2.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EB2.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EB2.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EB2.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EB2.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EB2.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EB2.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EB2.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EB4.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EB4.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EB4.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EB4.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EB4.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EB4.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EB4.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EB4.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
-* uni1EB6.BRACKET.varAlt02: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
+* uni1EB6.BRACKET.varAlt01: B&lt;&lt;208.0,493.0&gt;-&lt;212.0,486.0&gt;-&lt;211.0,481.0&gt;&gt;/L&lt;&lt;211.0,481.0&gt;--&lt;240.0,560.0&gt;&gt; = 8.84767842052459
 
-* uni1EB6.BRACKET.varAlt02: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
+* uni1EB6.BRACKET.varAlt01: B&lt;&lt;410.0,468.0&gt;-&lt;405.0,472.0&gt;-&lt;403.0,477.0&gt;&gt;/L&lt;&lt;403.0,477.0&gt;--&lt;421.0,425.0&gt;&gt; = 2.707917485866095
 
-* uni1EB6.BRACKET.varAlt02: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
+* uni1EB6.BRACKET.varAlt01: L&lt;&lt;191.0,425.0&gt;--&lt;209.0,473.0&gt;&gt;/B&lt;&lt;209.0,473.0&gt;-&lt;207.0,470.0&gt;-&lt;203.0,468.0&gt;&gt; = 13.134022306396327
 
-* uni1EB6.BRACKET.varAlt02: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
+* uni1EB6.BRACKET.varAlt01: L&lt;&lt;372.0,560.0&gt;--&lt;402.0,478.0&gt;&gt;/B&lt;&lt;402.0,478.0&gt;-&lt;400.0,485.0&gt;-&lt;405.0,493.0&gt;&gt; = 4.149835290981973
 
 * uni1EF4 (U+1EF4): B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
@@ -11919,11 +11857,11 @@ definitions.</p>
 
 * uni2076 (U+2076): B&lt;&lt;68.5,154.5&gt;-&lt;68.0,156.0&gt;-&lt;69.0,154.0&gt;&gt;/B&lt;&lt;69.0,154.0&gt;-&lt;57.0,192.0&gt;-&lt;52.5,233.5&gt;&gt; = 9.039482803355057
 
-* uni2076.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
+* uni2076.BRACKET.varAlt02: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
-* uni2078.BRACKET.varAlt02: L&lt;&lt;196.0,423.0&gt;--&lt;173.0,439.0&gt;&gt;/B&lt;&lt;173.0,439.0&gt;-&lt;197.0,412.0&gt;-&lt;237.0,397.0&gt;&gt; = 13.54197150647295
+* uni2078.BRACKET.varAlt01: L&lt;&lt;196.0,423.0&gt;--&lt;173.0,439.0&gt;&gt;/B&lt;&lt;173.0,439.0&gt;-&lt;197.0,412.0&gt;-&lt;237.0,397.0&gt;&gt; = 13.54197150647295
 
-* uni2078.BRACKET.varAlt02: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
+* uni2078.BRACKET.varAlt01: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
 
 * uni2083 (U+2083): B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
 
@@ -11931,11 +11869,11 @@ definitions.</p>
 
 * uni2086 (U+2086): B&lt;&lt;68.5,154.5&gt;-&lt;68.0,156.0&gt;-&lt;69.0,154.0&gt;&gt;/B&lt;&lt;69.0,154.0&gt;-&lt;57.0,192.0&gt;-&lt;52.5,233.5&gt;&gt; = 9.039482803355057
 
-* uni2086.BRACKET.varAlt01: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
+* uni2086.BRACKET.varAlt02: B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
-* uni2088.BRACKET.varAlt02: L&lt;&lt;196.0,423.0&gt;--&lt;173.0,439.0&gt;&gt;/B&lt;&lt;173.0,439.0&gt;-&lt;197.0,412.0&gt;-&lt;237.0,397.0&gt;&gt; = 13.54197150647295
+* uni2088.BRACKET.varAlt01: L&lt;&lt;196.0,423.0&gt;--&lt;173.0,439.0&gt;&gt;/B&lt;&lt;173.0,439.0&gt;-&lt;197.0,412.0&gt;-&lt;237.0,397.0&gt;&gt; = 13.54197150647295
 
-* uni2088.BRACKET.varAlt02: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
+* uni2088.BRACKET.varAlt01: L&lt;&lt;430.0,276.0&gt;--&lt;438.0,270.0&gt;&gt;/B&lt;&lt;438.0,270.0&gt;-&lt;413.0,294.0&gt;-&lt;375.0,309.0&gt;&gt; = 6.960963026248534
 
 * uni20B2 (U+20B2): B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
@@ -11947,7 +11885,7 @@ definitions.</p>
 
 * uniA727 (U+A727): B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uniA727.BRACKET.varAlt01: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
+* uniA727.BRACKET.varAlt02: B&lt;&lt;267.0,505.0&gt;-&lt;268.0,505.0&gt;-&lt;265.0,504.0&gt;&gt;/B&lt;&lt;265.0,504.0&gt;-&lt;287.0,510.0&gt;-&lt;310.0,510.0&gt;&gt; = 3.1798301198640497
 
 * uniA7B3 (U+A7B3): B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
 
@@ -11969,11 +11907,11 @@ definitions.</p>
 
 * z.BRACKET.varAlt02: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
 
-* zacute.BRACKET.varAlt02: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
+* zacute.BRACKET.varAlt01: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
 
-* zcaron.BRACKET.varAlt02: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
+* zcaron.BRACKET.varAlt01: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
 
-* zdotaccent.BRACKET.varAlt02: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
+* zdotaccent.BRACKET.varAlt01: L&lt;&lt;380.0,230.0&gt;--&lt;307.0,243.0&gt;&gt;/L&lt;&lt;307.0,243.0&gt;--&lt;307.0,243.0&gt;&gt; = 10.09750438407527
 </code></pre>
  [code: found-jaggy-segments]
 
@@ -11995,27 +11933,27 @@ definitions.</p>
 * ⚠️ **WARN** <p>The following glyphs have semi-vertical/semi-horizontal lines:</p>
 <pre><code>* f (U+0066): L&lt;&lt;165.0,192.0&gt;--&lt;164.0,35.0&gt;&gt;
 
-* ij.BRACKET.varAlt01: L&lt;&lt;374.0,-142.0&gt;--&lt;375.0,110.0&gt;&gt;
+* ij.BRACKET.varAlt01: L&lt;&lt;374.0,-142.0&gt;--&lt;375.0,93.0&gt;&gt;
 
-* ij.BRACKET.varAlt02: L&lt;&lt;374.0,-142.0&gt;--&lt;375.0,93.0&gt;&gt;
+* ij.BRACKET.varAlt01: L&lt;&lt;376.0,337.0&gt;--&lt;377.0,452.0&gt;&gt;
 
-* ij.BRACKET.varAlt02: L&lt;&lt;376.0,337.0&gt;--&lt;377.0,452.0&gt;&gt;
+* ij.BRACKET.varAlt02: L&lt;&lt;374.0,-142.0&gt;--&lt;375.0,110.0&gt;&gt;
 
-* j.BRACKET.varAlt01: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,110.0&gt;&gt;
+* j.BRACKET.varAlt01: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,93.0&gt;&gt;
 
-* j.BRACKET.varAlt02: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,93.0&gt;&gt;
+* j.BRACKET.varAlt01: L&lt;&lt;150.0,337.0&gt;--&lt;151.0,452.0&gt;&gt;
 
-* j.BRACKET.varAlt02: L&lt;&lt;150.0,337.0&gt;--&lt;151.0,452.0&gt;&gt;
+* j.BRACKET.varAlt02: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,110.0&gt;&gt;
 
 * sterling.BRACKET.varAlt01: L&lt;&lt;450.0,326.0&gt;--&lt;232.0,327.0&gt;&gt;
 
 * sterling.BRACKET.varAlt02: L&lt;&lt;450.0,326.0&gt;--&lt;232.0,327.0&gt;&gt;
 
-* uni006A0301.BRACKET.varAlt01: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,110.0&gt;&gt;
+* uni006A0301.BRACKET.varAlt01: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,93.0&gt;&gt;
 
-* uni006A0301.BRACKET.varAlt02: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,93.0&gt;&gt;
+* uni006A0301.BRACKET.varAlt01: L&lt;&lt;150.0,337.0&gt;--&lt;151.0,452.0&gt;&gt;
 
-* uni006A0301.BRACKET.varAlt02: L&lt;&lt;150.0,337.0&gt;--&lt;151.0,452.0&gt;&gt;
+* uni006A0301.BRACKET.varAlt02: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,110.0&gt;&gt;
 
 * uni0237.BRACKET.varAlt01: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,110.0&gt;&gt;
 
@@ -12799,11 +12737,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">bkm_Latn (Kom)</td>
-<td align="left">Shaper didn't attach uni0302 to AE</td>
+<td align="left">Shaper didn't attach gravecomb to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to AE</td>
+<td align="left">Shaper didn't attach uni0302 to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -16203,15 +16141,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uni026A</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -17716,15 +17654,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">tik_Latn (Tikar)</td>
+<td align="left">Shaper didn't attach gravecomb to AE</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to AE</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -18291,6 +18229,10 @@ definitions.</p>
 
 - Eng.BRACKET.varAlt02
 
+- Eng.loclNSM.BRACKET.varAlt01
+
+- Eng.loclNSM.BRACKET.varAlt02
+
 - Eogonek.BRACKET.varAlt01
 
 - Eogonek.BRACKET.varAlt02
@@ -18791,19 +18733,13 @@ definitions.</p>
 
 - eight.BRACKET.varAlt02
 
-- eight.dnom
-
 - eight.dnom.BRACKET.varAlt01
 
 - eight.dnom.BRACKET.varAlt02
 
-- eight.numr
-
 - eight.numr.BRACKET.varAlt01
 
 - eight.numr.BRACKET.varAlt02
-
-- eight.tf
 
 - eight.tf.BRACKET.varAlt01
 
@@ -18841,19 +18777,13 @@ definitions.</p>
 
 - five.BRACKET.varAlt02
 
-- five.dnom
-
 - five.dnom.BRACKET.varAlt01
 
 - five.dnom.BRACKET.varAlt02
 
-- five.numr
-
 - five.numr.BRACKET.varAlt01
 
 - five.numr.BRACKET.varAlt02
-
-- five.tf
 
 - five.tf.BRACKET.varAlt01
 
@@ -18863,19 +18793,13 @@ definitions.</p>
 
 - four.BRACKET.varAlt02
 
-- four.dnom
-
 - four.dnom.BRACKET.varAlt01
 
 - four.dnom.BRACKET.varAlt02
 
-- four.numr
-
 - four.numr.BRACKET.varAlt01
 
 - four.numr.BRACKET.varAlt02
-
-- four.tf
 
 - four.tf.BRACKET.varAlt01
 
@@ -18916,8 +18840,6 @@ definitions.</p>
 - i.BRACKET.varAlt01
 
 - i.BRACKET.varAlt02
-
-- i.loclTRK
 
 - i.loclTRK.BRACKET.varAlt01
 
@@ -19003,19 +18925,13 @@ definitions.</p>
 
 - nine.BRACKET.varAlt02
 
-- nine.dnom
-
 - nine.dnom.BRACKET.varAlt01
 
 - nine.dnom.BRACKET.varAlt02
 
-- nine.numr
-
 - nine.numr.BRACKET.varAlt01
 
 - nine.numr.BRACKET.varAlt02
-
-- nine.tf
 
 - nine.tf.BRACKET.varAlt01
 
@@ -19069,19 +18985,13 @@ definitions.</p>
 
 - one.BRACKET.varAlt02
 
-- one.dnom
-
 - one.dnom.BRACKET.varAlt01
 
 - one.dnom.BRACKET.varAlt02
 
-- one.numr
-
 - one.numr.BRACKET.varAlt01
 
 - one.numr.BRACKET.varAlt02
-
-- one.tf
 
 - one.tf.BRACKET.varAlt01
 
@@ -19171,19 +19081,13 @@ definitions.</p>
 
 - seven.BRACKET.varAlt02
 
-- seven.dnom
-
 - seven.dnom.BRACKET.varAlt01
 
 - seven.dnom.BRACKET.varAlt02
 
-- seven.numr
-
 - seven.numr.BRACKET.varAlt01
 
 - seven.numr.BRACKET.varAlt02
-
-- seven.tf
 
 - seven.tf.BRACKET.varAlt01
 
@@ -19193,19 +19097,13 @@ definitions.</p>
 
 - six.BRACKET.varAlt02
 
-- six.dnom
-
 - six.dnom.BRACKET.varAlt01
 
 - six.dnom.BRACKET.varAlt02
 
-- six.numr
-
 - six.numr.BRACKET.varAlt01
 
 - six.numr.BRACKET.varAlt02
-
-- six.tf
 
 - six.tf.BRACKET.varAlt01
 
@@ -19231,19 +19129,13 @@ definitions.</p>
 
 - three.BRACKET.varAlt02
 
-- three.dnom
-
 - three.dnom.BRACKET.varAlt01
 
 - three.dnom.BRACKET.varAlt02
 
-- three.numr
-
 - three.numr.BRACKET.varAlt01
 
 - three.numr.BRACKET.varAlt02
-
-- three.tf
 
 - three.tf.BRACKET.varAlt01
 
@@ -19257,19 +19149,13 @@ definitions.</p>
 
 - two.BRACKET.varAlt02
 
-- two.dnom
-
 - two.dnom.BRACKET.varAlt01
 
 - two.dnom.BRACKET.varAlt02
 
-- two.numr
-
 - two.numr.BRACKET.varAlt01
 
 - two.numr.BRACKET.varAlt02
-
-- two.tf
 
 - two.tf.BRACKET.varAlt01
 
@@ -19311,13 +19197,9 @@ definitions.</p>
 
 - umacron.BRACKET.varAlt02
 
-- uni004A0301
-
 - uni004A0301.BRACKET.varAlt01
 
 - uni004A0301.BRACKET.varAlt02
-
-- uni006A0301
 
 - uni006A0301.BRACKET.varAlt01
 
@@ -21383,25 +21265,17 @@ definitions.</p>
 
 - zero.BRACKET.varAlt02
 
-- zero.dnom
-
 - zero.dnom.BRACKET.varAlt01
 
 - zero.dnom.BRACKET.varAlt02
-
-- zero.numr
 
 - zero.numr.BRACKET.varAlt01
 
 - zero.numr.BRACKET.varAlt02
 
-- zero.tf
-
 - zero.tf.BRACKET.varAlt01
 
 - zero.tf.BRACKET.varAlt02
-
-- zero.zero
 
 - zero.zero.BRACKET.varAlt01
 
@@ -21470,9 +21344,9 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, malayalam, tifinagh, hebrew, syriac, math, duployan, tai-le, old-permic, coptic, todhri</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, tifinagh, malayalam, todhri, coptic, old-permic, syriac, math, hebrew, tai-le, duployan</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -21489,13 +21363,13 @@ definitions.</p>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, sunuwar, cherokee, tifinagh, syriac, caucasian-albanian, thai</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: thai, tifinagh, sunuwar, cherokee, gothic, caucasian-albanian, syriac</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -21525,14 +21399,14 @@ definitions.</p>
 <li>U+212E ESTIMATED SYMBOL: try adding math</li>
 <li>U+2153 VULGAR FRACTION ONE THIRD: try adding symbols</li>
 <li>U+2154 VULGAR FRACTION TWO THIRDS: try adding symbols</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -21547,7 +21421,7 @@ definitions.</p>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: hanunoo, modi, buhid, saurashtra, sundanese, hanifi-rohingya, coptic, marchen, new-tai-lue, lao, bassa-vah, oriya, tai-le, wancho, manichaean, meetei-mayek, balinese, lepcha, symbols, miao, limbu, ahom, mende-kikakui, cham, sogdian, kayah-li, yi, gunjala-gondi, pahawh-hmong, tagbanwa, devanagari, sinhala, caucasian-albanian, myanmar, math, javanese, tai-viet, buginese, hebrew, nko, khmer, malayalam, grantha, zanabazar-square, armenian, tibetan, telugu, bengali, mahajani, masaram-gondi, warang-citi, syloti-nagri, phags-pa, music, old-permic, gujarati, mongolian, canadian-aboriginal, tagalog, kharoshthi, tirhuta, sharada, thai, soyombo, khojki, chakma, siddham, newa, duployan, gurmukhi, psalter-pahlavi, kaithi, mandaic, takri, bhaiksuki, batak, tai-tham, tifinagh, syriac, adlam, rejang, tamil, khudawadi, kannada, thaana, brahmi, osage, dogra, elbasan</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: newa, buginese, syriac, math, sundanese, buhid, chakma, mende-kikakui, tagbanwa, saurashtra, oriya, armenian, cham, music, tibetan, sinhala, thai, tifinagh, lao, myanmar, kayah-li, khmer, miao, mahajani, masaram-gondi, tirhuta, batak, hanunoo, phags-pa, yi, sogdian, brahmi, gurmukhi, pahawh-hmong, limbu, warang-citi, osage, javanese, rejang, tai-le, tamil, psalter-pahlavi, ahom, old-permic, dogra, nko, tagalog, siddham, coptic, modi, zanabazar-square, meetei-mayek, hebrew, takri, kaithi, caucasian-albanian, wancho, manichaean, devanagari, symbols, gunjala-gondi, balinese, gujarati, mandaic, lepcha, new-tai-lue, duployan, telugu, mongolian, malayalam, tai-tham, hanifi-rohingya, kharoshthi, tai-viet, marchen, canadian-aboriginal, bassa-vah, bhaiksuki, khudawadi, thaana, elbasan, khojki, grantha, sharada, bengali, syloti-nagri, soyombo, kannada, adlam</li>
 <li>U+263A WHITE SMILING FACE: try adding symbols</li>
 <li>U+2648 ARIES: try adding symbols</li>
 <li>U+2649 TAURUS: try adding symbols</li>
@@ -21616,8 +21490,8 @@ definitions.</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i᷆ i᷇</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷄ i᷅ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̥᷄ i̥᷅ i̥᷆ i̥᷇ i̦᷄ i̦᷅ i̦᷆ i̦᷇ i̧᷄ i̧᷅ i̧᷆ i̧᷇ i̩᷄ i̩᷅</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Mango (Latn, 77,000 speakers), Dutch (Latn, 31,709,104 speakers), Zapotec (Latn, 490,000 speakers), Ma’di (Latn, 584,000 speakers), Yala (Latn, 200,000 speakers), Han (Latn, 6 speakers), Sar (Latn, 500,000 speakers), Nzakara (Latn, 50,000 speakers), Navajo (Latn, 166,319 speakers), Lithuanian (Latn, 2,357,094 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Gulay (Latn, 250,478 speakers), Ngbaka (Latn, 1,020,000 speakers), Cicipu (Latn, 44,000 speakers), Ekpeye (Latn, 226,000 speakers), Ebira (Latn, 2,200,000 speakers), South Central Banda (Latn, 244,000 speakers), Kaska (Latn, 125 speakers), Bete-Bendi (Latn, 100,000 speakers), Nateni (Latn, 100,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Mundani (Latn, 34,000 speakers), Dan (Latn, 1,099,244 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Makaa (Latn, 221,000 speakers), Bafut (Latn, 158,146 speakers), Aghem (Latn, 38,843 speakers), Fur (Latn, 1,230,163 speakers), Avokaya (Latn, 100,000 speakers), Koonzime (Latn, 40,000 speakers), Lugbara (Latn, 2,200,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Igbo (Latn, 27,823,640 speakers), Dii (Latn, 71,000 speakers), Ejagham (Latn, 120,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Vute (Latn, 21,000 speakers), Basaa (Latn, 332,940 speakers), Southern Kisi (Latn, 360,000 speakers), Mfumte (Latn, 79,000 speakers), Teke-Ebo (Latn, 260,000 speakers), Kom (Latn, 360,685 speakers), Heiltsuk (Latn, 300 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Navajo (Latn, 166,319 speakers), Kaska (Latn, 125 speakers), Bete-Bendi (Latn, 100,000 speakers), Dutch (Latn, 31,709,104 speakers), Yala (Latn, 200,000 speakers), Nateni (Latn, 100,000 speakers), Cicipu (Latn, 44,000 speakers), Nzakara (Latn, 50,000 speakers), Gulay (Latn, 250,478 speakers), Lithuanian (Latn, 2,357,094 speakers), Ebira (Latn, 2,200,000 speakers), Ma’di (Latn, 584,000 speakers), Mango (Latn, 77,000 speakers), Ngbaka (Latn, 1,020,000 speakers), South Central Banda (Latn, 244,000 speakers), Zapotec (Latn, 490,000 speakers), Ekpeye (Latn, 226,000 speakers), Sar (Latn, 500,000 speakers), Han (Latn, 6 speakers), Ijo, Southeast (Latn, 2,471,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ukrainian (Cyrl, 29,273,587 speakers), Teke-Ebo (Latn, 260,000 speakers), Dii (Latn, 71,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Makaa (Latn, 221,000 speakers), Heiltsuk (Latn, 300 speakers), Southern Kisi (Latn, 360,000 speakers), Mundani (Latn, 34,000 speakers), Bafut (Latn, 158,146 speakers), Kom (Latn, 360,685 speakers), Dan (Latn, 1,099,244 speakers), Mfumte (Latn, 79,000 speakers), Fur (Latn, 1,230,163 speakers), Aghem (Latn, 38,843 speakers), Lugbara (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Ejagham (Latn, 120,000 speakers), Avokaya (Latn, 100,000 speakers), Vute (Latn, 21,000 speakers), Belarusian (Cyrl, 10,064,517 speakers).</p>
  [code: soft-dotted]
 
 
@@ -21655,6 +21529,8 @@ definitions.</p>
 * Cdotaccent.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
 * Cdotaccent.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+
+* Eng.loclNSM.BRACKET.varAlt01: B&lt;&lt;322.0,707.0&gt;-&lt;323.0,707.0&gt;-&lt;322.0,707.0&gt;&gt;/B&lt;&lt;322.0,707.0&gt;-&lt;344.0,710.0&gt;-&lt;364.0,710.0&gt;&gt; = 7.765166018425308
 
 * G.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
@@ -23412,11 +23288,11 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">bkm_Latn (Kom)</td>
-<td align="left">Shaper didn't attach uni0302 to AE</td>
+<td align="left">Shaper didn't attach gravecomb to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to AE</td>
+<td align="left">Shaper didn't attach uni0302 to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -26816,15 +26692,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kzc_Latn (Bondoukou Kulango)</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
-</tr>
-<tr>
-<td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uni026A</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -28329,15 +28205,15 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">tik_Latn (Tikar)</td>
+<td align="left">Shaper didn't attach gravecomb to AE</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper didn't attach uni0302 to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to AE</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach gravecomb to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -28904,6 +28780,10 @@ definitions.</p>
 
 - Eng.BRACKET.varAlt02
 
+- Eng.loclNSM.BRACKET.varAlt01
+
+- Eng.loclNSM.BRACKET.varAlt02
+
 - Eogonek.BRACKET.varAlt01
 
 - Eogonek.BRACKET.varAlt02
@@ -29404,19 +29284,13 @@ definitions.</p>
 
 - eight.BRACKET.varAlt02
 
-- eight.dnom
-
 - eight.dnom.BRACKET.varAlt01
 
 - eight.dnom.BRACKET.varAlt02
 
-- eight.numr
-
 - eight.numr.BRACKET.varAlt01
 
 - eight.numr.BRACKET.varAlt02
-
-- eight.tf
 
 - eight.tf.BRACKET.varAlt01
 
@@ -29454,19 +29328,13 @@ definitions.</p>
 
 - five.BRACKET.varAlt02
 
-- five.dnom
-
 - five.dnom.BRACKET.varAlt01
 
 - five.dnom.BRACKET.varAlt02
 
-- five.numr
-
 - five.numr.BRACKET.varAlt01
 
 - five.numr.BRACKET.varAlt02
-
-- five.tf
 
 - five.tf.BRACKET.varAlt01
 
@@ -29476,19 +29344,13 @@ definitions.</p>
 
 - four.BRACKET.varAlt02
 
-- four.dnom
-
 - four.dnom.BRACKET.varAlt01
 
 - four.dnom.BRACKET.varAlt02
 
-- four.numr
-
 - four.numr.BRACKET.varAlt01
 
 - four.numr.BRACKET.varAlt02
-
-- four.tf
 
 - four.tf.BRACKET.varAlt01
 
@@ -29529,8 +29391,6 @@ definitions.</p>
 - i.BRACKET.varAlt01
 
 - i.BRACKET.varAlt02
-
-- i.loclTRK
 
 - i.loclTRK.BRACKET.varAlt01
 
@@ -29616,19 +29476,13 @@ definitions.</p>
 
 - nine.BRACKET.varAlt02
 
-- nine.dnom
-
 - nine.dnom.BRACKET.varAlt01
 
 - nine.dnom.BRACKET.varAlt02
 
-- nine.numr
-
 - nine.numr.BRACKET.varAlt01
 
 - nine.numr.BRACKET.varAlt02
-
-- nine.tf
 
 - nine.tf.BRACKET.varAlt01
 
@@ -29682,19 +29536,13 @@ definitions.</p>
 
 - one.BRACKET.varAlt02
 
-- one.dnom
-
 - one.dnom.BRACKET.varAlt01
 
 - one.dnom.BRACKET.varAlt02
 
-- one.numr
-
 - one.numr.BRACKET.varAlt01
 
 - one.numr.BRACKET.varAlt02
-
-- one.tf
 
 - one.tf.BRACKET.varAlt01
 
@@ -29784,19 +29632,13 @@ definitions.</p>
 
 - seven.BRACKET.varAlt02
 
-- seven.dnom
-
 - seven.dnom.BRACKET.varAlt01
 
 - seven.dnom.BRACKET.varAlt02
 
-- seven.numr
-
 - seven.numr.BRACKET.varAlt01
 
 - seven.numr.BRACKET.varAlt02
-
-- seven.tf
 
 - seven.tf.BRACKET.varAlt01
 
@@ -29806,19 +29648,13 @@ definitions.</p>
 
 - six.BRACKET.varAlt02
 
-- six.dnom
-
 - six.dnom.BRACKET.varAlt01
 
 - six.dnom.BRACKET.varAlt02
 
-- six.numr
-
 - six.numr.BRACKET.varAlt01
 
 - six.numr.BRACKET.varAlt02
-
-- six.tf
 
 - six.tf.BRACKET.varAlt01
 
@@ -29844,19 +29680,13 @@ definitions.</p>
 
 - three.BRACKET.varAlt02
 
-- three.dnom
-
 - three.dnom.BRACKET.varAlt01
 
 - three.dnom.BRACKET.varAlt02
 
-- three.numr
-
 - three.numr.BRACKET.varAlt01
 
 - three.numr.BRACKET.varAlt02
-
-- three.tf
 
 - three.tf.BRACKET.varAlt01
 
@@ -29870,19 +29700,13 @@ definitions.</p>
 
 - two.BRACKET.varAlt02
 
-- two.dnom
-
 - two.dnom.BRACKET.varAlt01
 
 - two.dnom.BRACKET.varAlt02
 
-- two.numr
-
 - two.numr.BRACKET.varAlt01
 
 - two.numr.BRACKET.varAlt02
-
-- two.tf
 
 - two.tf.BRACKET.varAlt01
 
@@ -29924,13 +29748,9 @@ definitions.</p>
 
 - umacron.BRACKET.varAlt02
 
-- uni004A0301
-
 - uni004A0301.BRACKET.varAlt01
 
 - uni004A0301.BRACKET.varAlt02
-
-- uni006A0301
 
 - uni006A0301.BRACKET.varAlt01
 
@@ -31996,25 +31816,17 @@ definitions.</p>
 
 - zero.BRACKET.varAlt02
 
-- zero.dnom
-
 - zero.dnom.BRACKET.varAlt01
 
 - zero.dnom.BRACKET.varAlt02
-
-- zero.numr
 
 - zero.numr.BRACKET.varAlt01
 
 - zero.numr.BRACKET.varAlt02
 
-- zero.tf
-
 - zero.tf.BRACKET.varAlt01
 
 - zero.tf.BRACKET.varAlt02
-
-- zero.zero
 
 - zero.zero.BRACKET.varAlt01
 
@@ -32083,9 +31895,9 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, malayalam, tifinagh, hebrew, syriac, math, duployan, tai-le, old-permic, coptic, todhri</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, tifinagh, malayalam, todhri, coptic, old-permic, syriac, math, hebrew, tai-le, duployan</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
@@ -32102,13 +31914,13 @@ definitions.</p>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, sunuwar, cherokee, tifinagh, syriac, caucasian-albanian, thai</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: thai, tifinagh, sunuwar, cherokee, gothic, caucasian-albanian, syriac</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, math, yi</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -32138,14 +31950,14 @@ definitions.</p>
 <li>U+212E ESTIMATED SYMBOL: try adding math</li>
 <li>U+2153 VULGAR FRACTION ONE THIRD: try adding symbols</li>
 <li>U+2154 VULGAR FRACTION TWO THIRDS: try adding symbols</li>
-<li>U+2190 LEFTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2192 RIGHTWARDS ARROW: try adding one of: math, symbols</li>
-<li>U+2194 LEFT RIGHT ARROW: try adding one of: math, symbols</li>
-<li>U+2195 UP DOWN ARROW: try adding one of: math, symbols</li>
-<li>U+2196 NORTH WEST ARROW: try adding one of: math, symbols</li>
-<li>U+2197 NORTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2198 SOUTH EAST ARROW: try adding one of: math, symbols</li>
-<li>U+2199 SOUTH WEST ARROW: try adding one of: math, symbols</li>
+<li>U+2190 LEFTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2192 RIGHTWARDS ARROW: try adding one of: symbols, math</li>
+<li>U+2194 LEFT RIGHT ARROW: try adding one of: symbols, math</li>
+<li>U+2195 UP DOWN ARROW: try adding one of: symbols, math</li>
+<li>U+2196 NORTH WEST ARROW: try adding one of: symbols, math</li>
+<li>U+2197 NORTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2198 SOUTH EAST ARROW: try adding one of: symbols, math</li>
+<li>U+2199 SOUTH WEST ARROW: try adding one of: symbols, math</li>
 <li>U+2202 PARTIAL DIFFERENTIAL: try adding math</li>
 <li>U+2205 EMPTY SET: try adding math</li>
 <li>U+2206 INCREMENT: try adding math</li>
@@ -32160,7 +31972,7 @@ definitions.</p>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: hanunoo, modi, buhid, saurashtra, sundanese, hanifi-rohingya, coptic, marchen, new-tai-lue, lao, bassa-vah, oriya, tai-le, wancho, manichaean, meetei-mayek, balinese, lepcha, symbols, miao, limbu, ahom, mende-kikakui, cham, sogdian, kayah-li, yi, gunjala-gondi, pahawh-hmong, tagbanwa, devanagari, sinhala, caucasian-albanian, myanmar, math, javanese, tai-viet, buginese, hebrew, nko, khmer, malayalam, grantha, zanabazar-square, armenian, tibetan, telugu, bengali, mahajani, masaram-gondi, warang-citi, syloti-nagri, phags-pa, music, old-permic, gujarati, mongolian, canadian-aboriginal, tagalog, kharoshthi, tirhuta, sharada, thai, soyombo, khojki, chakma, siddham, newa, duployan, gurmukhi, psalter-pahlavi, kaithi, mandaic, takri, bhaiksuki, batak, tai-tham, tifinagh, syriac, adlam, rejang, tamil, khudawadi, kannada, thaana, brahmi, osage, dogra, elbasan</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: newa, buginese, syriac, math, sundanese, buhid, chakma, mende-kikakui, tagbanwa, saurashtra, oriya, armenian, cham, music, tibetan, sinhala, thai, tifinagh, lao, myanmar, kayah-li, khmer, miao, mahajani, masaram-gondi, tirhuta, batak, hanunoo, phags-pa, yi, sogdian, brahmi, gurmukhi, pahawh-hmong, limbu, warang-citi, osage, javanese, rejang, tai-le, tamil, psalter-pahlavi, ahom, old-permic, dogra, nko, tagalog, siddham, coptic, modi, zanabazar-square, meetei-mayek, hebrew, takri, kaithi, caucasian-albanian, wancho, manichaean, devanagari, symbols, gunjala-gondi, balinese, gujarati, mandaic, lepcha, new-tai-lue, duployan, telugu, mongolian, malayalam, tai-tham, hanifi-rohingya, kharoshthi, tai-viet, marchen, canadian-aboriginal, bassa-vah, bhaiksuki, khudawadi, thaana, elbasan, khojki, grantha, sharada, bengali, syloti-nagri, soyombo, kannada, adlam</li>
 <li>U+263A WHITE SMILING FACE: try adding symbols</li>
 <li>U+2648 ARIES: try adding symbols</li>
 <li>U+2649 TAURUS: try adding symbols</li>
@@ -32229,8 +32041,8 @@ definitions.</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i᷆ i᷇</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷄ i᷅ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̥᷄ i̥᷅ i̥᷆ i̥᷇ i̦᷄ i̦᷅ i̦᷆ i̦᷇ i̧᷄ i̧᷅ i̧᷆ i̧᷇ i̩᷄ i̩᷅</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Mango (Latn, 77,000 speakers), Dutch (Latn, 31,709,104 speakers), Zapotec (Latn, 490,000 speakers), Ma’di (Latn, 584,000 speakers), Yala (Latn, 200,000 speakers), Han (Latn, 6 speakers), Sar (Latn, 500,000 speakers), Nzakara (Latn, 50,000 speakers), Navajo (Latn, 166,319 speakers), Lithuanian (Latn, 2,357,094 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Gulay (Latn, 250,478 speakers), Ngbaka (Latn, 1,020,000 speakers), Cicipu (Latn, 44,000 speakers), Ekpeye (Latn, 226,000 speakers), Ebira (Latn, 2,200,000 speakers), South Central Banda (Latn, 244,000 speakers), Kaska (Latn, 125 speakers), Bete-Bendi (Latn, 100,000 speakers), Nateni (Latn, 100,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Mundani (Latn, 34,000 speakers), Dan (Latn, 1,099,244 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Makaa (Latn, 221,000 speakers), Bafut (Latn, 158,146 speakers), Aghem (Latn, 38,843 speakers), Fur (Latn, 1,230,163 speakers), Avokaya (Latn, 100,000 speakers), Koonzime (Latn, 40,000 speakers), Lugbara (Latn, 2,200,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Igbo (Latn, 27,823,640 speakers), Dii (Latn, 71,000 speakers), Ejagham (Latn, 120,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Vute (Latn, 21,000 speakers), Basaa (Latn, 332,940 speakers), Southern Kisi (Latn, 360,000 speakers), Mfumte (Latn, 79,000 speakers), Teke-Ebo (Latn, 260,000 speakers), Kom (Latn, 360,685 speakers), Heiltsuk (Latn, 300 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Navajo (Latn, 166,319 speakers), Kaska (Latn, 125 speakers), Bete-Bendi (Latn, 100,000 speakers), Dutch (Latn, 31,709,104 speakers), Yala (Latn, 200,000 speakers), Nateni (Latn, 100,000 speakers), Cicipu (Latn, 44,000 speakers), Nzakara (Latn, 50,000 speakers), Gulay (Latn, 250,478 speakers), Lithuanian (Latn, 2,357,094 speakers), Ebira (Latn, 2,200,000 speakers), Ma’di (Latn, 584,000 speakers), Mango (Latn, 77,000 speakers), Ngbaka (Latn, 1,020,000 speakers), South Central Banda (Latn, 244,000 speakers), Zapotec (Latn, 490,000 speakers), Ekpeye (Latn, 226,000 speakers), Sar (Latn, 500,000 speakers), Han (Latn, 6 speakers), Ijo, Southeast (Latn, 2,471,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ukrainian (Cyrl, 29,273,587 speakers), Teke-Ebo (Latn, 260,000 speakers), Dii (Latn, 71,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Makaa (Latn, 221,000 speakers), Heiltsuk (Latn, 300 speakers), Southern Kisi (Latn, 360,000 speakers), Mundani (Latn, 34,000 speakers), Bafut (Latn, 158,146 speakers), Kom (Latn, 360,685 speakers), Dan (Latn, 1,099,244 speakers), Mfumte (Latn, 79,000 speakers), Fur (Latn, 1,230,163 speakers), Aghem (Latn, 38,843 speakers), Lugbara (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Ejagham (Latn, 120,000 speakers), Avokaya (Latn, 100,000 speakers), Vute (Latn, 21,000 speakers), Belarusian (Cyrl, 10,064,517 speakers).</p>
  [code: soft-dotted]
 
 
@@ -32253,29 +32065,29 @@ definitions.</p>
 
 * C.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* Cacute.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Cacute.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Cacute.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* Cacute.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* Ccaron.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Ccaron.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Ccaron.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* Ccaron.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* Ccedilla.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Ccedilla.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Ccedilla.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* Ccedilla.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* Cdotaccent.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Cdotaccent.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Cdotaccent.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* Cdotaccent.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
 * G.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Gbreve.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Gbreve.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Gcaron.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Gcaron.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* Gdotaccent.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* Gdotaccent.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
 * O (U+004F): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
@@ -32305,27 +32117,27 @@ definitions.</p>
 
 * Y.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* Yacute.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* Yacute.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* Ycircumflex.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* Ycircumflex.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* Ydieresis.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* Ydieresis.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* Ygrave.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* Ygrave.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
 * h.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* hbar.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* hbar.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* less.BRACKET.varAlt01: B&lt;&lt;536.5,416.0&gt;-&lt;537.0,415.0&gt;-&lt;535.0,418.0&gt;&gt;/L&lt;&lt;535.0,418.0&gt;--&lt;536.0,416.0&gt;&gt; = 7.125016348901757
+* less.BRACKET.varAlt02: B&lt;&lt;536.5,416.0&gt;-&lt;537.0,415.0&gt;-&lt;535.0,418.0&gt;&gt;/L&lt;&lt;535.0,418.0&gt;--&lt;536.0,416.0&gt;&gt; = 7.125016348901757
 
 * lslash (U+0142): B&lt;&lt;91.0,298.0&gt;-&lt;91.0,309.0&gt;-&lt;99.0,313.0&gt;&gt;/L&lt;&lt;99.0,313.0&gt;--&lt;56.0,297.0&gt;&gt; = 6.155168343273977
 
 * lslash (U+0142): L&lt;&lt;129.0,324.0&gt;--&lt;103.0,314.0&gt;&gt;/L&lt;&lt;103.0,314.0&gt;--&lt;108.0,315.0&gt;&gt; = 9.72757855140155
 
-* lslash.BRACKET.varAlt01: B&lt;&lt;91.0,298.0&gt;-&lt;91.0,309.0&gt;-&lt;99.0,313.0&gt;&gt;/L&lt;&lt;99.0,313.0&gt;--&lt;56.0,297.0&gt;&gt; = 6.155168343273977
+* lslash.BRACKET.varAlt02: B&lt;&lt;91.0,298.0&gt;-&lt;91.0,309.0&gt;-&lt;99.0,313.0&gt;&gt;/L&lt;&lt;99.0,313.0&gt;--&lt;56.0,297.0&gt;&gt; = 6.155168343273977
 
-* lslash.BRACKET.varAlt01: L&lt;&lt;129.0,324.0&gt;--&lt;103.0,314.0&gt;&gt;/L&lt;&lt;103.0,314.0&gt;--&lt;108.0,315.0&gt;&gt; = 9.72757855140155
+* lslash.BRACKET.varAlt02: L&lt;&lt;129.0,324.0&gt;--&lt;103.0,314.0&gt;&gt;/L&lt;&lt;103.0,314.0&gt;--&lt;108.0,315.0&gt;&gt; = 9.72757855140155
 
 * oslash (U+00F8): L&lt;&lt;212.0,189.0&gt;--&lt;231.0,208.0&gt;&gt;/L&lt;&lt;231.0,208.0&gt;--&lt;212.0,195.0&gt;&gt; = 10.619655276155106
 
@@ -32347,35 +32159,35 @@ definitions.</p>
 
 * three.BRACKET.varAlt01: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
 
-* three.dnom.BRACKET.varAlt01: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
+* three.dnom.BRACKET.varAlt02: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
 
-* three.dnom.BRACKET.varAlt01: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
+* three.dnom.BRACKET.varAlt02: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
 
-* three.numr.BRACKET.varAlt01: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
+* three.numr.BRACKET.varAlt02: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
 
-* three.numr.BRACKET.varAlt01: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
+* three.numr.BRACKET.varAlt02: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
 
-* three.tf.BRACKET.varAlt01: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
+* three.tf.BRACKET.varAlt02: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
 
-* three.tf.BRACKET.varAlt01: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
+* three.tf.BRACKET.varAlt02: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
 
-* uni00B3.BRACKET.varAlt01: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
+* uni00B3.BRACKET.varAlt02: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
 
-* uni00B3.BRACKET.varAlt01: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
+* uni00B3.BRACKET.varAlt02: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
 
-* uni0122.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni0122.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
 * uni0186.BRACKET.varAlt01: B&lt;&lt;332.5,637.5&gt;-&lt;300.0,658.0&gt;-&lt;278.0,657.0&gt;&gt;/L&lt;&lt;278.0,657.0&gt;--&lt;278.0,657.0&gt;&gt; = 2.6025622024996635
 
 * uni0186.BRACKET.varAlt01: L&lt;&lt;278.0,657.0&gt;--&lt;278.0,657.0&gt;&gt;/B&lt;&lt;278.0,657.0&gt;-&lt;235.0,651.0&gt;-&lt;194.0,634.5&gt;&gt; = 7.943471810590413
 
-* uni0187.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni0187.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* uni0187.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* uni0187.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
 * uni0190.BRACKET.varAlt01: B&lt;&lt;380.0,361.0&gt;-&lt;353.0,361.0&gt;-&lt;329.0,358.0&gt;&gt;/L&lt;&lt;329.0,358.0&gt;--&lt;329.0,358.0&gt;&gt; = 7.125016348901757
 
-* uni0193.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni0193.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
 * uni019F (U+019F): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
@@ -32385,37 +32197,37 @@ definitions.</p>
 
 * uni01B7.BRACKET.varAlt01: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;252.0,392.0&gt;-&lt;227.0,392.0&gt;&gt; = 9.865806943084365
 
-* uni01B8.BRACKET.varAlt01: B&lt;&lt;343.0,392.0&gt;-&lt;318.0,392.0&gt;-&lt;295.0,388.0&gt;&gt;/L&lt;&lt;295.0,388.0&gt;--&lt;295.0,388.0&gt;&gt; = 9.865806943084365
+* uni01B8.BRACKET.varAlt02: B&lt;&lt;343.0,392.0&gt;-&lt;318.0,392.0&gt;-&lt;295.0,388.0&gt;&gt;/L&lt;&lt;295.0,388.0&gt;--&lt;295.0,388.0&gt;&gt; = 9.865806943084365
 
-* uni01B8.BRACKET.varAlt01: L&lt;&lt;295.0,388.0&gt;--&lt;295.0,388.0&gt;&gt;/B&lt;&lt;295.0,388.0&gt;-&lt;249.0,378.0&gt;-&lt;230.5,345.0&gt;&gt; = 12.2647737278924
+* uni01B8.BRACKET.varAlt02: L&lt;&lt;295.0,388.0&gt;--&lt;295.0,388.0&gt;&gt;/B&lt;&lt;295.0,388.0&gt;-&lt;249.0,378.0&gt;-&lt;230.5,345.0&gt;&gt; = 12.2647737278924
 
-* uni01B9.BRACKET.varAlt01: B&lt;&lt;343.0,218.0&gt;-&lt;318.0,218.0&gt;-&lt;295.0,214.0&gt;&gt;/L&lt;&lt;295.0,214.0&gt;--&lt;295.0,214.0&gt;&gt; = 9.865806943084365
+* uni01B9.BRACKET.varAlt02: B&lt;&lt;343.0,218.0&gt;-&lt;318.0,218.0&gt;-&lt;295.0,214.0&gt;&gt;/L&lt;&lt;295.0,214.0&gt;--&lt;295.0,214.0&gt;&gt; = 9.865806943084365
 
-* uni01B9.BRACKET.varAlt01: L&lt;&lt;295.0,214.0&gt;--&lt;295.0,214.0&gt;&gt;/B&lt;&lt;295.0,214.0&gt;-&lt;249.0,204.0&gt;-&lt;230.5,171.0&gt;&gt; = 12.2647737278924
+* uni01B9.BRACKET.varAlt02: L&lt;&lt;295.0,214.0&gt;--&lt;295.0,214.0&gt;&gt;/B&lt;&lt;295.0,214.0&gt;-&lt;249.0,204.0&gt;-&lt;230.5,171.0&gt;&gt; = 12.2647737278924
 
 * uni01D1 (U+01D1): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
-* uni01E4.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni01E4.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
 * uni01EA (U+01EA): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
 * uni01EC (U+01EC): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
-* uni01EE.BRACKET.varAlt01: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
+* uni01EE.BRACKET.varAlt02: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
 
-* uni01EE.BRACKET.varAlt01: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;252.0,392.0&gt;-&lt;227.0,392.0&gt;&gt; = 9.865806943084365
+* uni01EE.BRACKET.varAlt02: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;252.0,392.0&gt;-&lt;227.0,392.0&gt;&gt; = 9.865806943084365
 
-* uni01EF.BRACKET.varAlt01: B&lt;&lt;339.5,171.0&gt;-&lt;321.0,204.0&gt;-&lt;275.0,214.0&gt;&gt;/L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt; = 12.2647737278924
+* uni01EF.BRACKET.varAlt02: B&lt;&lt;339.5,171.0&gt;-&lt;321.0,204.0&gt;-&lt;275.0,214.0&gt;&gt;/L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt; = 12.2647737278924
 
-* uni01EF.BRACKET.varAlt01: L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt;/B&lt;&lt;275.0,214.0&gt;-&lt;252.0,218.0&gt;-&lt;227.0,218.0&gt;&gt; = 9.865806943084365
+* uni01EF.BRACKET.varAlt02: L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt;/B&lt;&lt;275.0,214.0&gt;-&lt;252.0,218.0&gt;-&lt;227.0,218.0&gt;&gt; = 9.865806943084365
 
-* uni01F4.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni01F4.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
 * uni020C (U+020C): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
 * uni020E (U+020E): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
-* uni021F.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni021F.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
 * uni022A (U+022A): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
@@ -32425,13 +32237,13 @@ definitions.</p>
 
 * uni0230 (U+0230): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
-* uni0232.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* uni0232.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
 * uni024E.BRACKET.varAlt01: B&lt;&lt;78.0,700.0&gt;-&lt;79.0,700.0&gt;-&lt;77.0,699.0&gt;&gt;/B&lt;&lt;77.0,699.0&gt;-&lt;80.0,700.0&gt;-&lt;82.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni0292.BRACKET.varAlt01: B&lt;&lt;339.5,171.0&gt;-&lt;321.0,204.0&gt;-&lt;275.0,214.0&gt;&gt;/L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt; = 12.2647737278924
+* uni0292.BRACKET.varAlt02: B&lt;&lt;339.5,171.0&gt;-&lt;321.0,204.0&gt;-&lt;275.0,214.0&gt;&gt;/L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt; = 12.2647737278924
 
-* uni0292.BRACKET.varAlt01: L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt;/B&lt;&lt;275.0,214.0&gt;-&lt;252.0,218.0&gt;-&lt;227.0,218.0&gt;&gt; = 9.865806943084365
+* uni0292.BRACKET.varAlt02: L&lt;&lt;275.0,214.0&gt;--&lt;275.0,214.0&gt;&gt;/B&lt;&lt;275.0,214.0&gt;-&lt;252.0,218.0&gt;-&lt;227.0,218.0&gt;&gt; = 9.865806943084365
 
 * uni0294.BRACKET.varAlt02: B&lt;&lt;233.0,77.0&gt;-&lt;233.0,53.0&gt;-&lt;213.0,49.0&gt;&gt;/L&lt;&lt;213.0,49.0&gt;--&lt;255.0,49.0&gt;&gt; = 11.309932474020195
 
@@ -32439,27 +32251,27 @@ definitions.</p>
 
 * uni0298 (U+0298): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
-* uni02B0.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni02B0.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni02B7.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni02B7.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1D5B.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni1D5B.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1E08.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni1E08.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* uni1E08.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
+* uni1E08.BRACKET.varAlt02: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* uni1E20.BRACKET.varAlt01: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
+* uni1E20.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
-* uni1E23.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni1E23.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E25.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni1E25.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E27.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni1E27.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E29.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni1E29.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uni1E2B.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uni1E2B.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
 * uni1E4C (U+1E4C): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
@@ -32469,23 +32281,23 @@ definitions.</p>
 
 * uni1E52 (U+1E52): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
-* uni1E7D.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni1E7D.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1E7F.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni1E7F.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1E87.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni1E87.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1E89.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* uni1E89.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* uni1E8A.BRACKET.varAlt01: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
+* uni1E8A.BRACKET.varAlt02: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni1E8B.BRACKET.varAlt01: B&lt;&lt;79.0,500.5&gt;-&lt;80.0,501.0&gt;-&lt;78.0,500.0&gt;&gt;/B&lt;&lt;78.0,500.0&gt;-&lt;81.0,501.0&gt;-&lt;83.0,501.0&gt;&gt; = 8.13010235415587
+* uni1E8B.BRACKET.varAlt02: B&lt;&lt;79.0,500.5&gt;-&lt;80.0,501.0&gt;-&lt;78.0,500.0&gt;&gt;/B&lt;&lt;78.0,500.0&gt;-&lt;81.0,501.0&gt;-&lt;83.0,501.0&gt;&gt; = 8.13010235415587
 
-* uni1E8C.BRACKET.varAlt01: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
+* uni1E8C.BRACKET.varAlt02: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni1E8D.BRACKET.varAlt01: B&lt;&lt;79.0,500.5&gt;-&lt;80.0,501.0&gt;-&lt;78.0,500.0&gt;&gt;/B&lt;&lt;78.0,500.0&gt;-&lt;81.0,501.0&gt;-&lt;83.0,501.0&gt;&gt; = 8.13010235415587
+* uni1E8D.BRACKET.varAlt02: B&lt;&lt;79.0,500.5&gt;-&lt;80.0,501.0&gt;-&lt;78.0,500.0&gt;&gt;/B&lt;&lt;78.0,500.0&gt;-&lt;81.0,501.0&gt;-&lt;83.0,501.0&gt;&gt; = 8.13010235415587
 
-* uni1E8E.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* uni1E8E.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
 * uni1E9E.BRACKET.varAlt01: B&lt;&lt;425.5,340.0&gt;-&lt;407.0,373.0&gt;-&lt;361.0,383.0&gt;&gt;/L&lt;&lt;361.0,383.0&gt;--&lt;361.0,383.0&gt;&gt; = 12.2647737278924
 
@@ -32515,17 +32327,17 @@ definitions.</p>
 
 * uni1EE2 (U+1EE2): B&lt;&lt;774.0,311.0&gt;-&lt;774.0,308.0&gt;-&lt;774.0,309.0&gt;&gt;/B&lt;&lt;774.0,309.0&gt;-&lt;767.0,225.0&gt;-&lt;734.5,165.0&gt;&gt; = 4.763641690726143
 
-* uni1EF4.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* uni1EF4.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni1EF6.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* uni1EF6.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
-* uni1EF8.BRACKET.varAlt01: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
+* uni1EF8.BRACKET.varAlt02: B&lt;&lt;45.0,700.0&gt;-&lt;46.0,700.0&gt;-&lt;44.0,699.0&gt;&gt;/B&lt;&lt;44.0,699.0&gt;-&lt;47.0,700.0&gt;-&lt;49.0,700.0&gt;&gt; = 8.13010235415587
 
 * uni2076 (U+2076): B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
-* uni2083.BRACKET.varAlt01: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
+* uni2083.BRACKET.varAlt02: B&lt;&lt;339.5,345.0&gt;-&lt;321.0,378.0&gt;-&lt;275.0,388.0&gt;&gt;/L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt; = 12.2647737278924
 
-* uni2083.BRACKET.varAlt01: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
+* uni2083.BRACKET.varAlt02: L&lt;&lt;275.0,388.0&gt;--&lt;275.0,388.0&gt;&gt;/B&lt;&lt;275.0,388.0&gt;-&lt;258.0,391.0&gt;-&lt;240.0,392.0&gt;&gt; = 10.007979801441312
 
 * uni2086 (U+2086): B&lt;&lt;404.0,375.0&gt;-&lt;367.0,397.0&gt;-&lt;327.0,401.0&gt;&gt;/L&lt;&lt;327.0,401.0&gt;--&lt;327.0,401.0&gt;&gt; = 5.710593137499633
 
@@ -32537,21 +32349,21 @@ definitions.</p>
 
 * uni20B5.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;422.0,655.0&gt;-&lt;401.0,650.0&gt;&gt; = 2.862405226111651
 
-* uniA727.BRACKET.varAlt01: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
+* uniA727.BRACKET.varAlt02: B&lt;&lt;357.0,437.0&gt;-&lt;345.0,455.0&gt;-&lt;316.0,457.0&gt;&gt;/L&lt;&lt;316.0,457.0&gt;--&lt;316.0,457.0&gt;&gt; = 3.94518622903751
 
-* uniA7B3.BRACKET.varAlt01: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
+* uniA7B3.BRACKET.varAlt02: B&lt;&lt;82.0,700.0&gt;-&lt;83.0,700.0&gt;-&lt;81.0,699.0&gt;&gt;/B&lt;&lt;81.0,699.0&gt;-&lt;84.0,700.0&gt;-&lt;86.0,700.0&gt;&gt; = 8.13010235415587
 
 * v.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
 * w.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* wacute.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* wacute.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* wcircumflex.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* wcircumflex.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* wdieresis.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* wdieresis.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
-* wgrave.BRACKET.varAlt01: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
+* wgrave.BRACKET.varAlt02: B&lt;&lt;65.5,500.0&gt;-&lt;66.0,500.0&gt;-&lt;64.0,499.0&gt;&gt;/B&lt;&lt;64.0,499.0&gt;-&lt;67.0,500.0&gt;-&lt;69.0,500.0&gt;&gt; = 8.13010235415587
 
 * x.BRACKET.varAlt01: B&lt;&lt;79.0,500.5&gt;-&lt;80.0,501.0&gt;-&lt;78.0,500.0&gt;&gt;/B&lt;&lt;78.0,500.0&gt;-&lt;81.0,501.0&gt;-&lt;83.0,501.0&gt;&gt; = 8.13010235415587
 
@@ -32559,13 +32371,13 @@ definitions.</p>
 
 * zero.BRACKET.varAlt01: B&lt;&lt;68.0,224.5&gt;-&lt;68.0,225.0&gt;-&lt;69.0,223.0&gt;&gt;/B&lt;&lt;69.0,223.0&gt;-&lt;58.0,273.0&gt;-&lt;58.0,331.0&gt;&gt; = 14.157632649677227
 
-* zero.dnom.BRACKET.varAlt01: B&lt;&lt;68.0,224.5&gt;-&lt;68.0,225.0&gt;-&lt;69.0,223.0&gt;&gt;/B&lt;&lt;69.0,223.0&gt;-&lt;58.0,273.0&gt;-&lt;58.0,331.0&gt;&gt; = 14.157632649677227
+* zero.dnom.BRACKET.varAlt02: B&lt;&lt;68.0,224.5&gt;-&lt;68.0,225.0&gt;-&lt;69.0,223.0&gt;&gt;/B&lt;&lt;69.0,223.0&gt;-&lt;58.0,273.0&gt;-&lt;58.0,331.0&gt;&gt; = 14.157632649677227
 
-* zero.numr.BRACKET.varAlt01: B&lt;&lt;68.0,224.5&gt;-&lt;68.0,225.0&gt;-&lt;69.0,223.0&gt;&gt;/B&lt;&lt;69.0,223.0&gt;-&lt;58.0,273.0&gt;-&lt;58.0,331.0&gt;&gt; = 14.157632649677227
+* zero.numr.BRACKET.varAlt02: B&lt;&lt;68.0,224.5&gt;-&lt;68.0,225.0&gt;-&lt;69.0,223.0&gt;&gt;/B&lt;&lt;69.0,223.0&gt;-&lt;58.0,273.0&gt;-&lt;58.0,331.0&gt;&gt; = 14.157632649677227
 
-* zero.tf.BRACKET.varAlt01: B&lt;&lt;68.0,224.5&gt;-&lt;68.0,225.0&gt;-&lt;69.0,223.0&gt;&gt;/B&lt;&lt;69.0,223.0&gt;-&lt;58.0,273.0&gt;-&lt;58.0,331.0&gt;&gt; = 14.157632649677227
+* zero.tf.BRACKET.varAlt02: B&lt;&lt;68.0,224.5&gt;-&lt;68.0,225.0&gt;-&lt;69.0,223.0&gt;&gt;/B&lt;&lt;69.0,223.0&gt;-&lt;58.0,273.0&gt;-&lt;58.0,331.0&gt;&gt; = 14.157632649677227
 
-* zero.zero.BRACKET.varAlt01: B&lt;&lt;68.0,224.5&gt;-&lt;68.0,225.0&gt;-&lt;69.0,223.0&gt;&gt;/B&lt;&lt;69.0,223.0&gt;-&lt;58.0,273.0&gt;-&lt;58.0,331.0&gt;&gt; = 14.157632649677227
+* zero.zero.BRACKET.varAlt02: B&lt;&lt;68.0,224.5&gt;-&lt;68.0,225.0&gt;-&lt;69.0,223.0&gt;&gt;/B&lt;&lt;69.0,223.0&gt;-&lt;58.0,273.0&gt;-&lt;58.0,331.0&gt;&gt; = 14.157632649677227
 </code></pre>
  [code: found-jaggy-segments]
 
@@ -32589,23 +32401,23 @@ definitions.</p>
 
 * ij (U+0133): L&lt;&lt;374.0,-142.0&gt;--&lt;375.0,134.0&gt;&gt;
 
-* ij.BRACKET.varAlt02: L&lt;&lt;374.0,-142.0&gt;--&lt;375.0,98.0&gt;&gt;
+* ij.BRACKET.varAlt01: L&lt;&lt;374.0,-142.0&gt;--&lt;375.0,98.0&gt;&gt;
 
-* ij.BRACKET.varAlt02: L&lt;&lt;376.0,335.0&gt;--&lt;377.0,452.0&gt;&gt;
+* ij.BRACKET.varAlt01: L&lt;&lt;376.0,335.0&gt;--&lt;377.0,452.0&gt;&gt;
 
 * j (U+006A): L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,134.0&gt;&gt;
 
-* j.BRACKET.varAlt02: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,98.0&gt;&gt;
+* j.BRACKET.varAlt01: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,98.0&gt;&gt;
 
-* j.BRACKET.varAlt02: L&lt;&lt;150.0,335.0&gt;--&lt;151.0,452.0&gt;&gt;
+* j.BRACKET.varAlt01: L&lt;&lt;150.0,335.0&gt;--&lt;151.0,452.0&gt;&gt;
 
 * sterling (U+00A3): L&lt;&lt;450.0,326.0&gt;--&lt;232.0,327.0&gt;&gt;
 
 * sterling.BRACKET.varAlt02: L&lt;&lt;450.0,326.0&gt;--&lt;232.0,327.0&gt;&gt;
 
-* uni006A0301.BRACKET.varAlt02: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,98.0&gt;&gt;
+* uni006A0301.BRACKET.varAlt01: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,98.0&gt;&gt;
 
-* uni006A0301.BRACKET.varAlt02: L&lt;&lt;150.0,335.0&gt;--&lt;151.0,452.0&gt;&gt;
+* uni006A0301.BRACKET.varAlt01: L&lt;&lt;150.0,335.0&gt;--&lt;151.0,452.0&gt;&gt;
 
 * uni006A0301: L&lt;&lt;148.0,-142.0&gt;--&lt;149.0,134.0&gt;&gt;
 
@@ -32629,7 +32441,7 @@ definitions.</p>
 
 * uni02C0 (U+02C0): L&lt;&lt;77.0,441.0&gt;--&lt;76.0,567.0&gt;&gt;
 
-* uni1E1F.BRACKET.varAlt01: L&lt;&lt;165.0,162.0&gt;--&lt;164.0,35.0&gt;&gt;
+* uni1E1F.BRACKET.varAlt02: L&lt;&lt;165.0,162.0&gt;--&lt;164.0,35.0&gt;&gt;
 </code></pre>
  [code: found-semi-vertical]
 
