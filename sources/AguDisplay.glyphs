@@ -189552,7 +189552,7 @@ width = 226;
 {
 color = 5;
 glyphname = jstroke.dotless;
-lastChange = "2024-11-22 13:46:41 +0000";
+lastChange = "2024-11-22 13:53:32 +0000";
 layers = (
 {
 anchors = (
@@ -189700,6 +189700,20 @@ ref = strokeshortcomb;
 width = 346;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 background = {
 shapes = (
 {
@@ -189926,6 +189940,20 @@ ref = strokeshortcomb;
 width = 346;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 background = {
 shapes = (
 {
@@ -190070,6 +190098,20 @@ ref = strokeshortcomb;
 width = 346;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m01;
 attr = {
 axisRules = (
@@ -190177,6 +190219,20 @@ nodes = (
 width = 346;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m01;
 attr = {
 axisRules = (
@@ -190284,6 +190340,20 @@ nodes = (
 width = 346;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m002;
 attr = {
 axisRules = (
@@ -190486,6 +190556,20 @@ nodes = (
 width = 346;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m002;
 attr = {
 axisRules = (
@@ -190688,6 +190772,20 @@ nodes = (
 width = 346;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m003;
 attr = {
 axisRules = (
@@ -190808,6 +190906,20 @@ nodes = (
 width = 346;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (178,0);
+},
+{
+name = ogonek;
+pos = (268,36);
+},
+{
+name = top;
+pos = (178,500);
+}
+);
 associatedMasterId = m003;
 attr = {
 axisRules = (
