@@ -583,7 +583,7 @@ fontbakery version: 0.12.10
 
 - Glyph name: ncaron	Contours detected: 8	Expected: 2
 
-- Glyph name: Eng	Contours detected: 5	Expected: 1
+- Glyph name: Eng	Contours detected: 7	Expected: 1
 
 - Glyph name: eng	Contours detected: 7	Expected: 1
 
@@ -1485,7 +1485,7 @@ fontbakery version: 0.12.10
 
 - Glyph name: Emacron	Contours detected: 8	Expected: 2
 
-- Glyph name: Eng	Contours detected: 5	Expected: 1
+- Glyph name: Eng	Contours detected: 7	Expected: 1
 
 - Glyph name: Eogonek	Contours detected: 8	Expected: 1 or 2
 
@@ -2998,6 +2998,10 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">tcd_Latn (Tafi)</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4002,6 +4006,14 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4116,6 +4128,10 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">aks_Latn (Akeselem)</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -4808,6 +4824,18 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">mev_Latn (Mano)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -5964,6 +5992,18 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">jgo_Latn (Ngomba)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -6063,11 +6103,11 @@ fontbakery version: 0.12.10
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -6090,6 +6130,10 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">nmz_Latn (Nawdm)</td>
+<td align="left">Shaper didn't attach uni0308 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -6345,6 +6389,14 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">kss_Latn (Southern Kisi)</td>
+<td align="left">Shaper didn't attach uni0304 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030D to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -7556,6 +7608,10 @@ fontbakery version: 0.12.10
 <tbody>
 <tr>
 <td align="left">tik_Latn (Tikar)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -11234,12 +11290,12 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, tifinagh, malayalam, todhri, coptic, old-permic, syriac, math, hebrew, tai-le, duployan</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, canadian-aboriginal, hebrew, duployan, tai-le, tifinagh, todhri, math, syriac, old-permic</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: try adding one of: sunuwar, math</li>
@@ -11251,15 +11307,15 @@ definitions.</p>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
-<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
+<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: thai, tifinagh, sunuwar, cherokee, gothic, caucasian-albanian, syriac</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, thai, cherokee, tifinagh, sunuwar, gothic, syriac</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -11311,7 +11367,7 @@ definitions.</p>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: newa, buginese, syriac, math, sundanese, buhid, chakma, mende-kikakui, tagbanwa, saurashtra, oriya, armenian, cham, music, tibetan, sinhala, thai, tifinagh, lao, myanmar, kayah-li, khmer, miao, mahajani, masaram-gondi, tirhuta, batak, hanunoo, phags-pa, yi, sogdian, brahmi, gurmukhi, pahawh-hmong, limbu, warang-citi, osage, javanese, rejang, tai-le, tamil, psalter-pahlavi, ahom, old-permic, dogra, nko, tagalog, siddham, coptic, modi, zanabazar-square, meetei-mayek, hebrew, takri, kaithi, caucasian-albanian, wancho, manichaean, devanagari, symbols, gunjala-gondi, balinese, gujarati, mandaic, lepcha, new-tai-lue, duployan, telugu, mongolian, malayalam, tai-tham, hanifi-rohingya, kharoshthi, tai-viet, marchen, canadian-aboriginal, bassa-vah, bhaiksuki, khudawadi, thaana, elbasan, khojki, grantha, sharada, bengali, syloti-nagri, soyombo, kannada, adlam</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: tai-viet, elbasan, kannada, rejang, lao, batak, sharada, sundanese, devanagari, tibetan, saurashtra, tifinagh, math, buginese, hanunoo, psalter-pahlavi, modi, tai-tham, malayalam, kaithi, oriya, lepcha, phags-pa, tirhuta, tagalog, telugu, masaram-gondi, adlam, kharoshthi, mende-kikakui, tamil, balinese, mongolian, pahawh-hmong, gurmukhi, manichaean, syloti-nagri, symbols, khudawadi, new-tai-lue, brahmi, gujarati, wancho, cham, khojki, duployan, sinhala, newa, khmer, takri, bassa-vah, tai-le, mahajani, javanese, myanmar, hanifi-rohingya, mandaic, marchen, nko, chakma, thaana, ahom, buhid, siddham, soyombo, kayah-li, grantha, gunjala-gondi, canadian-aboriginal, dogra, hebrew, tagbanwa, zanabazar-square, bengali, sogdian, caucasian-albanian, meetei-mayek, osage, yi, syriac, music, warang-citi, armenian, coptic, bhaiksuki, limbu, thai, miao, old-permic</li>
 <li>U+263A WHITE SMILING FACE: try adding symbols</li>
 <li>U+2648 ARIES: try adding symbols</li>
 <li>U+2649 TAURUS: try adding symbols</li>
@@ -11479,7 +11535,7 @@ definitions.</p>
 
 * Cdotaccent (U+010A): L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* Eng.loclNSM.BRACKET.varAlt01: B&lt;&lt;322.0,707.0&gt;-&lt;323.0,707.0&gt;-&lt;322.0,707.0&gt;&gt;/B&lt;&lt;322.0,707.0&gt;-&lt;344.0,710.0&gt;-&lt;364.0,710.0&gt;&gt; = 7.765166018425308
+* Eng.BRACKET.varAlt01: B&lt;&lt;322.0,707.0&gt;-&lt;323.0,707.0&gt;-&lt;322.0,707.0&gt;&gt;/B&lt;&lt;322.0,707.0&gt;-&lt;344.0,710.0&gt;-&lt;364.0,710.0&gt;&gt; = 7.765166018425308
 
 * G (U+0047): B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
@@ -13080,6 +13136,10 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">tcd_Latn (Tafi)</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -14084,6 +14144,14 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -14198,6 +14266,10 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">aks_Latn (Akeselem)</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -14890,6 +14962,18 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">mev_Latn (Mano)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -16046,6 +16130,18 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">jgo_Latn (Ngomba)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -16145,11 +16241,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -16172,6 +16268,10 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">nmz_Latn (Nawdm)</td>
+<td align="left">Shaper didn't attach uni0308 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -16427,6 +16527,14 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kss_Latn (Southern Kisi)</td>
+<td align="left">Shaper didn't attach uni0304 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030D to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -17059,6 +17167,14 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to AE</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to AE</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper produced a .notdef</td>
 </tr>
 <tr>
@@ -17068,10 +17184,6 @@ definitions.</p>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to AE</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -17658,11 +17770,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to AE</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to AE</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -21344,12 +21460,12 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, tifinagh, malayalam, todhri, coptic, old-permic, syriac, math, hebrew, tai-le, duployan</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, canadian-aboriginal, hebrew, duployan, tai-le, tifinagh, todhri, math, syriac, old-permic</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: try adding one of: sunuwar, math</li>
@@ -21361,15 +21477,15 @@ definitions.</p>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
-<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
+<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: thai, tifinagh, sunuwar, cherokee, gothic, caucasian-albanian, syriac</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, thai, cherokee, tifinagh, sunuwar, gothic, syriac</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -21421,7 +21537,7 @@ definitions.</p>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: newa, buginese, syriac, math, sundanese, buhid, chakma, mende-kikakui, tagbanwa, saurashtra, oriya, armenian, cham, music, tibetan, sinhala, thai, tifinagh, lao, myanmar, kayah-li, khmer, miao, mahajani, masaram-gondi, tirhuta, batak, hanunoo, phags-pa, yi, sogdian, brahmi, gurmukhi, pahawh-hmong, limbu, warang-citi, osage, javanese, rejang, tai-le, tamil, psalter-pahlavi, ahom, old-permic, dogra, nko, tagalog, siddham, coptic, modi, zanabazar-square, meetei-mayek, hebrew, takri, kaithi, caucasian-albanian, wancho, manichaean, devanagari, symbols, gunjala-gondi, balinese, gujarati, mandaic, lepcha, new-tai-lue, duployan, telugu, mongolian, malayalam, tai-tham, hanifi-rohingya, kharoshthi, tai-viet, marchen, canadian-aboriginal, bassa-vah, bhaiksuki, khudawadi, thaana, elbasan, khojki, grantha, sharada, bengali, syloti-nagri, soyombo, kannada, adlam</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: tai-viet, elbasan, kannada, rejang, lao, batak, sharada, sundanese, devanagari, tibetan, saurashtra, tifinagh, math, buginese, hanunoo, psalter-pahlavi, modi, tai-tham, malayalam, kaithi, oriya, lepcha, phags-pa, tirhuta, tagalog, telugu, masaram-gondi, adlam, kharoshthi, mende-kikakui, tamil, balinese, mongolian, pahawh-hmong, gurmukhi, manichaean, syloti-nagri, symbols, khudawadi, new-tai-lue, brahmi, gujarati, wancho, cham, khojki, duployan, sinhala, newa, khmer, takri, bassa-vah, tai-le, mahajani, javanese, myanmar, hanifi-rohingya, mandaic, marchen, nko, chakma, thaana, ahom, buhid, siddham, soyombo, kayah-li, grantha, gunjala-gondi, canadian-aboriginal, dogra, hebrew, tagbanwa, zanabazar-square, bengali, sogdian, caucasian-albanian, meetei-mayek, osage, yi, syriac, music, warang-citi, armenian, coptic, bhaiksuki, limbu, thai, miao, old-permic</li>
 <li>U+263A WHITE SMILING FACE: try adding symbols</li>
 <li>U+2648 ARIES: try adding symbols</li>
 <li>U+2649 TAURUS: try adding symbols</li>
@@ -21490,8 +21606,8 @@ definitions.</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i᷆ i᷇</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷄ i᷅ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̥᷄ i̥᷅ i̥᷆ i̥᷇ i̦᷄ i̦᷅ i̦᷆ i̦᷇ i̧᷄ i̧᷅ i̧᷆ i̧᷇ i̩᷄ i̩᷅</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Navajo (Latn, 166,319 speakers), Kaska (Latn, 125 speakers), Bete-Bendi (Latn, 100,000 speakers), Dutch (Latn, 31,709,104 speakers), Yala (Latn, 200,000 speakers), Nateni (Latn, 100,000 speakers), Cicipu (Latn, 44,000 speakers), Nzakara (Latn, 50,000 speakers), Gulay (Latn, 250,478 speakers), Lithuanian (Latn, 2,357,094 speakers), Ebira (Latn, 2,200,000 speakers), Ma’di (Latn, 584,000 speakers), Mango (Latn, 77,000 speakers), Ngbaka (Latn, 1,020,000 speakers), South Central Banda (Latn, 244,000 speakers), Zapotec (Latn, 490,000 speakers), Ekpeye (Latn, 226,000 speakers), Sar (Latn, 500,000 speakers), Han (Latn, 6 speakers), Ijo, Southeast (Latn, 2,471,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ukrainian (Cyrl, 29,273,587 speakers), Teke-Ebo (Latn, 260,000 speakers), Dii (Latn, 71,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Makaa (Latn, 221,000 speakers), Heiltsuk (Latn, 300 speakers), Southern Kisi (Latn, 360,000 speakers), Mundani (Latn, 34,000 speakers), Bafut (Latn, 158,146 speakers), Kom (Latn, 360,685 speakers), Dan (Latn, 1,099,244 speakers), Mfumte (Latn, 79,000 speakers), Fur (Latn, 1,230,163 speakers), Aghem (Latn, 38,843 speakers), Lugbara (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Ejagham (Latn, 120,000 speakers), Avokaya (Latn, 100,000 speakers), Vute (Latn, 21,000 speakers), Belarusian (Cyrl, 10,064,517 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Kaska (Latn, 125 speakers), Ngbaka (Latn, 1,020,000 speakers), Sar (Latn, 500,000 speakers), Ebira (Latn, 2,200,000 speakers), Nzakara (Latn, 50,000 speakers), Dutch (Latn, 31,709,104 speakers), Han (Latn, 6 speakers), Bete-Bendi (Latn, 100,000 speakers), Navajo (Latn, 166,319 speakers), Cicipu (Latn, 44,000 speakers), South Central Banda (Latn, 244,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Ekpeye (Latn, 226,000 speakers), Gulay (Latn, 250,478 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ma’di (Latn, 584,000 speakers), Yala (Latn, 200,000 speakers), Nateni (Latn, 100,000 speakers), Mango (Latn, 77,000 speakers), Zapotec (Latn, 490,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Koonzime (Latn, 40,000 speakers), Heiltsuk (Latn, 300 speakers), Basaa (Latn, 332,940 speakers), Vute (Latn, 21,000 speakers), Igbo (Latn, 27,823,640 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Teke-Ebo (Latn, 260,000 speakers), Ejagham (Latn, 120,000 speakers), Dii (Latn, 71,000 speakers), Bafut (Latn, 158,146 speakers), Lugbara (Latn, 2,200,000 speakers), Fur (Latn, 1,230,163 speakers), Makaa (Latn, 221,000 speakers), Mfumte (Latn, 79,000 speakers), Aghem (Latn, 38,843 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Kom (Latn, 360,685 speakers), Southern Kisi (Latn, 360,000 speakers), Avokaya (Latn, 100,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Dan (Latn, 1,099,244 speakers), Mundani (Latn, 34,000 speakers).</p>
  [code: soft-dotted]
 
 
@@ -21530,7 +21646,7 @@ definitions.</p>
 
 * Cdotaccent.BRACKET.varAlt01: L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt;/B&lt;&lt;442.0,654.0&gt;-&lt;403.0,656.0&gt;-&lt;364.0,635.5&gt;&gt; = 2.935673446421099
 
-* Eng.loclNSM.BRACKET.varAlt01: B&lt;&lt;322.0,707.0&gt;-&lt;323.0,707.0&gt;-&lt;322.0,707.0&gt;&gt;/B&lt;&lt;322.0,707.0&gt;-&lt;344.0,710.0&gt;-&lt;364.0,710.0&gt;&gt; = 7.765166018425308
+* Eng.BRACKET.varAlt01: B&lt;&lt;322.0,707.0&gt;-&lt;323.0,707.0&gt;-&lt;322.0,707.0&gt;&gt;/B&lt;&lt;322.0,707.0&gt;-&lt;344.0,710.0&gt;-&lt;364.0,710.0&gt;&gt; = 7.765166018425308
 
 * G.BRACKET.varAlt02: B&lt;&lt;516.5,631.0&gt;-&lt;480.0,647.0&gt;-&lt;442.0,654.0&gt;&gt;/L&lt;&lt;442.0,654.0&gt;--&lt;442.0,654.0&gt;&gt; = 10.437475351118158
 
@@ -22214,8 +22330,6 @@ definitions.</p>
 
 - Glyph name: Ncaron	Contours detected: 4	Expected: 2
 
-- Glyph name: Eng	Contours detected: 3	Expected: 1
-
 - Glyph name: Omacron	Contours detected: 4	Expected: 3
 
 - Glyph name: omacron	Contours detected: 4	Expected: 3
@@ -22653,8 +22767,6 @@ definitions.</p>
 - Glyph name: Dcaron	Contours detected: 4	Expected: 3
 
 - Glyph name: Dcroat	Contours detected: 4	Expected: 2
-
-- Glyph name: Eng	Contours detected: 3	Expected: 1
 
 - Glyph name: Eth	Contours detected: 4	Expected: 2
 
@@ -23631,6 +23743,10 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">tcd_Latn (Tafi)</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -24635,6 +24751,14 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">eto_Latn (Eton, Cameroon)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -24749,6 +24873,10 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">aks_Latn (Akeselem)</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -25441,6 +25569,18 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">mev_Latn (Mano)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -26597,6 +26737,18 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">jgo_Latn (Ngomba)</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0304 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -26696,11 +26848,11 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach tildecomb to uniA7B6</td>
+<td align="left">Shaper didn't attach tildecomb to uniA7B7</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -26723,6 +26875,10 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">nmz_Latn (Nawdm)</td>
+<td align="left">Shaper didn't attach uni0308 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -26978,6 +27134,14 @@ definitions.</p>
 <tbody>
 <tr>
 <td align="left">kss_Latn (Southern Kisi)</td>
+<td align="left">Shaper didn't attach uni0304 to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030D to Eng</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">The locl feature did not affect Eng</td>
 </tr>
 </tbody>
@@ -27610,6 +27774,14 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
+<td align="left">Shaper didn't attach acutecomb to AE</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni030B to AE</td>
+</tr>
+<tr>
+<td align="left">^</td>
 <td align="left">Shaper produced a .notdef</td>
 </tr>
 <tr>
@@ -27619,10 +27791,6 @@ definitions.</p>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach gravecomb to AE</td>
-</tr>
-<tr>
-<td align="left">^</td>
-<td align="left">Shaper didn't attach uni030B to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -28209,11 +28377,15 @@ definitions.</p>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach uni0302 to AE</td>
+<td align="left">Shaper didn't attach gravecomb to Eng</td>
 </tr>
 <tr>
 <td align="left">^</td>
 <td align="left">Shaper didn't attach uni030C to AE</td>
+</tr>
+<tr>
+<td align="left">^</td>
+<td align="left">Shaper didn't attach uni0302 to AE</td>
 </tr>
 <tr>
 <td align="left">^</td>
@@ -31895,12 +32067,12 @@ definitions.</p>
 <li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, tifinagh, malayalam, todhri, coptic, old-permic, syriac, math, hebrew, tai-le, duployan</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, malayalam, canadian-aboriginal, hebrew, duployan, tai-le, tifinagh, todhri, math, syriac, old-permic</li>
 <li>U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan</li>
 <li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030D COMBINING VERTICAL LINE ABOVE: try adding sunuwar</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0310 COMBINING CANDRABINDU: try adding one of: sunuwar, math</li>
@@ -31912,15 +32084,15 @@ definitions.</p>
 <li>U+0326 COMBINING COMMA BELOW: try adding math</li>
 <li>U+0327 COMBINING CEDILLA: try adding math</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
-<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: sunuwar, syriac</li>
+<li>U+032D COMBINING CIRCUMFLEX ACCENT BELOW: try adding one of: syriac, sunuwar</li>
 <li>U+032F COMBINING INVERTED BREVE BELOW: try adding math</li>
-<li>U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: thai, tifinagh, sunuwar, cherokee, gothic, caucasian-albanian, syriac</li>
+<li>U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, thai, cherokee, tifinagh, sunuwar, gothic, syriac</li>
 <li>U+0332 COMBINING LOW LINE: try adding math</li>
 <li>U+0334 COMBINING TILDE OVERLAY: not included in any glyphset definition</li>
 <li>U+0335 COMBINING SHORT STROKE OVERLAY: not included in any glyphset definition</li>
 <li>U+0358 COMBINING DOT ABOVE RIGHT: try adding osage</li>
-<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: math, yi, greek</li>
+<li>U+03C0 GREEK SMALL LETTER PI: try adding one of: greek, yi, math</li>
 <li>U+0E3F THAI CURRENCY SYMBOL BAHT: try adding thai</li>
 <li>U+1DC4 COMBINING MACRON-ACUTE: not included in any glyphset definition</li>
 <li>U+1DC5 COMBINING GRAVE-MACRON: not included in any glyphset definition</li>
@@ -31972,7 +32144,7 @@ definitions.</p>
 <li>U+2264 LESS-THAN OR EQUAL TO: try adding math</li>
 <li>U+2265 GREATER-THAN OR EQUAL TO: try adding math</li>
 <li>U+25A1 WHITE SQUARE: try adding symbols</li>
-<li>U+25CC DOTTED CIRCLE: try adding one of: newa, buginese, syriac, math, sundanese, buhid, chakma, mende-kikakui, tagbanwa, saurashtra, oriya, armenian, cham, music, tibetan, sinhala, thai, tifinagh, lao, myanmar, kayah-li, khmer, miao, mahajani, masaram-gondi, tirhuta, batak, hanunoo, phags-pa, yi, sogdian, brahmi, gurmukhi, pahawh-hmong, limbu, warang-citi, osage, javanese, rejang, tai-le, tamil, psalter-pahlavi, ahom, old-permic, dogra, nko, tagalog, siddham, coptic, modi, zanabazar-square, meetei-mayek, hebrew, takri, kaithi, caucasian-albanian, wancho, manichaean, devanagari, symbols, gunjala-gondi, balinese, gujarati, mandaic, lepcha, new-tai-lue, duployan, telugu, mongolian, malayalam, tai-tham, hanifi-rohingya, kharoshthi, tai-viet, marchen, canadian-aboriginal, bassa-vah, bhaiksuki, khudawadi, thaana, elbasan, khojki, grantha, sharada, bengali, syloti-nagri, soyombo, kannada, adlam</li>
+<li>U+25CC DOTTED CIRCLE: try adding one of: tai-viet, elbasan, kannada, rejang, lao, batak, sharada, sundanese, devanagari, tibetan, saurashtra, tifinagh, math, buginese, hanunoo, psalter-pahlavi, modi, tai-tham, malayalam, kaithi, oriya, lepcha, phags-pa, tirhuta, tagalog, telugu, masaram-gondi, adlam, kharoshthi, mende-kikakui, tamil, balinese, mongolian, pahawh-hmong, gurmukhi, manichaean, syloti-nagri, symbols, khudawadi, new-tai-lue, brahmi, gujarati, wancho, cham, khojki, duployan, sinhala, newa, khmer, takri, bassa-vah, tai-le, mahajani, javanese, myanmar, hanifi-rohingya, mandaic, marchen, nko, chakma, thaana, ahom, buhid, siddham, soyombo, kayah-li, grantha, gunjala-gondi, canadian-aboriginal, dogra, hebrew, tagbanwa, zanabazar-square, bengali, sogdian, caucasian-albanian, meetei-mayek, osage, yi, syriac, music, warang-citi, armenian, coptic, bhaiksuki, limbu, thai, miao, old-permic</li>
 <li>U+263A WHITE SMILING FACE: try adding symbols</li>
 <li>U+2648 ARIES: try adding symbols</li>
 <li>U+2649 TAURUS: try adding symbols</li>
@@ -32041,8 +32213,8 @@ definitions.</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: i᷆ i᷇</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: i᷄ i᷅ i̛᷄ i̛᷅ i̛᷆ i̛᷇ i̥᷄ i̥᷅ i̥᷆ i̥᷇ i̦᷄ i̦᷅ i̦᷆ i̦᷇ i̧᷄ i̧᷅ i̧᷆ i̧᷇ i̩᷄ i̩᷅</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Navajo (Latn, 166,319 speakers), Kaska (Latn, 125 speakers), Bete-Bendi (Latn, 100,000 speakers), Dutch (Latn, 31,709,104 speakers), Yala (Latn, 200,000 speakers), Nateni (Latn, 100,000 speakers), Cicipu (Latn, 44,000 speakers), Nzakara (Latn, 50,000 speakers), Gulay (Latn, 250,478 speakers), Lithuanian (Latn, 2,357,094 speakers), Ebira (Latn, 2,200,000 speakers), Ma’di (Latn, 584,000 speakers), Mango (Latn, 77,000 speakers), Ngbaka (Latn, 1,020,000 speakers), South Central Banda (Latn, 244,000 speakers), Zapotec (Latn, 490,000 speakers), Ekpeye (Latn, 226,000 speakers), Sar (Latn, 500,000 speakers), Han (Latn, 6 speakers), Ijo, Southeast (Latn, 2,471,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Ukrainian (Cyrl, 29,273,587 speakers), Teke-Ebo (Latn, 260,000 speakers), Dii (Latn, 71,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Koonzime (Latn, 40,000 speakers), Igbo (Latn, 27,823,640 speakers), Makaa (Latn, 221,000 speakers), Heiltsuk (Latn, 300 speakers), Southern Kisi (Latn, 360,000 speakers), Mundani (Latn, 34,000 speakers), Bafut (Latn, 158,146 speakers), Kom (Latn, 360,685 speakers), Dan (Latn, 1,099,244 speakers), Mfumte (Latn, 79,000 speakers), Fur (Latn, 1,230,163 speakers), Aghem (Latn, 38,843 speakers), Lugbara (Latn, 2,200,000 speakers), Basaa (Latn, 332,940 speakers), Ejagham (Latn, 120,000 speakers), Avokaya (Latn, 100,000 speakers), Vute (Latn, 21,000 speakers), Belarusian (Cyrl, 10,064,517 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Kaska (Latn, 125 speakers), Ngbaka (Latn, 1,020,000 speakers), Sar (Latn, 500,000 speakers), Ebira (Latn, 2,200,000 speakers), Nzakara (Latn, 50,000 speakers), Dutch (Latn, 31,709,104 speakers), Han (Latn, 6 speakers), Bete-Bendi (Latn, 100,000 speakers), Navajo (Latn, 166,319 speakers), Cicipu (Latn, 44,000 speakers), South Central Banda (Latn, 244,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Ekpeye (Latn, 226,000 speakers), Gulay (Latn, 250,478 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ma’di (Latn, 584,000 speakers), Yala (Latn, 200,000 speakers), Nateni (Latn, 100,000 speakers), Mango (Latn, 77,000 speakers), Zapotec (Latn, 490,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Koonzime (Latn, 40,000 speakers), Heiltsuk (Latn, 300 speakers), Basaa (Latn, 332,940 speakers), Vute (Latn, 21,000 speakers), Igbo (Latn, 27,823,640 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Teke-Ebo (Latn, 260,000 speakers), Ejagham (Latn, 120,000 speakers), Dii (Latn, 71,000 speakers), Bafut (Latn, 158,146 speakers), Lugbara (Latn, 2,200,000 speakers), Fur (Latn, 1,230,163 speakers), Makaa (Latn, 221,000 speakers), Mfumte (Latn, 79,000 speakers), Aghem (Latn, 38,843 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Kom (Latn, 360,685 speakers), Southern Kisi (Latn, 360,000 speakers), Avokaya (Latn, 100,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Dan (Latn, 1,099,244 speakers), Mundani (Latn, 34,000 speakers).</p>
  [code: soft-dotted]
 
 
