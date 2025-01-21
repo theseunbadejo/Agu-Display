@@ -1,19 +1,7 @@
 {
-.appVersion = "3260";
+.appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
-"ABCDEFGHIJKLM
-NOPQRSTUVWXYZ
-abcdefghijklmnop
-qrstuvwxyz
-0123456789
-
-HAMBURGEFONTSIV
-
-IJI EGO
-Iji Ego
-
-Aa",
 "@&¶ ₹₪£₸₮₩¥↑↗→↘↓↙←↖><≥≤±≈~^∅∞∫Ω∆∏∑√∂µ′″↔↕*
 
 🌀 🌐 🌴 🌼 🌿 🍆 🏠 🐢 👀 👄 👑 👹 👻 💀 💎 
@@ -26,146 +14,18 @@ O💖🤍 💥 🔥 🕓 😲 🚫 O 🤑 🦐",
 
 RUN!
 ",
-"∗",
-"eƐɁꞍƖꞲƘȠƆƬƔVƲƳꞋꞌæɓꭓɗʃ
-ɣɠʔʕɂɦɩȷʝƙƛɬƞƥþɋɾƭʈʋⱳƴꞌ",
-"AⱭÆBƁCƇƊEƐƩ
-ƷFƑGƓɁHĦꜦꞪꞍIƖ
-JꞲKƘLꞭMNƝȠ/Eng.loclNSM OȢ
-ƟꞶƆPƤÞⱣQɊRɌⱤẞ
-ꞨTƬƮUɄƱVƔƲWXYƳ
-ɎZƵꞋɪaɑⱥæbꞵɓʘcꭓ
-ƈȼdɗɖðeɛʃɇfgɣɠʔ
-ʕɂhꜧɦiıɩjȷʝkƙlƛɬmnɲ
-ƞŋoɵꞷøȣpƥþᵽqɋr
-ɾɽßꞩtⱦƭʈuʉʊvʋwⱳx
-yƴɏꞌǃ012356789,;!
-*#-–—_{[]”’«»‹›'฿
-˗@&¶©®′″†‡℮₿₵¢₡
-¤₫€₲₴₭₾₺₼₦₱₽£
-¥∗+−×÷=≠>^%◌̀́̋/caroncomb.alt ̵̧̨̦̩̭̂̌̍̏̓᷇᷅᷄᷆/_part.longstrokecomb ʼˀ/_part.chevron/_part.longbones/_part.longkebab/_part.shortbones/_part.shortbristles/_part.shortkebab/_part.shortladder 
-
-
-¥∗¥
-
-utdcough",
-"ȺɃȻɆǤƗɈꝀⱣɌꞨȾɄYɎƵ
-ⱥƀȼeɇgǥiɪı̇ıɨjɉꝁƛ
-ıɨjɉꝁᵽɍsꞩtⱦɏzƶ
-ɉꝁᵽɍꞩⱦɏƶ",
-"ı",
-"ĄĘĮǪǬŲąęıįǫǭuų",
-"æ",
-"̇ṁỵỵ",
-"ṁ",
-"̣ạọṣtṭuụẉyỵ",
-"ǣ",
-"ƒ",
-"{0~0}
-{0∗0}
-{0!0}
-OOMOO
-HHMHH
-",
-"Ổ",
-"Æ",
-"ABCDEFGHIJKLM
-NOPQRSTUVWXYZ
-abcdefghijklmnop
-qrstuvwxyz
-
-OH NO NH NS
-SO SB BP DP QO
-DB NT MH EF
-LJ-LO",
-"OH NO NH NS
-SO SB BP DP QO
-DB NT MH EF SP",
-"🤍",
-"DB
-MH
-",
-"∗¥∗¥∗¥∗",
-"AW
-VA
-BD
-DI
-DN
-EH
-EM
-GW
-HD
-HR
-HT
-LO
-LT
-NO
-NS
-PD
-SB
-SI
-SO
-TE
-TH
-TO
-VA
-Te
-Vö
-Fi
-dh
-tw
-ve
-wa
-zw
-co
-{O
-H!
-W-
-Y-
->N
-EF
-NH
-NT
-OH
-QO
-i<
-in
-oo
-HA
-IV
-a,
-",
-"◌̵̨",
-"+−×÷=≠><%",
-"ḫ",
-"Ⱦ",
-"OÓǑƟÔỐỘỒỔỖȌÖȪȮȰỌÒỎƠŐȎŌṒṐǪǬØÕṌṎȬŒØǾ",
-"Ɇ",
-"/_part.longstrokecomb Ȼ",
-"̨ĄĘĮǪǬŲąęįǫǭų",
-"Snapped anchors:
-̋̆̃̄̍̏̑̓᷅᷄᷆
-
-Beyond threshold:
-̈̇̉",
-"/_part.singlebristle/_part.chevron/_part.longbones/_part.longbristles/_part.longkebab/_part.longladder/_part.shortbones/_part.shortbristles/_part.shortkebab/_part.shortladder",
-"ıíǐîȉïḯı/idotaccent ìỉȋīįĩį
-ıij",
-i,
-"ʊɩɑⱭ̋̆̃̄̍̏̑̓᷅᷄᷆:̈̇̉̈̇̀́̋̂̌̆̊̃̄̉̍̏",
-"̈̇̀́̋̂̌̆̊̃̄̉̍̏",
-"/istroke.dotless",
-"/jstroke.dotless",
-j,
-"ȷ",
-"ȷ/jacute",
-"ɉ",
-"/jacute",
-"ʝ",
-"í",
-NUn,
-"Ŋ",
-"/zero.dnom"
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
+"ÁĂÂÄĀĄĆČÇĎĐÉĚËĖĒĘĢÍÎĪĮĶĹĽĻŁŃŇŅÑÓÔÖŐŌŔŘŖŚŠŞŤŢÚÜŰŪŲŮÝŹŽŻáăâäāąćčçďđéěëėēęģíîīįķĺľļłńňņñóôöőōŕřŗśšşßťţúüűūųůýźžż",
+"ĂÂÀÇĊÈƏĞĠĦÎİÌÖÒŞȘȚÛÜÙŻăâàçċèəğġħıî/idotaccent ìöòşșțûüùż",
+"0123456789
+/zero.zero/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf 
+/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom 
+/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr 
+₁₂₃₄₅₆₇₈₉
+¹²³⁴⁵⁶⁷⁸⁹",
+"ƒ฿꞉ˮ˗꞊@&¶§©®™°′″|¦†ℓ‡℮№₿₵¢₡¤$₫€₲₴₭₾₺₼₦₱₽₨£¥∗+−×÷=≠><~^%◌",
+".,:;…!¡?¿·•*‖#///backslash -–—_(){}[]‚„“”‘’«»‹›\"'",
+"ÐɫʉɵøɄ/istroke.dotless"
 );
 axes = (
 {
@@ -44531,8 +44391,9 @@ width = 830;
 unicode = 209;
 },
 {
+color = 5;
 glyphname = Eng;
-lastChange = "2024-11-25 09:31:00 +0000";
+lastChange = "2025-01-19 20:33:07 +0000";
 layers = (
 {
 layerId = m01;
@@ -84478,6 +84339,41 @@ width = 280;
 }
 );
 unicode = 42891;
+},
+{
+color = 5;
+glyphname = uniA7AE;
+lastChange = "2024-11-10 17:58:05 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+}
+);
+width = 315;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+}
+);
+width = 315;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = I;
+}
+);
+width = 315;
+}
+);
+unicode = 42926;
 },
 {
 color = 5;
@@ -190747,8 +190643,9 @@ width = 280;
 unicode = 42892;
 },
 {
+color = 5;
 glyphname = istroke.dotless;
-lastChange = "2024-11-22 13:45:59 +0000";
+lastChange = "2024-12-16 14:03:42 +0000";
 layers = (
 {
 layerId = m01;
@@ -260116,41 +260013,6 @@ unicode = 702;
 },
 {
 color = 5;
-glyphname = uniA7AE;
-lastChange = "2024-11-10 17:58:05 +0000";
-layers = (
-{
-layerId = m01;
-shapes = (
-{
-ref = I;
-}
-);
-width = 315;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = I;
-}
-);
-width = 315;
-},
-{
-layerId = m003;
-shapes = (
-{
-ref = I;
-}
-);
-width = 315;
-}
-);
-unicode = 42926;
-},
-{
-color = 5;
 glyphname = _part.singlebristle;
 lastChange = "2024-07-31 22:05:26 +0000";
 layers = (
@@ -272977,5 +272839,5 @@ KernOnRegenerateGroups = 1;
 KernOnVersion = "1.32";
 };
 versionMajor = 1;
-versionMinor = 103;
+versionMinor = 104;
 }
